@@ -1,0 +1,36 @@
+[
+  {
+    "assetId": "0x0400f618a21ed4c788f7eaad6888d99ee62e92b94468a7a12bf1f3fb77655d61",
+    "birthTxHash": null,
+    "blockchainId": "73326563941525031798300600134815181881534461333471171864354657685435281005672",
+    "name": "Thomas Vermaelen 2021-22 • Limited 395/1000",
+    "owner": {
+      "address": "0x06883dc6f451d80a6083fb082b74557b2e66b341f34593b58d818de1fc18790a",
+      "from": "2022-05-06T17:56:42Z"
+    },
+    "ownerSince": "2022-05-06T17:56:42Z",
+    "player": {
+      "age": 30,
+      "birthDate": "1985-11-14T00:00:00+00:00",
+      "bestFoot": "right",
+      "firstName": "Thomas",
+      "lastName": "Vermaelen",
+      "displayName": "Thomas Vermaelen",
+      "height": 181,
+      "weight": 76,
+      "slug": "thomas-vermaelen",
+      "shirtNumber": 0,
+      "activeClub": null,
+      "lastClub": {
+        "name": "Olympiakos CFP",
+        "slug": "olympiakos-piraeus-pireas-piraeus"
+      }
+    },
+    "rarity": "limited",
+    "season": {
+      "id": "Season:832ef2c6-0c8b-40ec-8b68-fbf0bfa7cd39",
+      "name": "2021-22",
+      "startYear": 2021
+    }
+  }
+]

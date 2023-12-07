@@ -1,0 +1,2241 @@
+seasonID,seasonYear,startDate,endDate,leagueName,leagueType,leagueCountry
+1,2020,2019-03-21,2021-07-11,Euro Championship,Cup,World
+2,2009,2009-06-14,2009-06-28,Confederations Cup,Cup,World
+3,2013,2013-06-15,2013-06-30,Confederations Cup,Cup,World
+4,2017,2017-06-17,2017-07-02,Confederations Cup,Cup,World
+5,2010,2010-08-07,2011-05-29,Ligue 1,League,France
+6,2011,2011-08-06,2012-05-20,Ligue 1,League,France
+7,2012,2012-08-10,2013-05-26,Ligue 1,League,France
+8,2013,2013-08-09,2014-05-17,Ligue 1,League,France
+9,2014,2014-08-08,2015-05-23,Ligue 1,League,France
+10,2015,2015-08-07,2016-05-14,Ligue 1,League,France
+11,2016,2016-08-12,2017-05-20,Ligue 1,League,France
+12,2017,2017-08-04,2018-05-19,Ligue 1,League,France
+13,2018,2018-08-10,2019-05-24,Ligue 1,League,France
+14,2019,2019-08-09,2020-05-23,Ligue 1,League,France
+15,2020,2020-08-21,2021-05-30,Ligue 1,League,France
+16,2021,2021-08-06,2022-05-29,Ligue 1,League,France
+17,2022,2022-08-05,2023-06-03,Ligue 1,League,France
+18,2010,2010-07-30,2011-05-16,Jupiler Pro League,League,Belgium
+19,2011,2011-07-29,2012-05-20,Jupiler Pro League,League,Belgium
+20,2012,2012-07-28,2013-05-26,Jupiler Pro League,League,Belgium
+21,2013,2013-07-26,2014-05-18,Jupiler Pro League,League,Belgium
+22,2014,2014-07-25,2015-05-31,Jupiler Pro League,League,Belgium
+23,2015,2015-07-24,2016-05-29,Jupiler Pro League,League,Belgium
+24,2016,2016-07-29,2017-05-21,Jupiler Pro League,League,Belgium
+25,2017,2017-07-28,2018-05-20,Jupiler Pro League,League,Belgium
+26,2018,2018-07-27,2019-05-19,Jupiler Pro League,League,Belgium
+27,2019,2019-07-26,2020-03-15,Jupiler Pro League,League,Belgium
+28,2020,2020-08-08,2021-05-23,Jupiler Pro League,League,Belgium
+29,2021,2021-07-23,2022-05-29,Jupiler Pro League,League,Belgium
+30,2022,2022-07-22,2023-04-21,Jupiler Pro League,League,Belgium
+31,2010,2010-05-08,2010-11-28,Serie A,League,Brazil
+32,2011,2011-05-21,2011-12-04,Serie A,League,Brazil
+33,2012,2012-05-19,2012-12-02,Serie A,League,Brazil
+34,2013,2013-05-25,2013-12-08,Serie A,League,Brazil
+35,2014,2014-04-19,2014-12-07,Serie A,League,Brazil
+36,2015,2015-05-09,2015-12-06,Serie A,League,Brazil
+37,2016,2016-05-14,2016-12-11,Serie A,League,Brazil
+38,2017,2017-05-13,2017-12-03,Serie A,League,Brazil
+39,2018,2018-04-14,2018-12-02,Serie A,League,Brazil
+40,2019,2019-04-27,2019-12-08,Serie A,League,Brazil
+41,2020,2020-08-08,2021-02-26,Serie A,League,Brazil
+42,2021,2021-05-29,2021-12-10,Serie A,League,Brazil
+43,2022,2022-04-10,2022-11-13,Serie A,League,Brazil
+44,2010,2010-08-14,2011-05-17,Premier League,League,England
+45,2011,2011-08-13,2012-05-13,Premier League,League,England
+46,2012,2012-08-18,2013-05-19,Premier League,League,England
+47,2013,2013-08-17,2014-05-11,Premier League,League,England
+48,2014,2014-08-16,2015-05-24,Premier League,League,England
+49,2015,2015-08-08,2016-05-17,Premier League,League,England
+50,2016,2016-08-13,2017-05-21,Premier League,League,England
+51,2017,2017-08-11,2018-05-13,Premier League,League,England
+52,2018,2018-08-10,2019-05-12,Premier League,League,England
+53,2019,2019-08-09,2020-07-26,Premier League,League,England
+54,2020,2020-09-12,2021-05-23,Premier League,League,England
+55,2021,2021-08-13,2022-05-22,Premier League,League,England
+56,2022,2022-08-05,2023-05-28,Premier League,League,England
+57,2010,2010-08-20,2011-05-14,Bundesliga,League,Germany
+58,2011,2011-08-05,2012-05-05,Bundesliga,League,Germany
+59,2012,2012-08-24,2013-05-18,Bundesliga,League,Germany
+60,2013,2013-08-09,2014-05-10,Bundesliga,League,Germany
+61,2014,2014-08-22,2015-05-23,Bundesliga,League,Germany
+62,2015,2015-08-14,2016-05-14,Bundesliga,League,Germany
+63,2016,2016-08-26,2017-05-20,Bundesliga,League,Germany
+64,2017,2017-08-18,2018-05-12,Bundesliga,League,Germany
+65,2018,2018-08-24,2019-05-27,Bundesliga,League,Germany
+66,2019,2019-08-16,2020-07-06,Bundesliga,League,Germany
+67,2020,2020-09-18,2021-05-29,Bundesliga,League,Germany
+68,2021,2021-08-13,2022-05-23,Bundesliga,League,Germany
+69,2022,2022-08-05,2023-05-27,Bundesliga,League,Germany
+70,2010,2010-08-28,2011-05-22,Serie A,League,Italy
+71,2011,2011-09-09,2012-05-13,Serie A,League,Italy
+72,2012,2012-08-25,2013-05-19,Serie A,League,Italy
+73,2013,2013-08-24,2014-05-18,Serie A,League,Italy
+74,2014,2014-08-30,2015-05-31,Serie A,League,Italy
+75,2015,2015-08-22,2016-05-15,Serie A,League,Italy
+76,2016,2016-08-20,2017-05-28,Serie A,League,Italy
+77,2017,2017-08-19,2018-05-20,Serie A,League,Italy
+78,2018,2018-08-18,2019-05-26,Serie A,League,Italy
+79,2019,2019-08-24,2020-08-02,Serie A,League,Italy
+80,2020,2020-09-19,2021-05-23,Serie A,League,Italy
+81,2021,2021-08-21,2022-05-22,Serie A,League,Italy
+82,2022,2022-08-13,2023-06-04,Serie A,League,Italy
+83,2010,2010-08-06,2011-05-29,Eredivisie,League,Netherlands
+84,2011,2011-08-05,2012-05-20,Eredivisie,League,Netherlands
+85,2012,2012-08-10,2013-05-26,Eredivisie,League,Netherlands
+86,2013,2013-08-02,2014-05-18,Eredivisie,League,Netherlands
+87,2014,2014-08-08,2015-05-31,Eredivisie,League,Netherlands
+88,2015,2015-08-08,2016-05-22,Eredivisie,League,Netherlands
+89,2016,2016-08-05,2017-05-28,Eredivisie,League,Netherlands
+90,2017,2017-08-11,2018-05-19,Eredivisie,League,Netherlands
+91,2018,2018-08-10,2019-05-28,Eredivisie,League,Netherlands
+92,2019,2019-08-02,2020-05-10,Eredivisie,League,Netherlands
+93,2020,2020-09-12,2021-05-23,Eredivisie,League,Netherlands
+94,2021,2021-08-13,2022-05-29,Eredivisie,League,Netherlands
+95,2022,2022-08-05,2023-05-28,Eredivisie,League,Netherlands
+96,2010,2010-08-13,2011-05-14,Primeira Liga,League,Portugal
+97,2011,2011-08-12,2012-05-12,Primeira Liga,League,Portugal
+98,2012,2012-08-17,2013-05-19,Primeira Liga,League,Portugal
+99,2013,2013-08-16,2014-05-11,Primeira Liga,League,Portugal
+100,2014,2014-08-15,2015-05-23,Primeira Liga,League,Portugal
+101,2015,2015-08-14,2016-05-15,Primeira Liga,League,Portugal
+102,2016,2016-08-12,2017-05-21,Primeira Liga,League,Portugal
+103,2017,2017-08-06,2018-05-13,Primeira Liga,League,Portugal
+104,2018,2018-08-10,2019-05-19,Primeira Liga,League,Portugal
+105,2019,2019-08-09,2020-07-26,Primeira Liga,League,Portugal
+106,2020,2020-09-18,2021-05-30,Primeira Liga,League,Portugal
+107,2021,2021-08-06,2022-05-29,Primeira Liga,League,Portugal
+108,2022,2022-08-07,2023-05-28,Primeira Liga,League,Portugal
+109,2010,2010-08-28,2011-05-21,La Liga,League,Spain
+110,2011,2011-08-27,2012-05-13,La Liga,League,Spain
+111,2012,2012-08-18,2013-06-01,La Liga,League,Spain
+112,2013,2013-08-17,2014-05-18,La Liga,League,Spain
+113,2014,2014-08-23,2015-05-23,La Liga,League,Spain
+114,2015,2015-08-21,2016-05-15,La Liga,League,Spain
+115,2016,2016-08-19,2017-05-21,La Liga,League,Spain
+116,2017,2017-08-18,2018-05-20,La Liga,League,Spain
+117,2018,2018-08-17,2019-05-19,La Liga,League,Spain
+118,2019,2019-08-16,2020-07-19,La Liga,League,Spain
+119,2020,2020-09-12,2021-05-23,La Liga,League,Spain
+120,2021,2021-08-13,2022-05-22,La Liga,League,Spain
+121,2022,2022-08-12,2023-06-04,La Liga,League,Spain
+122,2010,2010-08-14,2011-05-10,Premiership,League,Scotland
+123,2011,2011-07-23,2012-05-13,Premiership,League,Scotland
+124,2012,2012-08-04,2013-05-19,Premiership,League,Scotland
+125,2013,2013-08-02,2014-05-11,Premiership,League,Scotland
+126,2014,2014-08-09,2015-05-24,Premiership,League,Scotland
+127,2015,2015-08-01,2016-05-15,Premiership,League,Scotland
+128,2016,2016-08-06,2017-05-21,Premiership,League,Scotland
+129,2017,2017-08-05,2018-05-13,Premiership,League,Scotland
+130,2018,2018-08-04,2019-05-19,Premiership,League,Scotland
+131,2019,2019-08-03,2020-04-05,Premiership,League,Scotland
+132,2020,2020-08-01,2021-05-24,Premiership,League,Scotland
+133,2021,2021-07-31,2022-05-23,Premiership,League,Scotland
+134,2022,2022-07-30,2023-04-22,Premiership,League,Scotland
+135,2010,2010-08-07,2011-04-26,Championship,League,Scotland
+136,2011,2011-08-06,2012-05-05,Championship,League,Scotland
+137,2012,2012-08-11,2013-05-04,Championship,League,Scotland
+138,2013,2013-08-10,2014-05-03,Championship,League,Scotland
+139,2014,2014-08-09,2015-05-02,Championship,League,Scotland
+140,2015,2015-08-07,2016-05-01,Championship,League,Scotland
+141,2016,2016-08-06,2017-05-06,Championship,League,Scotland
+142,2017,2017-08-05,2018-04-28,Championship,League,Scotland
+143,2018,2018-08-04,2019-05-04,Championship,League,Scotland
+144,2019,2019-08-02,2020-05-02,Championship,League,Scotland
+145,2020,2020-10-16,2021-04-30,Championship,League,Scotland
+146,2021,2021-07-31,2022-05-15,Championship,League,Scotland
+147,2022,2022-07-30,2023-05-05,Championship,League,Scotland
+148,2010,2010-06-11,2010-07-11,World Cup,Cup,World
+149,2014,2014-06-12,2014-07-13,World Cup,Cup,World
+150,2018,2018-06-14,2018-07-15,World Cup,Cup,World
+151,2010,2010-08-06,2011-05-20,Ligue 2,League,France
+152,2011,2011-07-29,2012-05-18,Ligue 2,League,France
+153,2012,2012-07-27,2013-05-24,Ligue 2,League,France
+154,2013,2013-08-02,2014-05-16,Ligue 2,League,France
+155,2014,2014-08-01,2015-05-22,Ligue 2,League,France
+156,2015,2015-07-31,2016-05-13,Ligue 2,League,France
+157,2016,2016-07-29,2017-05-19,Ligue 2,League,France
+158,2017,2017-07-28,2018-05-20,Ligue 2,League,France
+159,2018,2018-07-27,2019-05-17,Ligue 2,League,France
+160,2019,2019-07-26,2020-05-15,Ligue 2,League,France
+161,2020,2020-08-22,2021-05-22,Ligue 2,League,France
+162,2021,2021-07-24,2022-05-29,Ligue 2,League,France
+163,2022,2022-07-30,2023-06-02,Ligue 2,League,France
+164,2011,2011-06-28,2012-05-19,UEFA Champions League,Cup,World
+165,2012,2012-07-03,2013-05-25,UEFA Champions League,Cup,World
+166,2013,2013-07-02,2014-05-24,UEFA Champions League,Cup,World
+167,2014,2014-07-01,2015-06-06,UEFA Champions League,Cup,World
+168,2015,2015-06-30,2016-05-28,UEFA Champions League,Cup,World
+169,2016,2016-06-28,2017-06-03,UEFA Champions League,Cup,World
+170,2017,2017-06-27,2018-05-26,UEFA Champions League,Cup,World
+171,2018,2018-06-26,2019-06-01,UEFA Champions League,Cup,World
+172,2019,2019-06-25,2020-08-23,UEFA Champions League,Cup,World
+173,2020,2020-08-08,2021-05-29,UEFA Champions League,Cup,World
+174,2021,2021-06-22,2022-05-28,UEFA Champions League,Cup,World
+175,2022,2022-06-21,2022-11-02,UEFA Champions League,Cup,World
+176,2011,2011-09-10,2012-05-12,1st Division,League,Albania
+177,2012,2012-09-01,2013-05-12,1st Division,League,Albania
+178,2013,2013-08-31,2014-05-10,1st Division,League,Albania
+179,2014,2014-09-27,2015-05-23,1st Division,League,Albania
+180,2015,2015-09-12,2016-05-19,1st Division,League,Albania
+181,2016,2016-09-24,2017-05-26,1st Division,League,Albania
+182,2017,2017-09-16,2018-05-16,1st Division,League,Albania
+183,2018,2018-09-08,2019-05-23,1st Division,League,Albania
+184,2019,2019-09-14,2020-08-05,1st Division,League,Albania
+185,2020,2020-11-04,2021-05-26,1st Division,League,Albania
+186,2021,2021-09-11,2022-05-23,1st Division,League,Albania
+187,2022,2022-09-03,2023-05-06,1st Division,League,Albania
+188,2011,2011-09-10,2012-05-12,Superliga,League,Albania
+189,2012,2012-08-24,2013-05-11,Superliga,League,Albania
+190,2013,2013-08-31,2014-05-10,Superliga,League,Albania
+191,2014,2014-08-23,2015-05-22,Superliga,League,Albania
+192,2015,2015-08-21,2016-05-18,Superliga,League,Albania
+193,2017,2017-09-09,2018-05-23,Superliga,League,Albania
+194,2018,2018-08-17,2019-05-30,Superliga,League,Albania
+195,2019,2019-08-23,2020-08-02,Superliga,League,Albania
+196,2020,2020-11-04,2021-05-30,Superliga,League,Albania
+197,2021,2021-09-10,2022-05-31,Superliga,League,Albania
+198,2022,2022-08-19,2023-05-24,Superliga,League,Albania
+199,2011,2011-09-06,2012-05-19,Ligue 1,League,Algeria
+200,2012,2012-09-07,2013-05-21,Ligue 1,League,Algeria
+201,2013,2013-08-24,2014-05-24,Ligue 1,League,Algeria
+202,2014,2014-08-15,2015-05-29,Ligue 1,League,Algeria
+203,2015,2015-08-13,2016-05-27,Ligue 1,League,Algeria
+204,2016,2016-08-19,2017-06-14,Ligue 1,League,Algeria
+205,2017,2017-08-25,2018-05-19,Ligue 1,League,Algeria
+206,2018,2018-08-10,2019-05-26,Ligue 1,League,Algeria
+207,2019,2019-08-15,2020-03-16,Ligue 1,League,Algeria
+208,2020,2020-11-27,2021-08-28,Ligue 1,League,Algeria
+209,2021,2021-10-22,2022-06-14,Ligue 1,League,Algeria
+210,2022,2022-08-26,2022-11-10,Ligue 1,League,Algeria
+211,2013,2013-08-23,2014-05-16,Ligue 2,League,Algeria
+212,2015,2015-08-14,2016-05-06,Ligue 2,League,Algeria
+213,2016,2016-09-09,2017-05-13,Ligue 2,League,Algeria
+214,2017,2017-08-25,2018-05-15,Ligue 2,League,Algeria
+215,2018,2018-08-10,2019-05-04,Ligue 2,League,Algeria
+216,2019,2019-08-23,2020-03-14,Ligue 2,League,Algeria
+217,2020,2021-02-12,2021-07-18,Ligue 2,League,Algeria
+218,2021,2021-10-26,2022-05-21,Ligue 2,League,Algeria
+219,2022,2022-09-23,2022-11-19,Ligue 2,League,Algeria
+220,2011,2011-07-15,2012-05-06,Cup,Cup,Ukraine
+221,2012,2012-07-24,2013-05-22,Cup,Cup,Ukraine
+222,2013,2013-07-24,2014-05-15,Cup,Cup,Ukraine
+223,2014,2014-08-06,2015-06-04,Cup,Cup,Ukraine
+224,2015,2015-07-22,2016-05-21,Cup,Cup,Ukraine
+225,2016,2016-07-20,2017-05-17,Cup,Cup,Ukraine
+226,2017,2017-07-09,2018-05-09,Cup,Cup,Ukraine
+227,2018,2018-07-17,2019-05-15,Cup,Cup,Ukraine
+228,2019,2019-08-20,2020-07-08,Cup,Cup,Ukraine
+229,2020,2020-08-26,2021-05-13,Cup,Cup,Ukraine
+230,2021,2021-08-04,2022-03-02,Cup,Cup,Ukraine
+231,2012,2012-07-14,2012-11-24,Druha Liga - Group A,League,Ukraine
+232,2013,2013-07-14,2014-06-11,Druha Liga - Group A,League,Ukraine
+233,2014,2014-07-25,2015-06-03,Druha Liga - Group A,League,Ukraine
+234,2015,2015-07-26,2016-06-01,Druha Liga - Group A,League,Ukraine
+235,2016,2016-07-23,2017-06-02,Druha Liga - Group A,League,Ukraine
+236,2017,2017-07-14,2018-06-02,Druha Liga - Group A,League,Ukraine
+237,2018,2018-07-22,2019-05-25,Druha Liga - Group A,League,Ukraine
+238,2019,2019-07-27,2020-05-22,Druha Liga - Group A,League,Ukraine
+239,2020,2020-09-06,2021-06-11,Druha Liga - Group A,League,Ukraine
+240,2021,2021-07-24,2022-05-21,Druha Liga - Group A,League,Ukraine
+241,2011,2011-07-16,2012-05-30,Persha Liga,League,Ukraine
+242,2012,2012-07-13,2013-06-08,Persha Liga,League,Ukraine
+243,2013,2013-07-14,2014-05-31,Persha Liga,League,Ukraine
+244,2014,2014-07-26,2015-06-03,Persha Liga,League,Ukraine
+245,2015,2015-07-26,2016-06-01,Persha Liga,League,Ukraine
+246,2016,2016-07-24,2017-06-02,Persha Liga,League,Ukraine
+247,2017,2017-07-14,2018-05-19,Persha Liga,League,Ukraine
+248,2018,2018-07-20,2019-05-26,Persha Liga,League,Ukraine
+249,2019,2019-07-27,2020-08-20,Persha Liga,League,Ukraine
+250,2020,2020-09-05,2021-06-12,Persha Liga,League,Ukraine
+251,2021,2021-07-24,2022-05-21,Persha Liga,League,Ukraine
+252,2022,2022-08-27,2022-11-26,Persha Liga,League,Ukraine
+253,2011,2011-07-08,2012-05-10,Premier League,League,Ukraine
+254,2012,2012-07-13,2013-05-26,Premier League,League,Ukraine
+255,2013,2013-07-12,2014-05-18,Premier League,League,Ukraine
+256,2014,2014-07-25,2015-05-31,Premier League,League,Ukraine
+257,2015,2015-07-17,2016-05-15,Premier League,League,Ukraine
+258,2016,2016-07-22,2017-05-31,Premier League,League,Ukraine
+259,2017,2017-07-16,2018-05-20,Premier League,League,Ukraine
+260,2018,2018-07-22,2019-05-30,Premier League,League,Ukraine
+261,2019,2019-07-28,2020-07-29,Premier League,League,Ukraine
+262,2020,2020-08-21,2021-05-15,Premier League,League,Ukraine
+263,2021,2021-07-23,2022-05-21,Premier League,League,Ukraine
+264,2022,2022-08-23,2023-06-03,Premier League,League,Ukraine
+265,2011,2011-10-15,2012-05-27,Pro League,League,United-Arab-Emirates
+266,2018,2018-08-30,2019-05-26,Pro League,League,United-Arab-Emirates
+267,2012,2012-10-13,2013-07-20,Segunda División,League,Uruguay
+268,2013,2013-10-12,2014-07-06,Segunda División,League,Uruguay
+269,2014,2014-09-13,2015-06-13,Segunda División,League,Uruguay
+270,2015,2015-10-24,2016-06-11,Segunda División,League,Uruguay
+271,2016,2016-09-10,2016-12-10,Segunda División,League,Uruguay
+272,2017,2017-04-15,2017-12-16,Segunda División,League,Uruguay
+273,2018,2018-03-03,2018-10-27,Segunda División,League,Uruguay
+274,2019,2019-05-04,2019-12-14,Segunda División,League,Uruguay
+275,2020,2020-08-12,2021-01-29,Segunda División,League,Uruguay
+276,2021,2021-06-01,2021-12-11,Segunda División,League,Uruguay
+277,2022,2022-03-19,2022-10-23,Segunda División,League,Uruguay
+278,2011,2011-11-04,2012-10-03,Ligue 1,League,Tunisia
+279,2012,2012-11-10,2013-05-29,Ligue 1,League,Tunisia
+280,2013,2013-09-15,2014-05-13,Ligue 1,League,Tunisia
+281,2014,2014-08-13,2015-06-02,Ligue 1,League,Tunisia
+282,2015,2015-09-12,2016-06-12,Ligue 1,League,Tunisia
+283,2016,2016-09-08,2017-05-21,Ligue 1,League,Tunisia
+284,2017,2017-08-15,2018-05-10,Ligue 1,League,Tunisia
+285,2018,2018-08-18,2019-06-15,Ligue 1,League,Tunisia
+286,2019,2019-08-24,2020-09-13,Ligue 1,League,Tunisia
+287,2020,2020-12-06,2021-05-12,Ligue 1,League,Tunisia
+288,2021,2021-10-16,2022-06-30,Ligue 1,League,Tunisia
+289,2022,2022-10-07,2022-11-09,Ligue 1,League,Tunisia
+290,2011,2011-09-10,2012-05-12,Süper Lig,League,Turkey
+291,2012,2012-08-17,2013-05-19,Süper Lig,League,Turkey
+292,2013,2013-08-16,2014-05-18,Süper Lig,League,Turkey
+293,2014,2014-08-29,2015-05-30,Süper Lig,League,Turkey
+294,2015,2015-08-14,2016-05-19,Süper Lig,League,Turkey
+295,2016,2016-08-19,2017-06-03,Süper Lig,League,Turkey
+296,2017,2017-08-11,2018-05-19,Süper Lig,League,Turkey
+297,2018,2018-08-10,2019-05-26,Süper Lig,League,Turkey
+298,2019,2019-08-16,2020-07-26,Süper Lig,League,Turkey
+299,2020,2020-09-11,2021-05-15,Süper Lig,League,Turkey
+300,2021,2021-08-13,2022-05-22,Süper Lig,League,Turkey
+301,2022,2022-08-07,2023-05-28,Süper Lig,League,Turkey
+302,2011,2011-09-09,2012-05-27,1. Lig,League,Turkey
+303,2012,2012-08-25,2013-05-26,1. Lig,League,Turkey
+304,2013,2013-08-17,2014-05-18,1. Lig,League,Turkey
+305,2014,2014-08-29,2015-06-05,1. Lig,League,Turkey
+306,2015,2015-08-14,2016-05-27,1. Lig,League,Turkey
+307,2016,2016-08-19,2017-06-04,1. Lig,League,Turkey
+308,2017,2017-08-11,2018-05-19,1. Lig,League,Turkey
+309,2018,2018-08-10,2019-05-30,1. Lig,League,Turkey
+310,2019,2019-08-16,2020-07-30,1. Lig,League,Turkey
+311,2020,2020-09-11,2021-05-26,1. Lig,League,Turkey
+312,2021,2021-08-13,2022-06-02,1. Lig,League,Turkey
+313,2022,2022-08-14,2023-05-14,1. Lig,League,Turkey
+314,2011,2011-09-11,2012-05-20,2. Lig,League,Turkey
+315,2012,2012-09-09,2013-05-12,2. Lig,League,Turkey
+316,2013,2013-09-08,2014-05-11,2. Lig,League,Turkey
+317,2014,2014-08-31,2015-05-03,2. Lig,League,Turkey
+318,2015,2015-09-05,2016-04-30,2. Lig,League,Turkey
+319,2016,2016-09-03,2017-04-29,2. Lig,League,Turkey
+320,2017,2017-08-26,2018-05-05,2. Lig,League,Turkey
+321,2018,2018-09-01,2019-05-28,2. Lig,League,Turkey
+322,2019,2019-05-28,2020-07-28,2. Lig,League,Turkey
+323,2020,2020-09-20,2021-05-28,2. Lig,League,Turkey
+324,2021,2021-09-05,2022-05-29,2. Lig,League,Turkey
+325,2022,2022-08-28,2023-04-29,2. Lig,League,Turkey
+326,2011,2011-12-07,2012-05-16,Cup,Cup,Turkey
+327,2012,2012-09-19,2013-05-22,Cup,Cup,Turkey
+328,2013,2013-09-01,2014-05-07,Cup,Cup,Turkey
+329,2014,2014-09-03,2015-06-03,Cup,Cup,Turkey
+330,2015,2015-09-02,2016-05-26,Cup,Cup,Turkey
+331,2016,2016-08-29,2017-05-31,Cup,Cup,Turkey
+332,2017,2017-08-22,2018-05-10,Cup,Cup,Turkey
+333,2018,2018-08-28,2019-05-15,Cup,Cup,Turkey
+334,2019,2019-08-28,2020-07-29,Cup,Cup,Turkey
+335,2020,2020-10-13,2021-05-18,Cup,Cup,Turkey
+336,2021,2021-09-07,2022-05-26,Cup,Cup,Turkey
+337,2022,2022-09-13,2022-11-09,Cup,Cup,Turkey
+338,2011,2011-08-28,2012-05-13,3. Lig - Group 1,League,Turkey
+339,2012,2012-09-09,2013-05-05,3. Lig - Group 1,League,Turkey
+340,2013,2013-09-01,2014-05-04,3. Lig - Group 1,League,Turkey
+341,2014,2014-09-07,2015-05-10,3. Lig - Group 1,League,Turkey
+342,2015,2015-08-23,2016-04-30,3. Lig - Group 1,League,Turkey
+343,2016,2016-09-03,2017-04-29,3. Lig - Group 1,League,Turkey
+344,2017,2017-08-26,2018-05-05,3. Lig - Group 1,League,Turkey
+345,2018,2018-09-01,2019-05-04,3. Lig - Group 1,League,Turkey
+346,2019,2019-08-31,2020-04-25,3. Lig - Group 1,League,Turkey
+347,2020,2020-09-20,2021-05-02,3. Lig - Group 1,League,Turkey
+348,2021,2021-09-05,2022-05-01,3. Lig - Group 1,League,Turkey
+349,2022,2022-09-04,2023-04-29,3. Lig - Group 1,League,Turkey
+350,2011,2011-08-28,2012-05-13,3. Lig - Group 2,League,Turkey
+351,2012,2012-09-08,2013-05-05,3. Lig - Group 2,League,Turkey
+352,2013,2013-09-01,2014-05-04,3. Lig - Group 2,League,Turkey
+353,2014,2014-09-07,2015-05-10,3. Lig - Group 2,League,Turkey
+354,2015,2015-08-23,2016-04-30,3. Lig - Group 2,League,Turkey
+355,2016,2016-09-03,2017-04-29,3. Lig - Group 2,League,Turkey
+356,2017,2017-08-26,2018-05-05,3. Lig - Group 2,League,Turkey
+357,2018,2018-09-01,2019-05-04,3. Lig - Group 2,League,Turkey
+358,2019,2019-08-31,2020-04-25,3. Lig - Group 2,League,Turkey
+359,2020,2020-09-20,2021-05-02,3. Lig - Group 2,League,Turkey
+360,2021,2021-09-04,2022-04-30,3. Lig - Group 2,League,Turkey
+361,2022,2022-09-04,2023-04-29,3. Lig - Group 2,League,Turkey
+362,2011,2011-08-28,2012-05-13,3. Lig - Group 3,League,Turkey
+363,2012,2012-09-09,2013-05-05,3. Lig - Group 3,League,Turkey
+364,2013,2013-09-01,2014-05-04,3. Lig - Group 3,League,Turkey
+365,2014,2014-09-07,2015-05-10,3. Lig - Group 3,League,Turkey
+366,2015,2015-08-22,2016-05-01,3. Lig - Group 3,League,Turkey
+367,2016,2016-09-03,2017-05-13,3. Lig - Group 3,League,Turkey
+368,2017,2017-08-26,2018-05-06,3. Lig - Group 3,League,Turkey
+369,2018,2018-09-01,2019-05-04,3. Lig - Group 3,League,Turkey
+370,2019,2019-09-01,2020-04-25,3. Lig - Group 3,League,Turkey
+371,2020,2020-09-20,2021-05-02,3. Lig - Group 3,League,Turkey
+372,2021,2021-09-05,2022-04-30,3. Lig - Group 3,League,Turkey
+373,2022,2022-09-04,2023-04-29,3. Lig - Group 3,League,Turkey
+374,2011,2011-08-05,2012-05-26,National 1,League,France
+375,2012,2012-08-03,2013-05-24,National 1,League,France
+376,2013,2013-08-09,2014-05-23,National 1,League,France
+377,2014,2014-08-08,2015-05-22,National 1,League,France
+378,2015,2015-08-07,2016-06-03,National 1,League,France
+379,2016,2016-08-05,2017-05-19,National 1,League,France
+380,2011,2011-11-18,2012-04-28,Coupe de France,Cup,France
+381,2012,2012-11-16,2013-05-31,Coupe de France,Cup,France
+382,2013,2013-11-16,2014-05-03,Coupe de France,Cup,France
+383,2014,2014-11-15,2015-05-30,Coupe de France,Cup,France
+384,2015,2015-11-13,2016-05-21,Coupe de France,Cup,France
+385,2016,2016-11-11,2017-05-27,Coupe de France,Cup,France
+386,2017,2017-11-10,2018-05-08,Coupe de France,Cup,France
+387,2018,2018-11-16,2019-04-27,Coupe de France,Cup,France
+388,2019,2019-11-06,2020-07-24,Coupe de France,Cup,France
+389,2020,2020-11-21,2021-05-19,Coupe de France,Cup,France
+390,2021,2021-11-11,2022-05-08,Coupe de France,Cup,France
+391,2022,2022-10-28,2022-11-20,Coupe de France,Cup,France
+392,2011,2011-07-22,2012-04-14,Coupe de la Ligue,Cup,France
+393,2012,2012-08-07,2013-04-20,Coupe de la Ligue,Cup,France
+394,2013,2013-08-06,2014-04-19,Coupe de la Ligue,Cup,France
+395,2014,2014-08-12,2015-04-11,Coupe de la Ligue,Cup,France
+396,2015,2015-08-11,2016-04-23,Coupe de la Ligue,Cup,France
+397,2016,2016-08-09,2017-04-01,Coupe de la Ligue,Cup,France
+398,2017,2017-08-08,2018-03-31,Coupe de la Ligue,Cup,France
+399,2018,2018-08-14,2019-03-30,Coupe de la Ligue,Cup,France
+400,2019,2019-07-26,2020-07-31,Coupe de la Ligue,Cup,France
+401,2011,2011-08-13,2012-06-02,National 2 - Group A,League,France
+402,2012,2012-08-11,2013-05-25,National 2 - Group A,League,France
+403,2013,2013-08-17,2014-05-24,National 2 - Group A,League,France
+404,2014,2014-08-16,2015-05-23,National 2 - Group A,League,France
+405,2015,2015-08-15,2016-06-04,National 2 - Group A,League,France
+406,2016,2016-08-13,2017-05-20,National 2 - Group A,League,France
+407,2011,2011-08-13,2012-06-02,National 2 - Group B,League,France
+408,2012,2012-08-11,2013-03-13,National 2 - Group B,League,France
+409,2013,2013-08-17,2014-05-24,National 2 - Group B,League,France
+410,2014,2014-08-16,2015-05-23,National 2 - Group B,League,France
+411,2015,2015-08-15,2016-06-04,National 2 - Group B,League,France
+412,2016,2016-08-13,2017-05-20,National 2 - Group B,League,France
+413,2011,2011-08-13,2012-06-02,National 2 - Group C,League,France
+414,2012,2012-08-11,2013-05-25,National 2 - Group C,League,France
+415,2013,2013-08-17,2014-05-24,National 2 - Group C,League,France
+416,2014,2014-08-15,2015-05-23,National 2 - Group C,League,France
+417,2015,2015-08-15,2016-06-04,National 2 - Group C,League,France
+418,2016,2016-08-13,2017-05-20,National 2 - Group C,League,France
+419,2011,2011-08-13,2012-06-02,National 2 - Group D,League,France
+420,2012,2012-08-11,2013-05-25,National 2 - Group D,League,France
+421,2013,2013-08-17,2014-05-24,National 2 - Group D,League,France
+422,2014,2014-08-16,2015-05-23,National 2 - Group D,League,France
+423,2015,2015-08-14,2016-06-04,National 2 - Group D,League,France
+424,2016,2016-08-13,2017-05-20,National 2 - Group D,League,France
+425,2011,2011-10-14,2012-02-13,Premier League,League,Egypt
+426,2012,2013-02-02,2013-06-26,Premier League,League,Egypt
+427,2013,2013-12-24,2014-07-07,Premier League,League,Egypt
+428,2014,2014-09-15,2015-08-03,Premier League,League,Egypt
+429,2015,2015-10-20,2016-07-09,Premier League,League,Egypt
+430,2016,2016-09-15,2017-07-17,Premier League,League,Egypt
+431,2017,2017-09-08,2018-05-20,Premier League,League,Egypt
+432,2018,2018-07-31,2019-07-28,Premier League,League,Egypt
+433,2019,2019-09-21,2020-10-31,Premier League,League,Egypt
+434,2020,2020-12-11,2021-08-27,Premier League,League,Egypt
+435,2021,2021-10-25,2022-08-29,Premier League,League,Egypt
+436,2011,2011-07-30,2012-05-06,Primera Division,League,El-Salvador
+437,2012,2012-07-14,2013-05-26,Primera Division,League,El-Salvador
+438,2013,2013-08-04,2014-05-25,Primera Division,League,El-Salvador
+439,2014,2014-08-02,2015-05-24,Primera Division,League,El-Salvador
+440,2015,2015-08-01,2016-05-29,Primera Division,League,El-Salvador
+441,2016,2016-07-29,2017-05-21,Primera Division,League,El-Salvador
+442,2017,2017-07-29,2018-05-20,Primera Division,League,El-Salvador
+443,2018,2018-07-28,2019-05-26,Primera Division,League,El-Salvador
+444,2019,2019-07-27,2020-05-09,Primera Division,League,El-Salvador
+445,2020,2020-10-10,2021-05-30,Primera Division,League,El-Salvador
+446,2021,2021-08-01,2022-05-29,Primera Division,League,El-Salvador
+447,2022,2022-07-09,2022-11-06,Primera Division,League,El-Salvador
+448,2011,2011-03-05,2011-11-05,Meistriliiga,League,Estonia
+449,2012,2012-03-10,2012-11-03,Meistriliiga,League,Estonia
+450,2013,2013-03-02,2013-11-09,Meistriliiga,League,Estonia
+451,2014,2014-03-01,2014-11-08,Meistriliiga,League,Estonia
+452,2015,2015-03-06,2015-11-07,Meistriliiga,League,Estonia
+453,2016,2016-03-04,2016-11-05,Meistriliiga,League,Estonia
+454,2017,2017-03-03,2017-11-04,Meistriliiga,League,Estonia
+455,2018,2018-03-03,2018-11-10,Meistriliiga,League,Estonia
+456,2019,2019-03-08,2019-11-09,Meistriliiga,League,Estonia
+457,2020,2020-03-06,2020-12-13,Meistriliiga,League,Estonia
+458,2021,2021-03-13,2021-12-05,Meistriliiga,League,Estonia
+459,2022,2022-03-01,2022-11-12,Meistriliiga,League,Estonia
+460,2011,2011-08-23,2012-05-27,Erovnuli Liga 2,League,Georgia
+461,2012,2012-08-25,2013-05-27,Erovnuli Liga 2,League,Georgia
+462,2013,2013-08-30,2014-05-16,Erovnuli Liga 2,League,Georgia
+463,2014,2014-08-25,2015-05-23,Erovnuli Liga 2,League,Georgia
+464,2015,2015-09-02,2016-05-21,Erovnuli Liga 2,League,Georgia
+465,2016,2016-08-19,2016-12-10,Erovnuli Liga 2,League,Georgia
+466,2017,2017-03-04,2017-11-25,Erovnuli Liga 2,League,Georgia
+467,2011,2010-09-05,2011-06-15,Premier League,League,Ghana
+468,2012,2011-10-09,2012-06-06,Premier League,League,Ghana
+469,2016,2016-02-20,2016-09-18,Premier League,League,Ghana
+470,2017,2017-02-12,2017-10-22,Premier League,League,Ghana
+471,2018,2018-03-17,2018-06-23,Premier League,League,Ghana
+472,2020,2020-11-14,2021-07-18,Premier League,League,Ghana
+473,2021,2021-10-29,2022-07-31,Premier League,League,Ghana
+474,2022,2022-09-09,2023-06-09,Premier League,League,Ghana
+475,2013,2013-08-04,2014-05-18,Liga Nacional,League,Guatemala
+476,2014,2014-07-20,2015-05-24,Liga Nacional,League,Guatemala
+477,2015,2015-08-01,2016-05-29,Liga Nacional,League,Guatemala
+478,2016,2016-07-17,2017-05-28,Liga Nacional,League,Guatemala
+479,2018,2018-07-28,2019-05-26,Liga Nacional,League,Guatemala
+480,2019,2019-07-27,2020-06-07,Liga Nacional,League,Guatemala
+481,2020,2020-08-29,2021-05-24,Liga Nacional,League,Guatemala
+482,2021,2021-07-30,2022-05-30,Liga Nacional,League,Guatemala
+483,2022,2022-07-24,2022-11-27,Liga Nacional,League,Guatemala
+484,2011,2011-07-30,2012-05-26,Primera Division,League,Guatemala
+485,2012,2012-07-29,2013-06-02,Primera Division,League,Guatemala
+486,2013,2013-08-03,2014-06-01,Primera Division,League,Guatemala
+487,2014,2014-08-02,2015-05-24,Primera Division,League,Guatemala
+488,2015,2015-08-01,2016-05-22,Primera Division,League,Guatemala
+489,2016,2016-07-30,2017-06-04,Primera Division,League,Guatemala
+490,2017,2017-07-29,2018-05-27,Primera Division,League,Guatemala
+491,2018,2018-08-04,2019-05-31,Primera Division,League,Guatemala
+492,2019,2019-07-26,2020-08-22,Primera Division,League,Guatemala
+493,2020,2020-10-02,2021-05-15,Primera Division,League,Guatemala
+494,2021,2021-07-31,2022-06-05,Primera Division,League,Guatemala
+495,2022,2022-07-23,2022-11-13,Primera Division,League,Guatemala
+496,2011,2011-11-09,2012-04-04,Cup,Cup,Greece
+497,2012,2012-10-24,2013-05-11,Cup,Cup,Greece
+498,2013,2013-09-14,2014-04-26,Cup,Cup,Greece
+499,2014,2014-08-28,2015-05-23,Cup,Cup,Greece
+500,2015,2015-09-09,2016-05-17,Cup,Cup,Greece
+501,2016,2016-09-14,2017-05-06,Cup,Cup,Greece
+502,2017,2017-08-20,2018-05-12,Cup,Cup,Greece
+503,2018,2018-08-26,2019-05-11,Cup,Cup,Greece
+504,2019,2019-08-24,2020-09-12,Cup,Cup,Greece
+505,2020,2020-10-28,2021-05-22,Cup,Cup,Greece
+506,2021,2021-08-28,2022-05-21,Cup,Cup,Greece
+507,2011,2011-10-28,2012-05-23,Football League,League,Greece
+508,2012,2012-09-28,2013-05-26,Football League,League,Greece
+509,2013,2013-09-27,2014-06-01,Football League,League,Greece
+510,2014,2014-10-10,2015-06-14,Football League,League,Greece
+511,2015,2015-09-25,2016-05-29,Football League,League,Greece
+512,2016,2016-10-30,2017-06-11,Football League,League,Greece
+513,2017,2017-10-28,2018-05-28,Football League,League,Greece
+514,2018,2018-10-27,2019-05-05,Football League,League,Greece
+515,2019,2019-09-28,2020-03-29,Football League,League,Greece
+516,2020,2021-03-27,2021-06-27,Football League,League,Greece
+517,2011,2011-08-27,2012-05-20,Super League 1,League,Greece
+518,2012,2012-08-25,2013-06-02,Super League 1,League,Greece
+519,2013,2013-08-17,2014-05-17,Super League 1,League,Greece
+520,2014,2014-08-23,2015-06-07,Super League 1,League,Greece
+521,2015,2015-08-22,2016-05-31,Super League 1,League,Greece
+522,2016,2016-09-10,2017-05-31,Super League 1,League,Greece
+523,2017,2017-08-19,2018-05-07,Super League 1,League,Greece
+524,2018,2018-08-25,2019-05-05,Super League 1,League,Greece
+525,2011,2011-07-15,2012-05-06,2. Bundesliga,League,Germany
+526,2012,2012-08-03,2013-05-19,2. Bundesliga,League,Germany
+527,2013,2013-07-19,2014-05-11,2. Bundesliga,League,Germany
+528,2014,2014-08-01,2015-05-24,2. Bundesliga,League,Germany
+529,2015,2015-07-24,2016-05-15,2. Bundesliga,League,Germany
+530,2016,2016-08-05,2017-05-21,2. Bundesliga,League,Germany
+531,2017,2017-07-28,2018-05-13,2. Bundesliga,League,Germany
+532,2018,2018-08-03,2019-05-19,2. Bundesliga,League,Germany
+533,2019,2019-07-26,2020-07-11,2. Bundesliga,League,Germany
+534,2020,2020-09-18,2021-05-30,2. Bundesliga,League,Germany
+535,2021,2021-07-23,2022-05-24,2. Bundesliga,League,Germany
+536,2022,2022-07-15,2023-05-28,2. Bundesliga,League,Germany
+537,2011,2011-07-22,2012-05-05,3. Liga,League,Germany
+538,2012,2012-07-20,2013-05-18,3. Liga,League,Germany
+539,2013,2013-07-19,2014-05-10,3. Liga,League,Germany
+540,2014,2014-07-26,2015-05-23,3. Liga,League,Germany
+541,2015,2015-07-24,2016-05-14,3. Liga,League,Germany
+542,2016,2016-07-29,2017-05-20,3. Liga,League,Germany
+543,2017,2017-07-21,2018-05-12,3. Liga,League,Germany
+544,2018,2018-07-27,2019-05-18,3. Liga,League,Germany
+545,2019,2019-07-19,2020-07-04,3. Liga,League,Germany
+546,2020,2020-09-18,2021-05-22,3. Liga,League,Germany
+547,2021,2021-07-23,2022-05-14,3. Liga,League,Germany
+548,2022,2022-07-22,2023-05-27,3. Liga,League,Germany
+549,2011,2011-07-29,2012-05-12,DFB Pokal,Cup,Germany
+550,2012,2012-08-17,2013-06-01,DFB Pokal,Cup,Germany
+551,2013,2013-08-02,2014-05-17,DFB Pokal,Cup,Germany
+552,2014,2014-08-15,2015-05-30,DFB Pokal,Cup,Germany
+553,2015,2015-08-07,2016-05-21,DFB Pokal,Cup,Germany
+554,2016,2016-08-19,2017-05-27,DFB Pokal,Cup,Germany
+555,2017,2017-08-11,2018-05-19,DFB Pokal,Cup,Germany
+556,2018,2018-08-17,2019-05-25,DFB Pokal,Cup,Germany
+557,2019,2019-08-09,2020-07-04,DFB Pokal,Cup,Germany
+558,2020,2020-09-11,2021-05-13,DFB Pokal,Cup,Germany
+559,2021,2021-08-06,2022-05-21,DFB Pokal,Cup,Germany
+560,2022,2022-07-29,2023-01-31,DFB Pokal,Cup,Germany
+561,2011,2011-06-26,2011-07-17,World Cup - Women,Cup,World
+562,2013,2013-09-22,2014-05-07,2nd Division - Group A,League,Albania
+563,2014,2014-09-28,2015-05-17,2nd Division - Group A,League,Albania
+564,2015,2015-09-27,2016-05-08,2nd Division - Group A,League,Albania
+565,2016,2016-10-12,2017-05-14,2nd Division - Group A,League,Albania
+566,2017,2017-10-01,2018-05-13,2nd Division - Group A,League,Albania
+567,2018,2018-09-16,2019-05-19,2nd Division - Group A,League,Albania
+568,2019,2019-09-28,2020-07-25,2nd Division - Group A,League,Albania
+569,2020,2020-11-04,2021-05-22,2nd Division - Group A,League,Albania
+570,2021,2021-09-18,2022-04-24,2nd Division - Group A,League,Albania
+571,2022,2022-10-01,2023-04-30,2nd Division - Group A,League,Albania
+572,2013,2013-09-22,2014-05-04,2nd Division - Group B,League,Albania
+573,2014,2014-09-28,2015-05-10,2nd Division - Group B,League,Albania
+574,2015,2015-09-27,2016-05-08,2nd Division - Group B,League,Albania
+575,2016,2016-10-12,2017-05-14,2nd Division - Group B,League,Albania
+576,2017,2017-10-01,2018-05-13,2nd Division - Group B,League,Albania
+577,2018,2018-09-16,2019-05-19,2nd Division - Group B,League,Albania
+578,2019,2019-09-29,2020-07-19,2nd Division - Group B,League,Albania
+579,2020,2020-11-04,2021-05-23,2nd Division - Group B,League,Albania
+580,2021,2021-09-18,2022-04-24,2nd Division - Group B,League,Albania
+581,2022,2022-10-02,2023-04-30,2nd Division - Group B,League,Albania
+582,2012,2012-09-23,2013-04-21,1a Divisió,League,Andorra
+583,2013,2013-09-22,2014-05-04,1a Divisió,League,Andorra
+584,2014,2014-09-21,2015-05-03,1a Divisió,League,Andorra
+585,2015,2015-09-27,2016-05-08,1a Divisió,League,Andorra
+586,2016,2016-09-18,2017-05-21,1a Divisió,League,Andorra
+587,2017,2017-09-17,2018-05-13,1a Divisió,League,Andorra
+588,2018,2018-09-16,2019-05-19,1a Divisió,League,Andorra
+589,2019,2019-09-15,2020-08-01,1a Divisió,League,Andorra
+590,2020,2020-11-29,2021-06-02,1a Divisió,League,Andorra
+591,2021,2021-09-19,2022-06-01,1a Divisió,League,Andorra
+592,2022,2022-09-11,2023-05-21,1a Divisió,League,Andorra
+593,2019,2019-09-21,2020-07-11,2a Divisió,League,Andorra
+594,2020,2020-11-29,2021-05-23,2a Divisió,League,Andorra
+595,2021,2021-09-18,2022-05-22,2a Divisió,League,Andorra
+596,2022,2022-09-18,2023-03-26,2a Divisió,League,Andorra
+597,2011,2011-08-06,2012-05-25,Primera B Metropolitana,League,Argentina
+598,2012,2012-08-04,2013-06-22,Primera B Metropolitana,League,Argentina
+599,2013,2013-08-02,2014-06-09,Primera B Metropolitana,League,Argentina
+600,2014,2014-08-08,2014-12-08,Primera B Metropolitana,League,Argentina
+601,2015,2015-02-14,2015-12-07,Primera B Metropolitana,League,Argentina
+602,2016,2016-08-26,2017-08-03,Primera B Metropolitana,League,Argentina
+603,2017,2017-09-02,2018-05-26,Primera B Metropolitana,League,Argentina
+604,2018,2018-08-17,2019-06-20,Primera B Metropolitana,League,Argentina
+605,2019,2019-08-03,2021-01-03,Primera B Metropolitana,League,Argentina
+606,2021,2021-03-06,2021-12-19,Primera B Metropolitana,League,Argentina
+607,2022,2022-02-12,2022-11-05,Primera B Metropolitana,League,Argentina
+608,2011,2011-08-06,2012-06-23,Primera Nacional,League,Argentina
+609,2012,2012-08-11,2013-06-17,Primera Nacional,League,Argentina
+610,2013,2013-08-03,2014-06-11,Primera Nacional,League,Argentina
+611,2014,2014-08-09,2014-12-19,Primera Nacional,League,Argentina
+612,2015,2015-02-13,2015-12-06,Primera Nacional,League,Argentina
+613,2016,2016-08-27,2017-07-30,Primera Nacional,League,Argentina
+614,2017,2017-09-16,2018-06-03,Primera Nacional,League,Argentina
+615,2018,2018-08-25,2019-06-08,Primera Nacional,League,Argentina
+616,2013,2013-08-02,2014-06-09,Primera C,League,Argentina
+617,2014,2014-08-08,2014-12-08,Primera C,League,Argentina
+618,2011,2011-08-20,2012-06-24,Torneo Federal A,League,Argentina
+619,2012,2012-08-19,2013-06-09,Torneo Federal A,League,Argentina
+620,2013,2013-08-17,2014-06-08,Torneo Federal A,League,Argentina
+621,2011,2011-10-08,2012-04-22,A-League,League,Australia
+622,2012,2012-10-05,2013-04-21,A-League,League,Australia
+623,2013,2013-10-11,2014-05-04,A-League,League,Australia
+624,2014,2014-10-10,2015-05-17,A-League,League,Australia
+625,2015,2015-10-08,2016-05-01,A-League,League,Australia
+626,2016,2016-10-07,2017-05-07,A-League,League,Australia
+627,2017,2017-10-06,2018-05-05,A-League,League,Australia
+628,2018,2018-10-19,2019-05-05,A-League,League,Australia
+629,2019,2019-10-11,2020-08-30,A-League,League,Australia
+630,2020,2020-12-28,2021-06-26,A-League,League,Australia
+631,2021,2021-11-19,2022-05-28,A-League,League,Australia
+632,2011,2011-07-15,2012-05-20,Cup,Cup,Austria
+633,2012,2012-07-12,2013-05-30,Cup,Cup,Austria
+634,2013,2013-07-12,2014-05-18,Cup,Cup,Austria
+635,2014,2014-07-11,2015-06-03,Cup,Cup,Austria
+636,2015,2015-07-17,2016-05-19,Cup,Cup,Austria
+637,2016,2016-07-08,2017-06-01,Cup,Cup,Austria
+638,2017,2017-07-14,2018-05-09,Cup,Cup,Austria
+639,2018,2018-07-20,2019-05-01,Cup,Cup,Austria
+640,2019,2019-07-19,2020-05-29,Cup,Cup,Austria
+641,2020,2020-08-28,2021-05-01,Cup,Cup,Austria
+642,2021,2021-07-16,2022-05-01,Cup,Cup,Austria
+643,2022,2022-07-15,2023-02-03,Cup,Cup,Austria
+644,2011,2011-07-11,2012-05-18,2. Liga,League,Austria
+645,2012,2012-07-20,2013-05-24,2. Liga,League,Austria
+646,2013,2013-07-19,2014-05-23,2. Liga,League,Austria
+647,2014,2014-07-18,2015-05-29,2. Liga,League,Austria
+648,2015,2015-07-24,2016-05-25,2. Liga,League,Austria
+649,2016,2016-07-22,2017-05-26,2. Liga,League,Austria
+650,2017,2017-07-21,2018-05-25,2. Liga,League,Austria
+651,2011,2011-07-16,2012-05-17,Bundesliga,League,Austria
+652,2012,2012-07-21,2013-05-26,Bundesliga,League,Austria
+653,2013,2013-07-20,2014-05-12,Bundesliga,League,Austria
+654,2014,2014-07-19,2015-05-31,Bundesliga,League,Austria
+655,2015,2015-07-25,2016-05-15,Bundesliga,League,Austria
+656,2016,2016-07-23,2017-05-28,Bundesliga,League,Austria
+657,2017,2017-07-22,2018-05-27,Bundesliga,League,Austria
+658,2018,2018-07-27,2019-06-02,Bundesliga,League,Austria
+659,2019,2019-07-26,2020-07-15,Bundesliga,League,Austria
+660,2020,2020-09-11,2021-05-30,Bundesliga,League,Austria
+661,2021,2021-07-23,2022-05-29,Bundesliga,League,Austria
+662,2022,2022-07-22,2023-03-18,Bundesliga,League,Austria
+663,2011,2011-09-10,2012-05-12,Birinci Dasta,League,Azerbaidjan
+664,2012,2012-09-08,2013-05-19,Birinci Dasta,League,Azerbaidjan
+665,2013,2013-09-13,2014-05-18,Birinci Dasta,League,Azerbaidjan
+666,2014,2014-09-05,2015-05-27,Birinci Dasta,League,Azerbaidjan
+667,2015,2015-09-10,2016-05-13,Birinci Dasta,League,Azerbaidjan
+668,2016,2016-09-07,2017-04-27,Birinci Dasta,League,Azerbaidjan
+669,2017,2017-10-03,2018-05-11,Birinci Dasta,League,Azerbaidjan
+670,2018,2018-08-23,2019-05-10,Birinci Dasta,League,Azerbaidjan
+671,2019,2019-08-22,2020-05-06,Birinci Dasta,League,Azerbaidjan
+672,2020,2020-10-01,2021-05-17,Birinci Dasta,League,Azerbaidjan
+673,2021,2021-09-14,2022-05-17,Birinci Dasta,League,Azerbaidjan
+674,2022,2022-08-24,2023-05-23,Birinci Dasta,League,Azerbaidjan
+675,2013,2013-08-02,2014-05-17,Premyer Liqa,League,Azerbaidjan
+676,2014,2014-08-09,2015-05-28,Premyer Liqa,League,Azerbaidjan
+677,2015,2015-08-09,2016-05-20,Premyer Liqa,League,Azerbaidjan
+678,2018,2018-08-11,2019-05-11,Premyer Liqa,League,Azerbaidjan
+679,2019,2019-08-16,2020-07-29,Premyer Liqa,League,Azerbaidjan
+680,2020,2020-08-21,2021-05-22,Premyer Liqa,League,Azerbaidjan
+681,2021,2021-08-14,2022-05-21,Premyer Liqa,League,Azerbaidjan
+682,2022,2022-08-05,2023-05-28,Premyer Liqa,League,Azerbaidjan
+683,2011,2011-08-02,2012-06-01,Regionalliga - Mitte,League,Austria
+684,2012,2012-08-03,2013-06-01,Regionalliga - Mitte,League,Austria
+685,2013,2013-08-02,2014-05-30,Regionalliga - Mitte,League,Austria
+686,2014,2014-08-01,2015-05-29,Regionalliga - Mitte,League,Austria
+687,2015,2015-07-24,2016-06-01,Regionalliga - Mitte,League,Austria
+688,2016,2016-07-22,2017-06-09,Regionalliga - Mitte,League,Austria
+689,2017,2017-07-21,2018-05-18,Regionalliga - Mitte,League,Austria
+690,2018,2018-07-27,2019-06-07,Regionalliga - Mitte,League,Austria
+691,2019,2019-07-26,2020-06-05,Regionalliga - Mitte,League,Austria
+692,2020,2020-08-14,2021-06-04,Regionalliga - Mitte,League,Austria
+693,2021,2021-07-22,2022-06-10,Regionalliga - Mitte,League,Austria
+694,2022,2022-07-22,2023-06-09,Regionalliga - Mitte,League,Austria
+695,2011,2011-08-05,2012-05-31,Regionalliga - Ost,League,Austria
+696,2012,2012-08-03,2013-05-29,Regionalliga - Ost,League,Austria
+697,2013,2013-08-02,2014-05-28,Regionalliga - Ost,League,Austria
+698,2014,2014-08-01,2015-05-30,Regionalliga - Ost,League,Austria
+699,2015,2015-07-31,2016-06-03,Regionalliga - Ost,League,Austria
+700,2016,2016-08-05,2017-05-26,Regionalliga - Ost,League,Austria
+701,2017,2017-08-04,2018-05-27,Regionalliga - Ost,League,Austria
+702,2018,2018-08-03,2019-06-07,Regionalliga - Ost,League,Austria
+703,2019,2019-08-02,2020-05-30,Regionalliga - Ost,League,Austria
+704,2020,2020-08-21,2021-06-28,Regionalliga - Ost,League,Austria
+705,2021,2021-07-30,2022-05-29,Regionalliga - Ost,League,Austria
+706,2022,2022-07-29,2023-05-27,Regionalliga - Ost,League,Austria
+707,2011,2011-07-29,2012-05-28,Regionalliga - West,League,Austria
+708,2012,2012-07-27,2013-06-01,Regionalliga - West,League,Austria
+709,2013,2013-07-27,2014-05-31,Regionalliga - West,League,Austria
+710,2014,2014-07-25,2015-06-06,Regionalliga - West,League,Austria
+711,2015,2015-07-24,2016-06-01,Regionalliga - West,League,Austria
+712,2016,2016-07-22,2017-05-27,Regionalliga - West,League,Austria
+713,2017,2017-07-21,2018-05-19,Regionalliga - West,League,Austria
+714,2018,2018-07-27,2019-06-07,Regionalliga - West,League,Austria
+715,2019,2019-07-27,2020-06-12,Regionalliga - West,League,Austria
+716,2020,2020-08-01,2021-06-12,Regionalliga - West,League,Austria
+717,2021,2021-07-17,2022-04-02,Regionalliga - West,League,Austria
+718,2022,2022-07-23,2023-04-01,Regionalliga - West,League,Austria
+719,2011,2011-08-12,2012-05-19,Premier League,League,Wales
+720,2012,2012-08-17,2013-05-18,Premier League,League,Wales
+721,2013,2013-08-23,2014-05-17,Premier League,League,Wales
+722,2014,2014-08-22,2015-05-17,Premier League,League,Wales
+723,2015,2015-08-21,2016-05-14,Premier League,League,Wales
+724,2016,2016-08-12,2017-05-13,Premier League,League,Wales
+725,2017,2017-08-11,2018-05-20,Premier League,League,Wales
+726,2018,2018-08-10,2019-05-19,Premier League,League,Wales
+727,2019,2019-08-16,2020-04-25,Premier League,League,Wales
+728,2020,2020-09-12,2021-05-29,Premier League,League,Wales
+729,2021,2021-08-13,2022-05-14,Premier League,League,Wales
+730,2022,2022-08-12,2023-01-07,Premier League,League,Wales
+731,2011,2011-08-11,2012-05-31,Primera División,League,Venezuela
+732,2012,2012-08-11,2013-05-29,Primera División,League,Venezuela
+733,2013,2013-08-10,2014-05-28,Primera División,League,Venezuela
+734,2014,2014-08-09,2015-05-21,Primera División,League,Venezuela
+735,2015,2015-07-11,2015-12-13,Primera División,League,Venezuela
+736,2016,2016-01-29,2016-12-11,Primera División,League,Venezuela
+737,2017,2017-01-28,2017-12-17,Primera División,League,Venezuela
+738,2018,2018-01-27,2018-12-05,Primera División,League,Venezuela
+739,2019,2019-01-26,2019-12-15,Primera División,League,Venezuela
+740,2020,2020-01-30,2020-12-15,Primera División,League,Venezuela
+741,2021,2021-04-11,2021-12-11,Primera División,League,Venezuela
+742,2022,2022-02-24,2022-10-30,Primera División,League,Venezuela
+743,2012,2012-08-18,2013-05-26,Segunda División,League,Venezuela
+744,2013,2013-08-10,2014-05-24,Segunda División,League,Venezuela
+745,2015,2015-07-18,2015-11-14,Segunda División,League,Venezuela
+746,2016,2016-02-20,2016-11-26,Segunda División,League,Venezuela
+747,2017,2017-02-10,2017-12-20,Segunda División,League,Venezuela
+748,2018,2018-03-02,2018-12-06,Segunda División,League,Venezuela
+749,2019,2019-02-27,2019-12-07,Segunda División,League,Venezuela
+750,2020,2020-02-22,2020-12-10,Segunda División,League,Venezuela
+751,2021,2021-05-14,2021-11-15,Segunda División,League,Venezuela
+752,2022,2022-03-26,2022-10-16,Segunda División,League,Venezuela
+753,2011,2011-09-25,2012-05-21,Professional League,League,Oman
+754,2011,2011-09-11,2012-05-07,Premier League,League,Jamaica
+755,2012,2012-09-02,2013-05-12,Premier League,League,Jamaica
+756,2013,2013-09-15,2014-05-20,Premier League,League,Jamaica
+757,2014,2014-09-07,2015-06-02,Premier League,League,Jamaica
+758,2015,2015-09-06,2016-05-01,Premier League,League,Jamaica
+759,2016,2016-09-03,2017-06-06,Premier League,League,Jamaica
+760,2017,2017-09-24,2018-04-24,Premier League,League,Jamaica
+761,2018,2018-09-16,2019-04-30,Premier League,League,Jamaica
+762,2019,2019-09-01,2020-03-29,Premier League,League,Jamaica
+763,2021,2022-01-16,2022-07-03,Premier League,League,Jamaica
+764,2022,2022-10-23,2023-05-07,Premier League,League,Jamaica
+765,2012,2012-08-21,2013-05-05,League,League,Jordan
+766,2018,2018-08-24,2019-05-09,League,League,Jordan
+767,2022,2022-04-08,2022-11-04,League,League,Jordan
+768,2015,2015-04-03,2015-11-01,1. Division,League,Kazakhstan
+769,2017,2017-04-15,2017-10-29,1. Division,League,Kazakhstan
+770,2019,2019-04-05,2019-11-03,1. Division,League,Kazakhstan
+771,2020,2020-09-15,2020-10-31,1. Division,League,Kazakhstan
+772,2021,2021-04-11,2021-10-29,1. Division,League,Kazakhstan
+773,2022,2022-04-16,2022-11-05,1. Division,League,Kazakhstan
+774,2011,2011-12-30,2012-06-01,Premier League,League,Kuwait
+775,2012,2012-09-14,2013-04-19,Premier League,League,Kuwait
+776,2013,2013-08-30,2014-04-26,Premier League,League,Kuwait
+777,2014,2014-08-22,2015-05-10,Premier League,League,Kuwait
+778,2015,2015-10-15,2016-04-29,Premier League,League,Kuwait
+779,2016,2016-09-28,2017-05-25,Premier League,League,Kuwait
+780,2017,2017-09-14,2018-04-14,Premier League,League,Kuwait
+781,2018,2018-08-26,2019-05-09,Premier League,League,Kuwait
+782,2019,2019-09-14,2020-08-31,Premier League,League,Kuwait
+783,2020,2020-10-15,2021-05-17,Premier League,League,Kuwait
+784,2021,2021-11-19,2022-04-26,Premier League,League,Kuwait
+785,2022,2022-08-25,2022-11-12,Premier League,League,Kuwait
+786,2011,2011-07-16,2012-05-23,Superliga,League,Denmark
+787,2012,2012-07-13,2013-05-20,Superliga,League,Denmark
+788,2013,2013-07-19,2014-05-18,Superliga,League,Denmark
+789,2014,2014-07-18,2015-06-07,Superliga,League,Denmark
+790,2015,2015-07-17,2016-05-29,Superliga,League,Denmark
+791,2016,2016-07-15,2017-06-01,Superliga,League,Denmark
+792,2017,2017-07-14,2018-05-25,Superliga,League,Denmark
+793,2018,2018-07-13,2019-05-31,Superliga,League,Denmark
+794,2019,2019-07-12,2020-07-29,Superliga,League,Denmark
+795,2020,2020-09-11,2021-05-28,Superliga,League,Denmark
+796,2021,2021-07-16,2022-05-29,Superliga,League,Denmark
+797,2022,2022-07-15,2023-03-19,Superliga,League,Denmark
+798,2011,2011-08-12,2012-06-10,1. Division,League,Denmark
+799,2012,2012-07-28,2013-05-20,1. Division,League,Denmark
+800,2013,2013-07-25,2014-06-09,1. Division,League,Denmark
+801,2014,2014-07-25,2015-06-06,1. Division,League,Denmark
+802,2015,2015-07-23,2016-05-28,1. Division,League,Denmark
+803,2016,2016-07-21,2017-05-27,1. Division,League,Denmark
+804,2017,2017-07-27,2018-05-20,1. Division,League,Denmark
+805,2018,2018-07-29,2019-05-25,1. Division,League,Denmark
+806,2019,2019-07-26,2020-07-25,1. Division,League,Denmark
+807,2020,2020-09-10,2021-05-27,1. Division,League,Denmark
+808,2011,2011-08-07,2012-05-20,Liga Nacional,League,Honduras
+809,2012,2012-07-29,2013-05-19,Liga Nacional,League,Honduras
+810,2013,2013-08-11,2014-05-04,Liga Nacional,League,Honduras
+811,2014,2014-08-02,2015-05-24,Liga Nacional,League,Honduras
+812,2015,2015-08-01,2016-05-22,Liga Nacional,League,Honduras
+813,2016,2016-07-30,2017-05-28,Liga Nacional,League,Honduras
+814,2017,2017-07-30,2018-05-19,Liga Nacional,League,Honduras
+815,2018,2018-07-28,2019-06-02,Liga Nacional,League,Honduras
+816,2019,2019-07-27,2020-04-23,Liga Nacional,League,Honduras
+817,2020,2020-09-27,2021-05-20,Liga Nacional,League,Honduras
+818,2021,2021-08-08,2022-05-29,Liga Nacional,League,Honduras
+819,2022,2022-07-31,2022-11-13,Liga Nacional,League,Honduras
+820,2011,2011-09-03,2012-05-20,Premier League,League,Hong-Kong
+821,2012,2012-08-31,2013-05-05,Premier League,League,Hong-Kong
+822,2013,2013-08-30,2014-05-11,Premier League,League,Hong-Kong
+823,2014,2014-09-12,2015-05-09,Premier League,League,Hong-Kong
+824,2015,2015-09-12,2016-05-07,Premier League,League,Hong-Kong
+825,2017,2017-08-25,2018-05-13,Premier League,League,Hong-Kong
+826,2018,2018-08-31,2019-05-19,Premier League,League,Hong-Kong
+827,2019,2019-08-30,2020-10-11,Premier League,League,Hong-Kong
+828,2020,2020-11-21,2021-05-30,Premier League,League,Hong-Kong
+829,2021,2021-10-23,2022-05-01,Premier League,League,Hong-Kong
+830,2022,2022-08-27,2023-05-07,Premier League,League,Hong-Kong
+831,2011,2011-09-20,2012-05-01,Magyar Kupa,Cup,Hungary
+832,2012,2012-08-08,2013-05-22,Magyar Kupa,Cup,Hungary
+833,2013,2013-08-07,2014-05-25,Magyar Kupa,Cup,Hungary
+834,2014,2014-08-07,2015-05-20,Magyar Kupa,Cup,Hungary
+835,2015,2015-08-05,2016-05-07,Magyar Kupa,Cup,Hungary
+836,2016,2016-09-14,2017-05-31,Magyar Kupa,Cup,Hungary
+837,2017,2017-09-19,2018-05-23,Magyar Kupa,Cup,Hungary
+838,2018,2018-09-22,2019-05-25,Magyar Kupa,Cup,Hungary
+839,2019,2019-09-21,2020-06-03,Magyar Kupa,Cup,Hungary
+840,2020,2020-09-18,2021-05-03,Magyar Kupa,Cup,Hungary
+841,2021,2021-08-07,2022-05-11,Magyar Kupa,Cup,Hungary
+842,2022,2022-08-06,2023-02-08,Magyar Kupa,Cup,Hungary
+843,2011,2011-07-15,2012-05-27,NB I,League,Hungary
+844,2012,2012-07-27,2013-06-02,NB I,League,Hungary
+845,2013,2013-07-26,2014-06-01,NB I,League,Hungary
+846,2014,2014-07-25,2015-05-31,NB I,League,Hungary
+847,2015,2015-07-18,2016-04-30,NB I,League,Hungary
+848,2016,2016-07-16,2017-05-27,NB I,League,Hungary
+849,2017,2017-07-15,2018-06-02,NB I,League,Hungary
+850,2018,2018-07-21,2019-05-19,NB I,League,Hungary
+851,2019,2019-08-03,2020-06-23,NB I,League,Hungary
+852,2020,2020-08-14,2021-05-08,NB I,League,Hungary
+853,2021,2021-07-30,2022-05-14,NB I,League,Hungary
+854,2022,2022-07-30,2023-05-27,NB I,League,Hungary
+855,2011,2011-08-20,2012-06-03,NB II,League,Hungary
+856,2012,2012-08-18,2013-06-01,NB II,League,Hungary
+857,2013,2013-08-16,2014-06-01,NB II,League,Hungary
+858,2014,2014-08-16,2015-05-31,NB II,League,Hungary
+859,2015,2015-08-01,2016-06-05,NB II,League,Hungary
+860,2016,2016-07-31,2017-06-04,NB II,League,Hungary
+861,2017,2017-07-30,2018-06-03,NB II,League,Hungary
+862,2018,2018-07-29,2019-05-19,NB II,League,Hungary
+863,2019,2019-08-02,2020-06-29,NB II,League,Hungary
+864,2020,2020-08-01,2021-05-16,NB II,League,Hungary
+865,2021,2021-08-01,2022-05-22,NB II,League,Hungary
+866,2022,2022-07-31,2023-05-21,NB II,League,Hungary
+867,2011,2011-10-22,2012-05-04,Premier League,League,Lebanon
+868,2012,2012-09-28,2013-06-16,Premier League,League,Lebanon
+869,2013,2013-09-21,2014-05-18,Premier League,League,Lebanon
+870,2014,2014-09-26,2015-05-10,Premier League,League,Lebanon
+871,2015,2015-10-16,2016-05-19,Premier League,League,Lebanon
+872,2016,2016-09-09,2017-04-23,Premier League,League,Lebanon
+873,2017,2017-09-15,2018-04-15,Premier League,League,Lebanon
+874,2018,2018-09-21,2019-04-21,Premier League,League,Lebanon
+875,2019,2019-09-20,2020-01-18,Premier League,League,Lebanon
+876,2020,2020-10-03,2021-04-24,Premier League,League,Lebanon
+877,2021,2021-09-11,2022-05-06,Premier League,League,Lebanon
+878,2022,2022-09-02,2022-11-20,Premier League,League,Lebanon
+879,2019,2019-08-04,2020-05-16,National Division,League,Luxembourg
+880,2020,2020-08-22,2021-05-30,National Division,League,Luxembourg
+881,2021,2021-08-07,2022-05-22,National Division,League,Luxembourg
+882,2022,2022-08-07,2023-05-21,National Division,League,Luxembourg
+883,2011,2011-09-16,2012-04-13,Stars League,League,Qatar
+884,2012,2012-09-15,2013-04-18,Stars League,League,Qatar
+885,2013,2013-09-13,2014-04-11,Stars League,League,Qatar
+886,2014,2014-08-21,2015-04-16,Stars League,League,Qatar
+887,2015,2015-09-11,2016-04-16,Stars League,League,Qatar
+888,2016,2016-09-15,2017-04-15,Stars League,League,Qatar
+889,2017,2017-09-15,2018-04-08,Stars League,League,Qatar
+890,2018,2018-08-04,2019-04-17,Stars League,League,Qatar
+891,2019,2019-08-21,2020-08-20,Stars League,League,Qatar
+892,2020,2020-09-03,2021-05-04,Stars League,League,Qatar
+893,2021,2021-09-11,2022-03-19,Stars League,League,Qatar
+894,2022,2022-08-01,2022-12-30,Stars League,League,Qatar
+895,2011,2011-08-05,2012-05-19,Championship,League,England
+896,2012,2012-08-17,2013-05-27,Championship,League,England
+897,2013,2013-08-03,2014-05-24,Championship,League,England
+898,2014,2014-08-08,2015-05-25,Championship,League,England
+899,2015,2015-08-07,2016-05-28,Championship,League,England
+900,2016,2016-08-05,2017-05-29,Championship,League,England
+901,2017,2017-08-04,2018-05-26,Championship,League,England
+902,2018,2018-08-03,2019-05-27,Championship,League,England
+903,2019,2019-08-02,2020-08-04,Championship,League,England
+904,2020,2020-09-11,2021-05-29,Championship,League,England
+905,2021,2021-08-06,2022-05-29,Championship,League,England
+906,2022,2022-07-29,2023-05-06,Championship,League,England
+907,2011,2011-08-30,2012-03-25,EFL Trophy,Cup,England
+908,2012,2012-09-04,2013-04-07,EFL Trophy,Cup,England
+909,2013,2013-09-03,2014-03-30,EFL Trophy,Cup,England
+910,2014,2014-09-02,2015-03-22,EFL Trophy,Cup,England
+911,2015,2015-09-01,2016-04-03,EFL Trophy,Cup,England
+912,2011,2011-09-17,2012-05-05,FA Cup,Cup,England
+913,2012,2012-08-10,2013-05-11,FA Cup,Cup,England
+914,2013,2013-08-16,2014-05-17,FA Cup,Cup,England
+915,2014,2014-08-15,2015-05-30,FA Cup,Cup,England
+916,2015,2015-08-14,2016-05-21,FA Cup,Cup,England
+917,2016,2016-11-04,2017-05-27,FA Cup,Cup,England
+918,2017,2017-11-03,2018-05-19,FA Cup,Cup,England
+919,2018,2018-11-09,2019-05-18,FA Cup,Cup,England
+920,2019,2019-08-09,2020-08-01,FA Cup,Cup,England
+921,2020,2020-08-31,2021-05-15,FA Cup,Cup,England
+922,2021,2021-08-06,2022-05-14,FA Cup,Cup,England
+923,2022,2022-08-05,2022-11-07,FA Cup,Cup,England
+924,2011,2011-10-07,2012-05-12,FA Trophy,Cup,England
+925,2012,2012-09-15,2013-03-24,FA Trophy,Cup,England
+926,2013,2013-10-04,2014-03-23,FA Trophy,Cup,England
+927,2014,2014-10-17,2015-03-29,FA Trophy,Cup,England
+928,2015,2015-10-02,2016-05-22,FA Trophy,Cup,England
+929,2016,2016-10-08,2017-05-21,FA Trophy,Cup,England
+930,2017,2017-10-07,2018-05-20,FA Trophy,Cup,England
+931,2018,2018-10-12,2019-05-19,FA Trophy,Cup,England
+932,2019,2019-09-28,2020-03-28,FA Trophy,Cup,England
+933,2020,2020-09-26,2021-05-22,FA Trophy,Cup,England
+934,2021,2021-09-25,2022-05-22,FA Trophy,Cup,England
+935,2011,2011-07-29,2012-02-26,League Cup,Cup,England
+936,2012,2012-08-11,2013-02-24,League Cup,Cup,England
+937,2013,2013-08-05,2014-03-02,League Cup,Cup,England
+938,2014,2014-08-11,2015-03-01,League Cup,Cup,England
+939,2015,2015-08-11,2016-02-28,League Cup,Cup,England
+940,2016,2016-08-09,2017-02-26,League Cup,Cup,England
+941,2017,2017-08-08,2018-02-25,League Cup,Cup,England
+942,2018,2018-08-14,2019-02-24,League Cup,Cup,England
+943,2019,2019-08-06,2020-03-01,League Cup,Cup,England
+944,2020,2020-08-29,2021-04-25,League Cup,Cup,England
+945,2021,2021-07-31,2022-02-27,League Cup,Cup,England
+946,2022,2022-08-02,2022-11-08,League Cup,Cup,England
+947,2011,2011-08-12,2012-05-20,National League,League,England
+948,2012,2012-08-10,2013-04-20,National League,League,England
+949,2013,2013-08-10,2014-04-26,National League,League,England
+950,2014,2014-08-09,2015-04-25,National League,League,England
+951,2011,2011-08-06,2012-05-26,League One,League,England
+952,2012,2012-08-18,2013-05-19,League One,League,England
+953,2013,2013-08-02,2014-05-25,League One,League,England
+954,2014,2014-08-09,2015-05-24,League One,League,England
+955,2015,2015-08-08,2016-05-29,League One,League,England
+956,2016,2016-08-06,2017-05-20,League One,League,England
+957,2017,2017-08-05,2018-05-27,League One,League,England
+958,2018,2018-08-04,2019-05-26,League One,League,England
+959,2019,2019-08-03,2020-07-13,League One,League,England
+960,2020,2020-09-12,2021-05-30,League One,League,England
+961,2021,2021-08-07,2022-05-21,League One,League,England
+962,2022,2022-07-30,2023-05-06,League One,League,England
+963,2011,2011-08-06,2012-05-27,League Two,League,England
+964,2012,2012-08-18,2013-05-18,League Two,League,England
+965,2013,2013-08-03,2014-05-26,League Two,League,England
+966,2014,2014-08-09,2015-05-23,League Two,League,England
+967,2015,2015-08-08,2016-05-30,League Two,League,England
+968,2016,2016-08-06,2017-05-28,League Two,League,England
+969,2017,2017-08-05,2018-05-28,League Two,League,England
+970,2018,2018-08-04,2019-05-25,League Two,League,England
+971,2019,2019-08-03,2020-06-29,League Two,League,England
+972,2020,2020-09-12,2021-05-31,League Two,League,England
+973,2021,2021-08-07,2022-05-28,League Two,League,England
+974,2022,2022-07-30,2023-05-06,League Two,League,England
+975,2012,2012-07-26,2012-08-11,Olympics Men,Cup,World
+976,2016,2016-08-04,2016-08-20,Olympics Men,Cup,World
+977,2020,2021-07-22,2021-08-07,Olympics Men,Cup,World
+978,2012,2012-06-23,2012-10-21,Serie D,League,Brazil
+979,2013,2013-06-01,2013-11-03,Serie D,League,Brazil
+980,2014,2014-07-19,2014-11-16,Serie D,League,Brazil
+981,2015,2015-07-12,2015-11-14,Serie D,League,Brazil
+982,2016,2016-06-12,2016-10-02,Serie D,League,Brazil
+983,2017,2017-05-21,2017-09-10,Serie D,League,Brazil
+984,2018,2018-04-21,2018-08-04,Serie D,League,Brazil
+985,2019,2019-05-04,2019-08-18,Serie D,League,Brazil
+986,2020,2020-09-06,2021-02-06,Serie D,League,Brazil
+987,2021,2021-05-26,2021-11-13,Serie D,League,Brazil
+988,2022,2022-04-17,2022-09-25,Serie D,League,Brazil
+989,2012,2012-03-10,2012-12-01,Major League Soccer,League,USA
+990,2013,2013-03-02,2013-12-07,Major League Soccer,League,USA
+991,2014,2014-03-08,2014-12-07,Major League Soccer,League,USA
+992,2015,2015-03-07,2015-12-06,Major League Soccer,League,USA
+993,2016,2016-03-06,2016-12-11,Major League Soccer,League,USA
+994,2017,2017-03-04,2017-12-09,Major League Soccer,League,USA
+995,2018,2018-03-03,2018-12-09,Major League Soccer,League,USA
+996,2019,2019-03-02,2019-11-10,Major League Soccer,League,USA
+997,2020,2020-02-29,2020-12-13,Major League Soccer,League,USA
+998,2021,2021-04-17,2021-12-11,Major League Soccer,League,USA
+999,2022,2022-02-26,2022-11-05,Major League Soccer,League,USA
+1000,2012,2012-08-25,2012-12-10,Primera División - Apertura,League,Uruguay
+1001,2013,2013-08-17,2013-12-15,Primera División - Apertura,League,Uruguay
+1002,2014,2014-08-16,2014-12-07,Primera División - Apertura,League,Uruguay
+1003,2015,2015-08-15,2015-12-06,Primera División - Apertura,League,Uruguay
+1004,2016,2016-08-28,2016-12-11,Primera División - Apertura,League,Uruguay
+1005,2017,2017-02-04,2017-05-14,Primera División - Apertura,League,Uruguay
+1006,2018,2018-02-03,2018-05-06,Primera División - Apertura,League,Uruguay
+1007,2019,2019-02-16,2019-06-05,Primera División - Apertura,League,Uruguay
+1008,2020,2020-02-15,2020-10-14,Primera División - Apertura,League,Uruguay
+1009,2021,2021-05-15,2021-09-13,Primera División - Apertura,League,Uruguay
+1010,2022,2022-02-05,2022-07-23,Primera División - Apertura,League,Uruguay
+1011,2012,2012-02-18,2012-06-03,Primera División - Clausura,League,Uruguay
+1012,2013,2013-02-23,2013-06-02,Primera División - Clausura,League,Uruguay
+1013,2014,2014-02-01,2014-05-18,Primera División - Clausura,League,Uruguay
+1014,2015,2015-02-14,2015-06-07,Primera División - Clausura,League,Uruguay
+1015,2016,2016-02-06,2016-06-05,Primera División - Clausura,League,Uruguay
+1016,2017,2017-08-19,2017-12-03,Primera División - Clausura,League,Uruguay
+1017,2018,2018-07-21,2018-11-04,Primera División - Clausura,League,Uruguay
+1018,2019,2019-07-13,2019-12-15,Primera División - Clausura,League,Uruguay
+1019,2020,2021-01-16,2021-03-27,Primera División - Clausura,League,Uruguay
+1020,2021,2021-09-11,2021-12-18,Primera División - Clausura,League,Uruguay
+1021,2022,2022-07-30,2022-10-30,Primera División - Clausura,League,Uruguay
+1022,2013,2013-03-02,2013-11-03,Thai League 1,League,Thailand
+1023,2014,2014-02-22,2014-11-02,Thai League 1,League,Thailand
+1024,2015,2015-02-13,2015-12-13,Thai League 1,League,Thailand
+1025,2016,2016-03-05,2016-10-30,Thai League 1,League,Thailand
+1026,2012,2012-08-12,2012-08-12,Super Cup,Cup,Turkey
+1027,2013,2013-08-11,2013-08-11,Super Cup,Cup,Turkey
+1028,2014,2014-08-25,2014-08-25,Super Cup,Cup,Turkey
+1029,2012,2012-03-24,2012-10-06,Meistaradeildin,League,Faroe-Islands
+1030,2013,2013-03-09,2013-10-26,Meistaradeildin,League,Faroe-Islands
+1031,2014,2014-03-15,2014-10-25,Meistaradeildin,League,Faroe-Islands
+1032,2015,2015-03-01,2015-10-03,Meistaradeildin,League,Faroe-Islands
+1033,2016,2016-03-05,2016-10-22,Meistaradeildin,League,Faroe-Islands
+1034,2017,2017-03-12,2017-10-21,Meistaradeildin,League,Faroe-Islands
+1035,2018,2018-03-11,2018-10-27,Meistaradeildin,League,Faroe-Islands
+1036,2019,2019-03-10,2019-10-26,Meistaradeildin,League,Faroe-Islands
+1037,2020,2020-05-09,2020-11-07,Meistaradeildin,League,Faroe-Islands
+1038,2021,2021-03-06,2021-11-07,Meistaradeildin,League,Faroe-Islands
+1039,2022,2022-03-05,2022-10-22,Meistaradeildin,League,Faroe-Islands
+1040,2012,2012-04-27,2012-10-06,Ykkönen,League,Finland
+1041,2013,2013-04-29,2013-10-05,Ykkönen,League,Finland
+1042,2014,2014-04-26,2014-10-04,Ykkönen,League,Finland
+1043,2015,2015-05-02,2015-10-17,Ykkönen,League,Finland
+1044,2016,2016-04-24,2016-10-22,Ykkönen,League,Finland
+1045,2017,2017-04-29,2017-10-21,Ykkönen,League,Finland
+1046,2018,2018-04-28,2018-10-27,Ykkönen,League,Finland
+1047,2019,2019-04-27,2019-10-20,Ykkönen,League,Finland
+1048,2020,2020-06-27,2020-10-31,Ykkönen,League,Finland
+1049,2021,2021-05-05,2021-10-23,Ykkönen,League,Finland
+1050,2022,2022-04-18,2022-10-17,Ykkönen,League,Finland
+1051,2012,2012-04-15,2012-10-27,Veikkausliiga,League,Finland
+1052,2013,2013-04-13,2013-10-26,Veikkausliiga,League,Finland
+1053,2014,2014-04-06,2014-10-26,Veikkausliiga,League,Finland
+1054,2015,2015-04-12,2015-10-25,Veikkausliiga,League,Finland
+1055,2016,2016-04-02,2016-10-23,Veikkausliiga,League,Finland
+1056,2017,2017-04-05,2017-10-28,Veikkausliiga,League,Finland
+1057,2018,2018-04-07,2018-10-27,Veikkausliiga,League,Finland
+1058,2019,2019-04-03,2019-11-03,Veikkausliiga,League,Finland
+1059,2020,2020-07-01,2020-11-14,Veikkausliiga,League,Finland
+1060,2021,2021-04-24,2021-11-07,Veikkausliiga,League,Finland
+1061,2022,2022-04-02,2022-10-30,Veikkausliiga,League,Finland
+1062,2012,2012-02-14,2012-09-29,Suomen Cup,Cup,Finland
+1063,2013,2013-02-20,2013-09-28,Suomen Cup,Cup,Finland
+1064,2014,2014-02-19,2014-11-01,Suomen Cup,Cup,Finland
+1065,2015,2015-02-17,2015-09-26,Suomen Cup,Cup,Finland
+1066,2016,2016-02-05,2016-09-24,Suomen Cup,Cup,Finland
+1067,2017,2016-09-01,2017-09-23,Suomen Cup,Cup,Finland
+1068,2019,2019-02-23,2019-06-15,Suomen Cup,Cup,Finland
+1069,2020,2020-01-25,2020-10-03,Suomen Cup,Cup,Finland
+1070,2021,2021-02-06,2021-05-08,Suomen Cup,Cup,Finland
+1071,2022,2022-02-11,2022-09-17,Suomen Cup,Cup,Finland
+1072,2012,2012-09-30,2012-10-06,Kakkonen - Lohko A,League,Finland
+1073,2013,2013-04-20,2013-10-05,Kakkonen - Lohko A,League,Finland
+1074,2014,2014-04-18,2014-10-04,Kakkonen - Lohko A,League,Finland
+1075,2015,2015-04-25,2015-10-03,Kakkonen - Lohko A,League,Finland
+1076,2016,2016-05-04,2016-10-01,Kakkonen - Lohko A,League,Finland
+1077,2017,2017-04-22,2017-09-30,Kakkonen - Lohko A,League,Finland
+1078,2018,2018-04-28,2018-09-29,Kakkonen - Lohko A,League,Finland
+1079,2019,2019-04-27,2019-10-05,Kakkonen - Lohko A,League,Finland
+1080,2020,2020-06-11,2020-11-09,Kakkonen - Lohko A,League,Finland
+1081,2021,2021-05-29,2021-10-23,Kakkonen - Lohko A,League,Finland
+1082,2022,2022-04-23,2022-10-01,Kakkonen - Lohko A,League,Finland
+1083,2012,2012-09-30,2012-10-06,Kakkonen - Lohko B,League,Finland
+1084,2013,2013-09-29,2013-10-05,Kakkonen - Lohko B,League,Finland
+1085,2014,2014-04-23,2014-10-04,Kakkonen - Lohko B,League,Finland
+1086,2015,2015-04-24,2015-10-03,Kakkonen - Lohko B,League,Finland
+1087,2016,2016-04-30,2016-10-01,Kakkonen - Lohko B,League,Finland
+1088,2017,2017-04-22,2017-09-30,Kakkonen - Lohko B,League,Finland
+1089,2018,2018-05-05,2018-09-29,Kakkonen - Lohko B,League,Finland
+1090,2019,2019-04-27,2019-10-05,Kakkonen - Lohko B,League,Finland
+1091,2020,2020-06-12,2020-11-03,Kakkonen - Lohko B,League,Finland
+1092,2021,2021-05-29,2021-10-24,Kakkonen - Lohko B,League,Finland
+1093,2022,2022-04-19,2022-10-01,Kakkonen - Lohko B,League,Finland
+1094,2012,2012-09-27,2012-10-06,Kakkonen - Lohko C,League,Finland
+1095,2013,2013-04-21,2013-10-05,Kakkonen - Lohko C,League,Finland
+1096,2014,2014-04-19,2014-10-04,Kakkonen - Lohko C,League,Finland
+1097,2015,2015-04-24,2015-10-03,Kakkonen - Lohko C,League,Finland
+1098,2016,2016-05-03,2016-10-01,Kakkonen - Lohko C,League,Finland
+1099,2017,2017-04-29,2017-09-30,Kakkonen - Lohko C,League,Finland
+1100,2018,2018-04-28,2018-09-29,Kakkonen - Lohko C,League,Finland
+1101,2019,2019-04-27,2019-10-05,Kakkonen - Lohko C,League,Finland
+1102,2020,2020-06-13,2020-11-07,Kakkonen - Lohko C,League,Finland
+1103,2021,2021-05-07,2021-10-24,Kakkonen - Lohko C,League,Finland
+1104,2022,2022-04-30,2022-10-01,Kakkonen - Lohko C,League,Finland
+1105,2012,2012-02-04,2012-07-08,Liga Pro,League,Ecuador
+1106,2013,2013-01-26,2013-06-30,Liga Pro,League,Ecuador
+1107,2014,2014-01-25,2014-08-03,Liga Pro,League,Ecuador
+1108,2015,2015-01-31,2015-07-12,Liga Pro,League,Ecuador
+1109,2016,2016-02-06,2016-07-24,Liga Pro,League,Ecuador
+1110,2017,2017-01-29,2017-07-09,Liga Pro,League,Ecuador
+1111,2018,2018-02-17,2018-07-17,Liga Pro,League,Ecuador
+1112,2022,2022-02-19,2022-11-13,Liga Pro,League,Ecuador
+1113,2012,2012-02-25,2012-11-24,Liga Pro Serie B,League,Ecuador
+1114,2013,2013-02-23,2013-11-24,Liga Pro Serie B,League,Ecuador
+1115,2014,2014-02-28,2014-11-30,Liga Pro Serie B,League,Ecuador
+1116,2015,2015-02-28,2015-11-28,Liga Pro Serie B,League,Ecuador
+1117,2016,2016-03-05,2016-12-03,Liga Pro Serie B,League,Ecuador
+1118,2017,2017-03-04,2017-11-30,Liga Pro Serie B,League,Ecuador
+1119,2018,2018-03-03,2018-11-25,Liga Pro Serie B,League,Ecuador
+1120,2019,2019-03-01,2019-12-14,Liga Pro Serie B,League,Ecuador
+1121,2013,2013-02-26,2013-11-03,Girabola,League,Angola
+1122,2018,2018-10-27,2019-05-19,Girabola,League,Angola
+1123,2018,2018-02-10,2018-09-02,Girabola,League,Angola
+1124,2019,2019-08-16,2020-05-03,Girabola,League,Angola
+1125,2020,2020-12-26,2021-07-31,Girabola,League,Angola
+1126,2021,2021-10-01,2022-05-22,Girabola,League,Angola
+1127,2022,2022-09-24,2023-04-29,Girabola,League,Angola
+1128,2019,2019-08-06,2020-07-19,First League,League,Armenia
+1129,2020,2020-08-14,2021-05-28,First League,League,Armenia
+1130,2021,2021-08-05,2022-05-17,First League,League,Armenia
+1131,2022,2022-08-03,2023-05-30,First League,League,Armenia
+1132,2012,2012-03-31,2013-05-18,Premier League,League,Armenia
+1133,2013,2013-08-03,2014-05-18,Premier League,League,Armenia
+1134,2014,2014-08-02,2015-05-30,Premier League,League,Armenia
+1135,2015,2015-08-01,2016-05-22,Premier League,League,Armenia
+1136,2016,2016-08-06,2017-05-31,Premier League,League,Armenia
+1137,2017,2017-08-04,2018-05-20,Premier League,League,Armenia
+1138,2018,2018-08-04,2019-05-30,Premier League,League,Armenia
+1139,2019,2019-08-02,2020-07-14,Premier League,League,Armenia
+1140,2020,2020-08-14,2021-05-30,Premier League,League,Armenia
+1141,2021,2021-07-30,2022-05-28,Premier League,League,Armenia
+1142,2022,2022-07-30,2023-05-26,Premier League,League,Armenia
+1143,2012,2012-03-24,2012-11-25,Premier League,League,Belarus
+1144,2013,2013-03-30,2013-12-01,Premier League,League,Belarus
+1145,2014,2014-03-29,2014-11-30,Premier League,League,Belarus
+1146,2015,2015-04-10,2015-11-08,Premier League,League,Belarus
+1147,2016,2016-04-01,2016-11-27,Premier League,League,Belarus
+1148,2017,2017-04-01,2017-11-26,Premier League,League,Belarus
+1149,2018,2018-03-30,2018-12-02,Premier League,League,Belarus
+1150,2019,2019-03-29,2019-12-01,Premier League,League,Belarus
+1151,2020,2020-03-19,2020-12-19,Premier League,League,Belarus
+1152,2021,2021-03-12,2021-12-05,Premier League,League,Belarus
+1153,2022,2022-03-18,2022-11-19,Premier League,League,Belarus
+1154,2012,2012-04-21,2012-11-17,1. Division,League,Belarus
+1155,2013,2013-04-20,2013-11-23,1. Division,League,Belarus
+1156,2014,2014-04-19,2014-11-22,1. Division,League,Belarus
+1157,2015,2015-04-19,2015-11-15,1. Division,League,Belarus
+1158,2016,2016-04-16,2016-11-05,1. Division,League,Belarus
+1159,2017,2017-04-08,2017-11-11,1. Division,League,Belarus
+1160,2018,2018-04-06,2018-11-10,1. Division,League,Belarus
+1161,2019,2019-04-13,2019-11-24,1. Division,League,Belarus
+1162,2020,2020-04-17,2020-12-05,1. Division,League,Belarus
+1163,2021,2021-04-17,2021-11-27,1. Division,League,Belarus
+1164,2022,2022-04-09,2022-11-12,1. Division,League,Belarus
+1165,2012,2011-12-31,2012-08-19,V.League 1,League,Vietnam
+1166,2013,2013-03-02,2013-08-31,V.League 1,League,Vietnam
+1167,2014,2014-01-11,2014-08-24,V.League 1,League,Vietnam
+1168,2012,2012-03-20,2012-11-03,J-League Cup,Cup,Japan
+1169,2013,2013-03-20,2013-11-02,J-League Cup,Cup,Japan
+1170,2014,2014-03-19,2014-11-08,J-League Cup,Cup,Japan
+1171,2015,2015-03-18,2015-10-31,J-League Cup,Cup,Japan
+1172,2016,2016-03-23,2016-10-15,J-League Cup,Cup,Japan
+1173,2017,2017-03-15,2017-11-04,J-League Cup,Cup,Japan
+1174,2018,2018-03-07,2018-10-27,J-League Cup,Cup,Japan
+1175,2019,2019-03-06,2019-10-26,J-League Cup,Cup,Japan
+1176,2020,2020-02-16,2021-01-04,J-League Cup,Cup,Japan
+1177,2021,2021-03-02,2021-10-30,J-League Cup,Cup,Japan
+1178,2022,2022-02-23,2022-10-22,J-League Cup,Cup,Japan
+1179,2012,2012-03-10,2012-12-01,J1 League,League,Japan
+1180,2013,2013-03-02,2013-12-07,J1 League,League,Japan
+1181,2014,2014-03-01,2014-12-08,J1 League,League,Japan
+1182,2015,2015-03-07,2015-12-05,J1 League,League,Japan
+1183,2016,2016-02-27,2016-12-03,J1 League,League,Japan
+1184,2017,2017-02-25,2017-12-02,J1 League,League,Japan
+1185,2018,2018-02-23,2018-12-01,J1 League,League,Japan
+1186,2019,2019-02-22,2019-12-14,J1 League,League,Japan
+1187,2020,2020-02-21,2020-12-19,J1 League,League,Japan
+1188,2021,2021-02-26,2021-12-04,J1 League,League,Japan
+1189,2022,2022-02-18,2022-11-05,J1 League,League,Japan
+1190,2012,2012-03-04,2012-11-23,J2 League,League,Japan
+1191,2013,2013-03-03,2013-12-08,J2 League,League,Japan
+1192,2014,2014-03-02,2014-12-07,J2 League,League,Japan
+1193,2015,2015-03-08,2015-12-06,J2 League,League,Japan
+1194,2016,2016-02-28,2016-12-04,J2 League,League,Japan
+1195,2017,2017-02-26,2017-12-03,J2 League,League,Japan
+1196,2018,2018-02-25,2018-12-02,J2 League,League,Japan
+1197,2019,2019-02-24,2019-12-08,J2 League,League,Japan
+1198,2020,2020-02-23,2020-12-19,J2 League,League,Japan
+1199,2021,2021-02-27,2021-12-05,J2 League,League,Japan
+1200,2022,2022-02-19,2022-11-06,J2 League,League,Japan
+1201,2017,2017-04-14,2017-10-28,1. Liga,League,Latvia
+1202,2018,2018-04-21,2018-11-11,1. Liga,League,Latvia
+1203,2019,2019-04-06,2019-11-10,1. Liga,League,Latvia
+1204,2020,2020-04-04,2020-11-08,1. Liga,League,Latvia
+1205,2021,2021-07-03,2021-11-13,1. Liga,League,Latvia
+1206,2022,2022-04-08,2022-11-13,1. Liga,League,Latvia
+1207,2012,2012-03-24,2012-11-10,Virsliga,League,Latvia
+1208,2013,2013-03-29,2013-11-09,Virsliga,League,Latvia
+1209,2014,2014-03-21,2014-11-08,Virsliga,League,Latvia
+1210,2015,2015-03-13,2015-11-07,Virsliga,League,Latvia
+1211,2016,2016-03-11,2016-11-05,Virsliga,League,Latvia
+1212,2017,2017-03-10,2017-11-04,Virsliga,League,Latvia
+1213,2018,2018-03-31,2018-11-10,Virsliga,League,Latvia
+1214,2019,2019-03-09,2019-11-09,Virsliga,League,Latvia
+1215,2020,2020-06-15,2020-11-29,Virsliga,League,Latvia
+1216,2021,2021-03-13,2021-11-06,Virsliga,League,Latvia
+1217,2022,2022-03-11,2022-11-12,Virsliga,League,Latvia
+1218,2015,2015-03-28,2015-10-31,1 Lyga,League,Lithuania
+1219,2017,2017-03-24,2017-10-21,1 Lyga,League,Lithuania
+1220,2018,2018-03-25,2018-10-20,1 Lyga,League,Lithuania
+1221,2019,2019-03-22,2019-10-27,1 Lyga,League,Lithuania
+1222,2020,2020-06-05,2020-10-31,1 Lyga,League,Lithuania
+1223,2021,2021-03-20,2021-10-29,1 Lyga,League,Lithuania
+1224,2022,2022-03-18,2022-11-12,1 Lyga,League,Lithuania
+1225,2012,2012-03-10,2012-11-11,A Lyga,League,Lithuania
+1226,2013,2013-03-09,2013-11-09,A Lyga,League,Lithuania
+1227,2014,2014-03-08,2014-11-29,A Lyga,League,Lithuania
+1228,2015,2015-02-28,2015-11-28,A Lyga,League,Lithuania
+1229,2016,2016-03-02,2016-11-26,A Lyga,League,Lithuania
+1230,2017,2017-03-03,2017-11-19,A Lyga,League,Lithuania
+1231,2018,2018-02-24,2018-11-11,A Lyga,League,Lithuania
+1232,2019,2019-03-02,2019-11-27,A Lyga,League,Lithuania
+1233,2020,2020-03-06,2020-10-31,A Lyga,League,Lithuania
+1234,2021,2021-03-05,2021-11-28,A Lyga,League,Lithuania
+1235,2022,2022-03-04,2022-11-11,A Lyga,League,Lithuania
+1236,2012,2012-05-19,2012-11-24,Serie B,League,Brazil
+1237,2013,2013-05-24,2013-11-30,Serie B,League,Brazil
+1238,2014,2014-04-18,2014-11-29,Serie B,League,Brazil
+1239,2015,2015-05-08,2015-11-28,Serie B,League,Brazil
+1240,2016,2016-05-13,2016-11-26,Serie B,League,Brazil
+1241,2017,2017-05-12,2017-11-25,Serie B,League,Brazil
+1242,2018,2018-04-13,2018-11-24,Serie B,League,Brazil
+1243,2019,2019-04-26,2019-11-30,Serie B,League,Brazil
+1244,2020,2020-08-07,2021-01-30,Serie B,League,Brazil
+1245,2021,2021-05-28,2021-11-28,Serie B,League,Brazil
+1246,2022,2022-04-09,2022-11-05,Serie B,League,Brazil
+1247,2012,2012-06-30,2012-12-01,Serie C,League,Brazil
+1248,2013,2013-06-01,2013-12-01,Serie C,League,Brazil
+1249,2014,2014-04-26,2014-11-22,Serie C,League,Brazil
+1250,2015,2015-05-16,2015-11-21,Serie C,League,Brazil
+1251,2016,2016-05-21,2016-11-05,Serie C,League,Brazil
+1252,2017,2017-05-13,2017-10-21,Serie C,League,Brazil
+1253,2018,2018-04-14,2018-09-22,Serie C,League,Brazil
+1254,2019,2019-04-27,2019-10-06,Serie C,League,Brazil
+1255,2020,2020-08-08,2021-01-30,Serie C,League,Brazil
+1256,2021,2021-05-29,2021-11-20,Serie C,League,Brazil
+1257,2022,2022-04-09,2022-10-08,Serie C,League,Brazil
+1258,2013,2013-06-05,2013-09-14,League Cup,Cup,Singapore
+1259,2014,2014-07-07,2014-07-25,League Cup,Cup,Singapore
+1260,2015,2015-06-22,2015-07-10,League Cup,Cup,Singapore
+1261,2016,2016-07-13,2016-07-30,League Cup,Cup,Singapore
+1262,2022,2022-09-10,2022-11-21,Division di Honor,League,Aruba
+1263,2019,2019-09-01,2019-09-15,National Football League,League,Fiji
+1264,2020,2020-02-01,2020-11-01,National Football League,League,Fiji
+1265,2022,2022-02-13,2022-09-11,National Football League,League,Fiji
+1266,2014,2014-07-01,2015-05-27,UEFA Europa League,Cup,World
+1267,2015,2015-06-30,2016-05-18,UEFA Europa League,Cup,World
+1268,2016,2016-06-28,2017-05-24,UEFA Europa League,Cup,World
+1269,2017,2017-06-29,2018-05-16,UEFA Europa League,Cup,World
+1270,2018,2018-06-26,2019-05-29,UEFA Europa League,Cup,World
+1271,2019,2019-06-27,2020-08-21,UEFA Europa League,Cup,World
+1272,2020,2020-08-18,2021-05-26,UEFA Europa League,Cup,World
+1273,2021,2021-08-03,2022-05-18,UEFA Europa League,Cup,World
+1274,2022,2022-08-04,2022-11-03,UEFA Europa League,Cup,World
+1275,2014,2014-08-09,2015-05-22,Erovnuli Liga,League,Georgia
+1276,2015,2015-08-13,2016-05-22,Erovnuli Liga,League,Georgia
+1277,2016,2016-08-07,2016-12-11,Erovnuli Liga,League,Georgia
+1278,2017,2017-03-04,2017-11-26,Erovnuli Liga,League,Georgia
+1279,2016,2016-02-20,2016-05-21,Acreano,League,Brazil
+1280,2017,2017-02-19,2017-05-13,Acreano,League,Brazil
+1281,2019,2019-01-20,2019-04-23,Acreano,League,Brazil
+1282,2020,2020-02-02,2020-09-13,Acreano,League,Brazil
+1283,2022,2022-02-13,2022-04-21,Acreano,League,Brazil
+1284,2014,2014-10-12,2014-12-20,AFF Championship,Cup,World
+1285,2015,2015-02-13,2015-12-07,Liga Profesional Argentina,League,Argentina
+1286,2016,2016-08-26,2017-06-27,Liga Profesional Argentina,League,Argentina
+1287,2017,2017-08-25,2018-05-15,Liga Profesional Argentina,League,Argentina
+1288,2018,2018-08-10,2019-04-07,Liga Profesional Argentina,League,Argentina
+1289,2019,2019-07-27,2020-03-10,Liga Profesional Argentina,League,Argentina
+1290,2015,2015-07-07,2015-07-26,CONCACAF Gold Cup,Cup,World
+1291,2017,2017-07-07,2017-07-27,CONCACAF Gold Cup,Cup,World
+1292,2019,2019-06-15,2019-07-08,CONCACAF Gold Cup,Cup,World
+1293,2015,2015-01-17,2015-02-08,Africa Cup of Nations,Cup,World
+1294,2017,2017-01-14,2017-02-05,Africa Cup of Nations,Cup,World
+1295,2019,2017-03-22,2019-07-19,Africa Cup of Nations,Cup,World
+1296,2021,2022-01-09,2022-02-06,Africa Cup of Nations,Cup,World
+1297,2015,2015-06-11,2015-07-04,Copa America,Cup,World
+1298,2016,2016-06-04,2016-06-27,Copa America,Cup,World
+1299,2019,2019-06-15,2019-07-07,Copa America,Cup,World
+1300,2021,2021-06-13,2021-07-11,Copa America,Cup,World
+1301,2015,2015-08-08,2015-11-07,2nd Division - Group 1,League,Denmark
+1302,2016,2016-08-06,2016-11-05,2nd Division - Group 1,League,Denmark
+1303,2018,2018-08-04,2019-04-13,2nd Division - Group 1,League,Denmark
+1304,2019,2019-08-03,2020-04-09,2nd Division - Group 1,League,Denmark
+1305,2020,2020-08-29,2021-06-05,2nd Division - Group 1,League,Denmark
+1306,2015,2015-08-07,2015-11-07,2nd Division - Group 2,League,Denmark
+1307,2016,2016-08-05,2016-11-05,2nd Division - Group 2,League,Denmark
+1308,2018,2018-08-04,2019-04-13,2nd Division - Group 2,League,Denmark
+1309,2019,2019-08-02,2020-04-09,2nd Division - Group 2,League,Denmark
+1310,2020,2020-08-28,2021-06-05,2nd Division - Group 2,League,Denmark
+1311,2019,2019-03-17,2019-12-01,Japan Football League,League,Japan
+1312,2020,2020-03-15,2020-11-29,Japan Football League,League,Japan
+1313,2021,2021-03-14,2021-12-05,Japan Football League,League,Japan
+1314,2022,2022-03-13,2022-11-20,Japan Football League,League,Japan
+1315,2016,2016-08-06,2017-04-15,1st League - RS,League,Bosnia
+1316,2017,2017-08-12,2018-04-14,1st League - RS,League,Bosnia
+1317,2018,2018-08-11,2019-04-13,1st League - RS,League,Bosnia
+1318,2019,2019-08-10,2020-03-28,1st League - RS,League,Bosnia
+1319,2020,2020-08-08,2021-05-29,1st League - RS,League,Bosnia
+1320,2021,2021-08-13,2022-05-28,1st League - RS,League,Bosnia
+1321,2022,2022-08-06,2022-11-12,1st League - RS,League,Bosnia
+1322,2016,2016-08-06,2017-06-03,1st League - FBiH,League,Bosnia
+1323,2017,2017-08-05,2018-06-02,1st League - FBiH,League,Bosnia
+1324,2018,2018-08-11,2019-06-01,1st League - FBiH,League,Bosnia
+1325,2019,2019-08-10,2020-03-22,1st League - FBiH,League,Bosnia
+1326,2020,2020-08-08,2021-06-05,1st League - FBiH,League,Bosnia
+1327,2021,2021-08-14,2022-06-04,1st League - FBiH,League,Bosnia
+1328,2022,2022-08-13,2022-11-19,1st League - FBiH,League,Bosnia
+1329,2016,2016-03-19,2016-11-12,K3 League,League,South-Korea
+1330,2017,2017-03-18,2017-11-11,K3 League,League,South-Korea
+1331,2018,2018-03-17,2018-11-17,K3 League,League,South-Korea
+1332,2019,2019-03-16,2019-11-09,K3 League,League,South-Korea
+1333,2019,2019-07-04,2019-08-29,Amapaense,League,Brazil
+1334,2020,2020-03-10,2020-10-01,Amapaense,League,Brazil
+1335,2022,2022-04-28,2022-07-20,Amapaense,League,Brazil
+1336,2017,2017-03-15,2017-06-15,Amazonense,League,Brazil
+1337,2019,2019-02-02,2019-04-27,Amazonense,League,Brazil
+1338,2020,2020-01-22,2020-04-05,Amazonense,League,Brazil
+1339,2021,2021-02-10,2021-05-22,Amazonense,League,Brazil
+1340,2016,2016-08-09,2016-08-09,UEFA Super Cup,Cup,World
+1341,2017,2017-08-08,2017-08-08,UEFA Super Cup,Cup,World
+1342,2018,2018-08-15,2018-08-15,UEFA Super Cup,Cup,World
+1343,2019,2019-08-14,2019-08-14,UEFA Super Cup,Cup,World
+1344,2020,2020-09-24,2020-09-24,UEFA Super Cup,Cup,World
+1345,2021,2021-08-11,2021-08-11,UEFA Super Cup,Cup,World
+1346,2022,2022-08-10,2022-08-10,UEFA Super Cup,Cup,World
+1347,2016,2016-08-07,2016-08-07,Super Cup,Cup,Portugal
+1348,2016,2016-07-23,2017-05-28,Premijer Liga,League,Bosnia
+1349,2016,2016-08-07,2017-05-31,First League,League,Macedonia
+1350,2017,2017-08-12,2018-05-20,First League,League,Macedonia
+1351,2018,2018-08-11,2019-05-26,First League,League,Macedonia
+1352,2019,2019-08-10,2020-04-05,First League,League,Macedonia
+1353,2020,2020-08-08,2021-05-16,First League,League,Macedonia
+1354,2021,2021-08-08,2022-05-22,First League,League,Macedonia
+1355,2022,2022-08-06,2023-03-08,First League,League,Macedonia
+1356,2016,2016-08-19,2017-05-19,Liga Leumit,League,Israel
+1357,2017,2017-08-18,2018-05-21,Liga Leumit,League,Israel
+1358,2018,2018-08-23,2019-05-20,Liga Leumit,League,Israel
+1359,2019,2019-08-22,2020-08-02,Liga Leumit,League,Israel
+1360,2020,2020-08-27,2021-05-25,Liga Leumit,League,Israel
+1361,2021,2021-08-26,2022-05-11,Liga Leumit,League,Israel
+1362,2022,2022-08-18,2023-03-17,Liga Leumit,League,Israel
+1363,2016,2016-09-09,2017-04-30,Challenge League,League,Malta
+1364,2018,2018-09-14,2019-04-28,Challenge League,League,Malta
+1365,2016,2016-08-19,2017-05-06,Premier League,League,Malta
+1366,2017,2017-08-18,2018-04-21,Premier League,League,Malta
+1367,2018,2018-08-17,2019-05-04,Premier League,League,Malta
+1368,2019,2019-08-23,2020-04-23,Premier League,League,Malta
+1369,2020,2020-09-19,2021-04-25,Premier League,League,Malta
+1370,2021,2021-08-12,2022-05-07,Premier League,League,Malta
+1371,2022,2022-08-19,2023-04-20,Premier League,League,Malta
+1372,2016,2016-07-23,2017-05-30,Super Liga,League,Moldova
+1373,2017,2017-07-08,2017-11-26,Super Liga,League,Moldova
+1374,2018,2018-04-01,2018-11-24,Super Liga,League,Moldova
+1375,2019,2019-03-16,2019-11-09,Super Liga,League,Moldova
+1376,2020,2020-07-03,2021-05-26,Super Liga,League,Moldova
+1377,2021,2021-07-01,2022-05-26,Super Liga,League,Moldova
+1378,2016,2016-08-07,2017-05-21,Primera Division,League,Nicaragua
+1379,2017,2017-07-29,2018-06-02,Primera Division,League,Nicaragua
+1380,2018,2018-08-25,2019-06-02,Primera Division,League,Nicaragua
+1381,2019,2019-07-28,2020-05-10,Primera Division,League,Nicaragua
+1382,2020,2020-08-01,2021-05-30,Primera Division,League,Nicaragua
+1383,2021,2021-07-31,2022-05-22,Primera Division,League,Nicaragua
+1384,2022,2022-07-09,2022-10-28,Primera Division,League,Nicaragua
+1385,2016,2016-09-03,2017-05-28,Taça de Portugal,Cup,Portugal
+1386,2017,2017-09-02,2018-05-20,Taça de Portugal,Cup,Portugal
+1387,2018,2018-09-08,2019-05-25,Taça de Portugal,Cup,Portugal
+1388,2019,2019-09-07,2020-08-01,Taça de Portugal,Cup,Portugal
+1389,2020,2020-09-26,2021-05-23,Taça de Portugal,Cup,Portugal
+1390,2021,2021-09-09,2022-05-22,Taça de Portugal,Cup,Portugal
+1391,2022,2022-09-09,2022-11-08,Taça de Portugal,Cup,Portugal
+1392,2019,2019-03-29,2019-12-11,Premier Soccer League,League,Zimbabwe
+1393,2021,2021-11-05,2022-11-06,Premier Soccer League,League,Zimbabwe
+1394,2016,2016-09-09,2017-05-20,Campionato,League,San-Marino
+1395,2017,2017-09-08,2018-05-23,Campionato,League,San-Marino
+1396,2018,2018-09-21,2019-05-25,Campionato,League,San-Marino
+1397,2019,2019-09-20,2020-04-11,Campionato,League,San-Marino
+1398,2020,2020-09-12,2021-05-22,Campionato,League,San-Marino
+1399,2021,2021-09-18,2022-05-26,Campionato,League,San-Marino
+1400,2022,2022-09-02,2023-05-15,Campionato,League,San-Marino
+1401,2016,2016-09-08,2017-05-13,Premier League,League,Bahrain
+1402,2017,2017-09-09,2018-04-21,Premier League,League,Bahrain
+1403,2018,2018-09-16,2019-05-04,Premier League,League,Bahrain
+1404,2019,2019-09-20,2020-10-26,Premier League,League,Bahrain
+1405,2020,2020-12-08,2021-05-26,Premier League,League,Bahrain
+1406,2021,2021-08-25,2022-05-14,Premier League,League,Bahrain
+1407,2022,2022-09-11,2022-11-27,Premier League,League,Bahrain
+1408,2021,2021-10-31,2022-04-10,Premier League,League,Bermuda
+1409,2022,2022-10-01,2023-03-26,Premier League,League,Bermuda
+1410,2016,2015-08-05,2016-04-28,CONCACAF Champions League,Cup,World
+1411,2018,2018-02-21,2018-04-26,CONCACAF Champions League,Cup,World
+1412,2019,2019-02-20,2019-05-02,CONCACAF Champions League,Cup,World
+1413,2016,2016-01-27,2016-11-26,AFC Champions League,Cup,World
+1414,2017,2017-01-24,2017-11-25,AFC Champions League,Cup,World
+1415,2018,2018-01-16,2018-11-10,AFC Champions League,Cup,World
+1416,2019,2019-02-05,2019-11-24,AFC Champions League,Cup,World
+1417,2020,2020-01-14,2020-12-19,AFC Champions League,Cup,World
+1418,2021,2021-04-07,2021-11-23,AFC Champions League,Cup,World
+1419,2022,2022-03-08,2023-02-04,AFC Champions League,Cup,World
+1420,2016,2016-08-19,2017-06-24,Segunda División,League,Spain
+1421,2017,2017-08-18,2018-06-16,Segunda División,League,Spain
+1422,2018,2018-08-17,2019-06-16,Segunda División,League,Spain
+1423,2019,2019-08-17,2020-08-23,Segunda División,League,Spain
+1424,2020,2020-09-12,2021-06-20,Segunda División,League,Spain
+1425,2021,2021-08-13,2022-06-19,Segunda División,League,Spain
+1426,2022,2022-08-14,2023-05-28,Segunda División,League,Spain
+1427,2016,2016-08-26,2017-06-08,Serie B,League,Italy
+1428,2017,2017-08-25,2018-06-16,Serie B,League,Italy
+1429,2018,2018-08-24,2019-05-11,Serie B,League,Italy
+1430,2019,2019-08-23,2020-08-20,Serie B,League,Italy
+1431,2020,2020-09-25,2021-05-27,Serie B,League,Italy
+1432,2021,2021-08-20,2022-05-29,Serie B,League,Italy
+1433,2022,2022-08-13,2023-05-19,Serie B,League,Italy
+1434,2016,2016-03-11,2016-11-06,Eliteserien,League,Norway
+1435,2017,2017-04-01,2017-11-26,Eliteserien,League,Norway
+1436,2018,2018-03-11,2018-11-24,Eliteserien,League,Norway
+1437,2019,2019-03-30,2019-12-01,Eliteserien,League,Norway
+1438,2020,2020-06-16,2020-12-28,Eliteserien,League,Norway
+1439,2021,2021-04-05,2021-12-15,Eliteserien,League,Norway
+1440,2022,2022-04-02,2022-11-13,Eliteserien,League,Norway
+1441,2016,2016-08-05,2017-05-05,Eerste Divisie,League,Netherlands
+1442,2017,2017-08-18,2018-04-28,Eerste Divisie,League,Netherlands
+1443,2018,2018-08-17,2019-05-03,Eerste Divisie,League,Netherlands
+1444,2019,2019-08-09,2020-05-01,Eerste Divisie,League,Netherlands
+1445,2020,2020-08-28,2021-05-12,Eerste Divisie,League,Netherlands
+1446,2021,2021-08-06,2022-05-06,Eerste Divisie,League,Netherlands
+1447,2022,2022-08-05,2023-05-19,Eerste Divisie,League,Netherlands
+1448,2016,2016-04-02,2016-11-06,Allsvenskan,League,Sweden
+1449,2017,2017-04-01,2017-11-05,Allsvenskan,League,Sweden
+1450,2018,2018-04-01,2018-11-11,Allsvenskan,League,Sweden
+1451,2019,2019-03-31,2019-11-10,Allsvenskan,League,Sweden
+1452,2020,2020-06-14,2020-12-13,Allsvenskan,League,Sweden
+1453,2021,2021-04-10,2021-12-14,Allsvenskan,League,Sweden
+1454,2022,2022-04-03,2022-11-06,Allsvenskan,League,Sweden
+1455,2016,2016-07-17,2017-05-21,Primera División,League,Costa-Rica
+1456,2017,2017-07-29,2018-05-20,Primera División,League,Costa-Rica
+1457,2018,2018-07-22,2019-05-16,Primera División,League,Costa-Rica
+1458,2019,2019-07-21,2020-06-30,Primera División,League,Costa-Rica
+1459,2020,2020-08-15,2021-05-27,Primera División,League,Costa-Rica
+1460,2021,2021-07-27,2022-07-06,Primera División,League,Costa-Rica
+1461,2022,2022-07-19,2022-11-05,Primera División,League,Costa-Rica
+1462,2016,2016-05-01,2016-10-01,Úrvalsdeild,League,Iceland
+1463,2017,2017-04-30,2017-09-30,Úrvalsdeild,League,Iceland
+1464,2018,2018-04-27,2018-09-29,Úrvalsdeild,League,Iceland
+1465,2019,2019-04-26,2019-09-28,Úrvalsdeild,League,Iceland
+1466,2020,2020-06-13,2020-11-30,Úrvalsdeild,League,Iceland
+1467,2021,2021-04-30,2021-09-25,Úrvalsdeild,League,Iceland
+1468,2022,2022-04-18,2022-10-29,Úrvalsdeild,League,Iceland
+1469,2016,2016-03-04,2016-10-30,Super League,League,China
+1470,2017,2017-03-03,2017-11-04,Super League,League,China
+1471,2018,2018-03-02,2018-11-11,Super League,League,China
+1472,2019,2019-03-01,2019-12-01,Super League,League,China
+1473,2020,2020-07-25,2020-11-22,Super League,League,China
+1474,2021,2021-04-20,2022-01-12,Super League,League,China
+1475,2022,2022-06-03,2022-12-17,Super League,League,China
+1476,2016,2016-08-05,2017-05-17,Coppa Italia,Cup,Italy
+1477,2017,2017-07-29,2018-05-09,Coppa Italia,Cup,Italy
+1478,2018,2018-07-28,2019-05-15,Coppa Italia,Cup,Italy
+1479,2019,2019-08-03,2020-06-17,Coppa Italia,Cup,Italy
+1480,2020,2020-09-22,2021-05-19,Coppa Italia,Cup,Italy
+1481,2021,2021-08-07,2022-05-11,Coppa Italia,Cup,Italy
+1482,2022,2022-07-30,2023-01-11,Coppa Italia,Cup,Italy
+1483,2016,2016-08-26,2017-06-12,Botola Pro,League,Morocco
+1484,2017,2017-09-08,2018-05-21,Botola Pro,League,Morocco
+1485,2018,2018-08-25,2019-06-11,Botola Pro,League,Morocco
+1486,2019,2019-09-14,2020-10-11,Botola Pro,League,Morocco
+1487,2020,2020-12-04,2021-07-27,Botola Pro,League,Morocco
+1488,2021,2021-09-10,2022-07-04,Botola Pro,League,Morocco
+1489,2022,2022-09-01,2022-11-06,Botola Pro,League,Morocco
+1490,2016,2016-07-23,2017-06-02,Super League,League,Switzerland
+1491,2017,2017-07-22,2018-05-19,Super League,League,Switzerland
+1492,2018,2018-07-21,2019-05-25,Super League,League,Switzerland
+1493,2019,2019-07-19,2020-08-10,Super League,League,Switzerland
+1494,2020,2020-09-19,2021-05-30,Super League,League,Switzerland
+1495,2021,2021-07-24,2022-05-29,Super League,League,Switzerland
+1496,2022,2022-07-16,2023-05-29,Super League,League,Switzerland
+1497,2016,2016-07-15,2017-05-27,HNL,League,Croatia
+1498,2017,2017-07-14,2018-05-19,HNL,League,Croatia
+1499,2018,2018-07-27,2019-05-26,HNL,League,Croatia
+1500,2019,2019-07-19,2020-07-25,HNL,League,Croatia
+1501,2020,2020-08-14,2021-05-22,HNL,League,Croatia
+1502,2021,2021-07-16,2022-05-21,HNL,League,Croatia
+1503,2016,2016-07-30,2017-05-21,Premier League,League,Russia
+1504,2017,2017-07-15,2018-05-13,Premier League,League,Russia
+1505,2018,2018-07-28,2019-05-26,Premier League,League,Russia
+1506,2019,2019-07-12,2020-07-22,Premier League,League,Russia
+1507,2020,2020-08-08,2021-05-16,Premier League,League,Russia
+1508,2021,2021-07-23,2022-05-28,Premier League,League,Russia
+1509,2022,2022-07-15,2023-06-03,Premier League,League,Russia
+1510,2016,2016-01-30,2016-12-18,Primera A,League,Colombia
+1511,2017,2017-02-04,2017-12-18,Primera A,League,Colombia
+1512,2018,2018-02-03,2018-12-16,Primera A,League,Colombia
+1513,2019,2019-01-26,2019-12-07,Primera A,League,Colombia
+1514,2020,2020-01-24,2020-12-30,Primera A,League,Colombia
+1515,2021,2021-01-16,2021-12-23,Primera A,League,Colombia
+1516,2022,2022-01-20,2022-11-24,Primera A,League,Colombia
+1517,2016,2016-01-22,2016-05-22,Division Profesional - Apertura,League,Paraguay
+1518,2017,2017-02-03,2017-06-24,Division Profesional - Apertura,League,Paraguay
+1519,2018,2018-02-02,2018-06-10,Division Profesional - Apertura,League,Paraguay
+1520,2019,2019-01-22,2019-05-20,Division Profesional - Apertura,League,Paraguay
+1521,2020,2020-01-17,2020-09-27,Division Profesional - Apertura,League,Paraguay
+1522,2021,2021-02-05,2021-05-24,Division Profesional - Apertura,League,Paraguay
+1523,2022,2022-02-04,2022-07-02,Division Profesional - Apertura,League,Paraguay
+1524,2016,2016-03-16,2016-12-07,Copa Do Brasil,Cup,Brazil
+1525,2017,2017-02-22,2017-09-28,Copa Do Brasil,Cup,Brazil
+1526,2018,2018-01-30,2018-10-18,Copa Do Brasil,Cup,Brazil
+1527,2019,2019-02-05,2019-09-19,Copa Do Brasil,Cup,Brazil
+1528,2020,2020-02-05,2021-02-18,Copa Do Brasil,Cup,Brazil
+1529,2021,2021-03-09,2021-12-15,Copa Do Brasil,Cup,Brazil
+1530,2022,2022-02-22,2022-10-20,Copa Do Brasil,Cup,Brazil
+1531,2016,2016-08-16,2017-04-30,KNVB Beker,Cup,Netherlands
+1532,2017,2017-08-19,2018-04-22,KNVB Beker,Cup,Netherlands
+1533,2018,2018-08-18,2019-05-05,KNVB Beker,Cup,Netherlands
+1534,2019,2019-08-17,2020-04-19,KNVB Beker,Cup,Netherlands
+1535,2020,2020-08-29,2021-04-18,KNVB Beker,Cup,Netherlands
+1536,2021,2021-08-14,2022-04-17,KNVB Beker,Cup,Netherlands
+1537,2022,2022-08-13,2023-01-10,KNVB Beker,Cup,Netherlands
+1538,2016,2016-08-05,2017-04-28,Challenger Pro League,League,Belgium
+1539,2017,2017-08-04,2018-04-29,Challenger Pro League,League,Belgium
+1540,2018,2018-08-03,2019-04-26,Challenger Pro League,League,Belgium
+1541,2019,2019-08-02,2020-08-02,Challenger Pro League,League,Belgium
+1542,2020,2020-08-21,2021-04-23,Challenger Pro League,League,Belgium
+1543,2021,2021-08-13,2022-04-15,Challenger Pro League,League,Belgium
+1544,2022,2022-08-12,2023-02-10,Challenger Pro League,League,Belgium
+1545,2017,2017-03-11,2017-10-28,League One,League,China
+1546,2018,2018-03-10,2018-11-03,League One,League,China
+1547,2019,2019-03-09,2019-11-02,League One,League,China
+1548,2020,2020-09-12,2020-11-21,League One,League,China
+1549,2021,2021-04-24,2021-12-30,League One,League,China
+1550,2022,2022-06-08,2022-11-13,League One,League,China
+1551,2016,2016-08-19,2017-05-28,First NL,League,Croatia
+1552,2017,2017-08-18,2018-05-20,First NL,League,Croatia
+1553,2018,2018-08-24,2019-05-25,First NL,League,Croatia
+1554,2019,2019-08-16,2020-05-16,First NL,League,Croatia
+1555,2020,2020-08-13,2021-05-29,First NL,League,Croatia
+1556,2021,2021-08-13,2022-05-28,First NL,League,Croatia
+1557,2018,2018-09-15,2019-05-12,Frauen Bundesliga,League,Germany
+1558,2019,2019-09-07,2020-05-16,Primera División Femenina,League,Spain
+1559,2016,2016-05-06,2016-09-24,1. Deild,League,Iceland
+1560,2017,2017-05-05,2017-09-23,1. Deild,League,Iceland
+1561,2018,2018-05-05,2018-09-22,1. Deild,League,Iceland
+1562,2019,2019-05-04,2019-09-21,1. Deild,League,Iceland
+1563,2020,2020-06-19,2020-11-14,1. Deild,League,Iceland
+1564,2021,2021-05-06,2021-09-18,1. Deild,League,Iceland
+1565,2022,2022-05-05,2022-09-17,1. Deild,League,Iceland
+1566,2019,2019-04-28,2019-11-17,Division Intermedia,League,Paraguay
+1567,2020,2020-03-22,2020-10-10,Division Intermedia,League,Paraguay
+1568,2022,2022-04-01,2022-10-23,Division Intermedia,League,Paraguay
+1569,2016,2016-04-03,2016-11-26,1. Division,League,Norway
+1570,2017,2017-04-02,2017-11-19,1. Division,League,Norway
+1571,2018,2018-04-02,2018-11-29,1. Division,League,Norway
+1572,2019,2019-03-30,2019-11-09,1. Division,League,Norway
+1573,2020,2020-07-03,2020-12-22,1. Division,League,Norway
+1574,2021,2021-05-15,2021-12-12,1. Division,League,Norway
+1575,2022,2022-04-02,2022-11-03,1. Division,League,Norway
+1576,2016,2016-04-02,2016-11-05,Superettan,League,Sweden
+1577,2017,2017-04-01,2017-11-04,Superettan,League,Sweden
+1578,2018,2018-03-31,2018-11-10,Superettan,League,Sweden
+1579,2019,2019-03-30,2019-11-03,Superettan,League,Sweden
+1580,2020,2020-06-16,2020-12-13,Superettan,League,Sweden
+1581,2021,2021-04-10,2021-12-05,Superettan,League,Sweden
+1582,2022,2022-04-03,2022-11-05,Superettan,League,Sweden
+1583,2016,2016-07-23,2017-06-03,Challenge League,League,Switzerland
+1584,2017,2017-07-21,2018-05-21,Challenge League,League,Switzerland
+1585,2018,2018-07-20,2019-05-26,Challenge League,League,Switzerland
+1586,2019,2019-07-20,2020-08-02,Challenge League,League,Switzerland
+1587,2020,2020-09-18,2021-05-22,Challenge League,League,Switzerland
+1588,2021,2021-07-23,2022-05-21,Challenge League,League,Switzerland
+1589,2022,2022-07-15,2023-05-27,Challenge League,League,Switzerland
+1590,2016,2016-07-16,2017-05-28,Liga MX,League,Mexico
+1591,2017,2017-07-22,2018-05-21,Liga MX,League,Mexico
+1592,2018,2018-07-21,2019-05-27,Liga MX,League,Mexico
+1593,2019,2019-07-20,2020-05-11,Liga MX,League,Mexico
+1594,2020,2020-07-25,2021-05-31,Liga MX,League,Mexico
+1595,2021,2021-07-23,2022-05-30,Liga MX,League,Mexico
+1596,2022,2022-07-02,2022-10-30,Liga MX,League,Mexico
+1597,2016,2016-07-16,2017-05-21,Liga de Expansión MX,League,Mexico
+1598,2017,2017-07-22,2018-05-13,Liga de Expansión MX,League,Mexico
+1599,2018,2018-07-21,2019-05-06,Liga de Expansión MX,League,Mexico
+1600,2019,2019-08-02,2020-04-13,Liga de Expansión MX,League,Mexico
+1601,2016,2016-02-13,2016-10-22,Super League,League,Malaysia
+1602,2017,2017-01-20,2017-10-28,Super League,League,Malaysia
+1603,2018,2018-02-03,2018-07-29,Super League,League,Malaysia
+1604,2019,2019-02-01,2019-07-21,Super League,League,Malaysia
+1605,2020,2020-02-28,2020-10-10,Super League,League,Malaysia
+1606,2021,2021-03-05,2021-08-08,Super League,League,Malaysia
+1607,2022,2022-03-04,2022-09-17,Super League,League,Malaysia
+1608,2016,2016-02-12,2016-10-22,Premier League,League,Malaysia
+1609,2017,2017-01-20,2017-10-27,Premier League,League,Malaysia
+1610,2019,2019-02-01,2019-07-20,Premier League,League,Malaysia
+1611,2020,2020-02-29,2020-10-09,Premier League,League,Malaysia
+1612,2021,2021-03-06,2021-08-24,Premier League,League,Malaysia
+1613,2022,2022-03-05,2022-09-04,Premier League,League,Malaysia
+1614,2016,2016-02-05,2016-12-18,Primera División,League,Peru
+1615,2017,2017-02-04,2017-12-03,Primera División,League,Peru
+1616,2018,2018-02-03,2018-12-16,Primera División,League,Peru
+1617,2019,2019-02-16,2019-12-15,Primera División,League,Peru
+1618,2020,2020-02-01,2020-12-20,Primera División,League,Peru
+1619,2021,2021-03-12,2021-11-28,Primera División,League,Peru
+1620,2022,2022-02-04,2022-11-06,Primera División,League,Peru
+1621,2016,2016-04-23,2016-12-11,Segunda División,League,Peru
+1622,2017,2017-04-22,2017-11-26,Segunda División,League,Peru
+1623,2018,2018-04-08,2018-12-02,Segunda División,League,Peru
+1624,2019,2019-05-19,2019-11-02,Segunda División,League,Peru
+1625,2020,2020-10-27,2020-12-27,Segunda División,League,Peru
+1626,2021,2021-05-19,2021-10-15,Segunda División,League,Peru
+1627,2022,2022-04-02,2022-09-25,Segunda División,League,Peru
+1628,2016,2016-07-22,2017-06-05,Liga I,League,Romania
+1629,2017,2017-07-14,2018-06-02,Liga I,League,Romania
+1630,2018,2018-07-20,2019-06-02,Liga I,League,Romania
+1631,2019,2019-07-12,2020-08-15,Liga I,League,Romania
+1632,2020,2020-08-21,2021-06-03,Liga I,League,Romania
+1633,2021,2021-07-15,2022-05-27,Liga I,League,Romania
+1634,2022,2022-07-16,2023-03-11,Liga I,League,Romania
+1635,2016,2016-08-06,2017-06-03,Liga II,League,Romania
+1636,2017,2017-08-04,2018-06-02,Liga II,League,Romania
+1637,2018,2018-08-03,2019-06-01,Liga II,League,Romania
+1638,2019,2019-08-02,2020-08-02,Liga II,League,Romania
+1639,2020,2020-08-29,2021-05-23,Liga II,League,Romania
+1640,2021,2021-07-31,2022-05-21,Liga II,League,Romania
+1641,2022,2022-08-06,2023-03-11,Liga II,League,Romania
+1642,2016,2016-07-22,2017-05-21,Super Liga,League,Serbia
+1643,2017,2017-07-21,2018-05-19,Super Liga,League,Serbia
+1644,2018,2018-07-20,2019-05-19,Super Liga,League,Serbia
+1645,2019,2019-07-19,2020-06-20,Super Liga,League,Serbia
+1646,2020,2020-07-31,2021-05-19,Super Liga,League,Serbia
+1647,2021,2021-07-16,2022-05-28,Super Liga,League,Serbia
+1648,2022,2022-07-09,2023-04-09,Super Liga,League,Serbia
+1649,2016,2016-08-12,2017-05-27,Prva Liga,League,Serbia
+1650,2017,2017-08-18,2018-05-31,Prva Liga,League,Serbia
+1651,2018,2018-08-10,2019-05-19,Prva Liga,League,Serbia
+1652,2019,2019-08-02,2020-06-20,Prva Liga,League,Serbia
+1653,2020,2020-08-14,2021-05-19,Prva Liga,League,Serbia
+1654,2021,2021-08-06,2022-05-21,Prva Liga,League,Serbia
+1655,2022,2022-07-30,2023-04-13,Prva Liga,League,Serbia
+1656,2016,2016-08-23,2017-05-27,Premier Soccer League,League,South-Africa
+1657,2017,2017-08-18,2018-05-12,Premier Soccer League,League,South-Africa
+1658,2018,2018-08-04,2019-05-11,Premier Soccer League,League,South-Africa
+1659,2019,2019-08-03,2020-09-21,Premier Soccer League,League,South-Africa
+1660,2020,2020-10-24,2021-06-30,Premier Soccer League,League,South-Africa
+1661,2021,2021-08-20,2022-06-15,Premier Soccer League,League,South-Africa
+1662,2022,2022-08-05,2023-05-20,Premier Soccer League,League,South-Africa
+1663,2018,2018-08-11,2019-04-30,Azadegan League,League,Iran
+1664,2019,2019-08-17,2020-08-16,Azadegan League,League,Iran
+1665,2020,2020-11-22,2021-07-19,Azadegan League,League,Iran
+1666,2021,2021-10-16,2022-06-07,Azadegan League,League,Iran
+1667,2022,2022-08-27,2022-12-20,Azadegan League,League,Iran
+1668,2016,2016-08-11,2017-05-04,Pro League,League,Saudi-Arabia
+1669,2017,2017-08-10,2018-04-12,Pro League,League,Saudi-Arabia
+1670,2018,2018-08-30,2019-05-16,Pro League,League,Saudi-Arabia
+1671,2019,2019-08-22,2020-09-09,Pro League,League,Saudi-Arabia
+1672,2020,2020-10-17,2021-05-30,Pro League,League,Saudi-Arabia
+1673,2021,2021-08-11,2022-05-29,Pro League,League,Saudi-Arabia
+1674,2022,2022-08-25,2023-02-02,Pro League,League,Saudi-Arabia
+1675,2016,2016-08-11,2017-05-05,Division 1,League,Saudi-Arabia
+1676,2017,2017-09-12,2018-04-18,Division 1,League,Saudi-Arabia
+1677,2018,2018-08-28,2019-05-15,Division 1,League,Saudi-Arabia
+1678,2019,2019-08-20,2020-09-20,Division 1,League,Saudi-Arabia
+1679,2020,2020-10-20,2021-05-31,Division 1,League,Saudi-Arabia
+1680,2021,2021-09-06,2022-05-29,Division 1,League,Saudi-Arabia
+1681,2022,2022-08-22,2023-01-18,Division 1,League,Saudi-Arabia
+1682,2016,2016-07-08,2016-12-18,Division Profesional - Clausura,League,Paraguay
+1683,2017,2017-07-21,2017-12-10,Division Profesional - Clausura,League,Paraguay
+1684,2018,2018-07-17,2018-12-08,Division Profesional - Clausura,League,Paraguay
+1685,2019,2019-07-12,2019-12-15,Division Profesional - Clausura,League,Paraguay
+1686,2020,2020-10-16,2020-12-30,Division Profesional - Clausura,League,Paraguay
+1687,2021,2021-07-16,2021-12-05,Division Profesional - Clausura,League,Paraguay
+1688,2022,2022-07-15,2022-11-14,Division Profesional - Clausura,League,Paraguay
+1689,2017,2017-08-27,2018-05-28,Second League,League,Macedonia
+1690,2019,2019-08-24,2020-05-08,Second League,League,Macedonia
+1691,2020,2020-08-22,2021-05-15,Second League,League,Macedonia
+1692,2021,2021-08-25,2022-05-14,Second League,League,Macedonia
+1693,2022,2022-08-13,2023-05-13,Second League,League,Macedonia
+1694,2017,2017-01-04,2017-12-25,Friendlies,Cup,World
+1695,2018,2018-01-27,2018-12-31,Friendlies,Cup,World
+1696,2019,2019-01-28,2019-11-21,Friendlies,Cup,World
+1697,2020,2020-01-08,2020-12-10,Friendlies,Cup,World
+1698,2021,2021-01-09,2021-12-30,Friendlies,Cup,World
+1699,2022,2022-01-01,2022-12-30,Friendlies,Cup,World
+1700,2017,2016-08-19,2017-11-04,AFC Cup,Cup,World
+1701,2018,2018-01-22,2018-10-27,AFC Cup,Cup,World
+1702,2019,2019-02-05,2019-11-04,AFC Cup,Cup,World
+1703,2020,2020-01-21,2020-11-04,AFC Cup,Cup,World
+1704,2021,2021-04-07,2021-11-05,AFC Cup,Cup,World
+1705,2022,2022-04-05,2022-10-22,AFC Cup,Cup,World
+1706,2017,2017-08-11,2018-05-12,Premiership,League,Northern-Ireland
+1707,2018,2018-08-04,2019-05-11,Premiership,League,Northern-Ireland
+1708,2019,2019-08-09,2020-03-21,Premiership,League,Northern-Ireland
+1709,2020,2020-10-16,2021-06-05,Premiership,League,Northern-Ireland
+1710,2021,2021-08-27,2022-05-13,Premiership,League,Northern-Ireland
+1711,2022,2022-08-13,2023-03-25,Premiership,League,Northern-Ireland
+1712,2017,2017-09-16,2018-04-19,Division 1,League,Kuwait
+1713,2019,2019-09-18,2020-09-04,Division 1,League,Kuwait
+1714,2022,2022-08-28,2022-11-09,Division 1,League,Kuwait
+1715,2017,2017-10-20,2018-05-16,Premier League,League,Syria
+1716,2018,2018-09-21,2019-05-18,Premier League,League,Syria
+1717,2019,2019-10-20,2020-07-18,Premier League,League,Syria
+1718,2020,2020-10-21,2021-05-10,Premier League,League,Syria
+1719,2021,2021-08-13,2022-05-07,Premier League,League,Syria
+1720,2022,2022-09-02,2023-02-17,Premier League,League,Syria
+1721,2017,2017-01-21,2017-05-07,Alagoano,Cup,Brazil
+1722,2018,2018-01-21,2018-04-08,Alagoano,Cup,Brazil
+1723,2019,2019-01-19,2019-04-21,Alagoano,Cup,Brazil
+1724,2020,2020-01-22,2020-08-06,Alagoano,Cup,Brazil
+1725,2021,2021-02-20,2021-05-26,Alagoano,Cup,Brazil
+1726,2017,2017-07-15,2018-06-02,Druha Liga - Group B,League,Ukraine
+1727,2018,2018-07-21,2019-05-25,Druha Liga - Group B,League,Ukraine
+1728,2019,2019-07-27,2020-05-22,Druha Liga - Group B,League,Ukraine
+1729,2020,2020-09-05,2021-06-11,Druha Liga - Group B,League,Ukraine
+1730,2021,2021-07-25,2022-05-21,Druha Liga - Group B,League,Ukraine
+1731,2017,2017-07-14,2017-11-26,League Cup,Cup,Scotland
+1732,2018,2018-07-13,2018-12-02,League Cup,Cup,Scotland
+1733,2019,2019-07-12,2019-12-08,League Cup,Cup,Scotland
+1734,2020,2020-10-06,2021-02-28,League Cup,Cup,Scotland
+1735,2021,2021-07-09,2021-12-19,League Cup,Cup,Scotland
+1736,2022,2022-07-09,2023-01-14,League Cup,Cup,Scotland
+1737,2017,2017-08-15,2018-06-13,Premier League,League,Libya
+1738,2018,2018-11-22,2019-04-03,Premier League,League,Libya
+1739,2021,2021-11-21,2022-07-30,Premier League,League,Libya
+1740,2022,2022-10-19,2022-12-25,Premier League,League,Libya
+1741,2018,2018-07-20,2019-05-19,Ekstraklasa,League,Poland
+1742,2019,2019-07-19,2020-07-19,Ekstraklasa,League,Poland
+1743,2020,2020-08-21,2021-05-16,Ekstraklasa,League,Poland
+1744,2021,2021-07-23,2022-05-21,Ekstraklasa,League,Poland
+1745,2022,2022-07-16,2023-05-27,Ekstraklasa,League,Poland
+1746,2018,2018-09-06,2019-06-09,UEFA Nations League,Cup,World
+1747,2020,2020-09-03,2022-03-28,UEFA Nations League,Cup,World
+1748,2022,2022-06-01,2024-03-24,UEFA Nations League,Cup,World
+1749,2018,2018-07-28,2019-06-02,Liga de Ascenso,League,Costa-Rica
+1750,2019,2019-07-27,2020-06-23,Liga de Ascenso,League,Costa-Rica
+1751,2022,2022-07-29,2023-04-09,Liga de Ascenso,League,Costa-Rica
+1752,2018,2018-02-02,2018-12-02,Primera División,League,Chile
+1753,2019,2019-02-15,2019-12-21,Primera División,League,Chile
+1754,2020,2020-01-24,2021-02-17,Primera División,League,Chile
+1755,2021,2021-03-27,2021-12-05,Primera División,League,Chile
+1756,2022,2022-02-04,2022-11-06,Primera División,League,Chile
+1757,2018,2018-02-02,2018-11-03,Primera B,League,Chile
+1758,2019,2019-02-15,2020-01-23,Primera B,League,Chile
+1759,2020,2020-02-22,2021-02-07,Primera B,League,Chile
+1760,2021,2021-04-03,2021-12-10,Primera B,League,Chile
+1761,2022,2022-02-13,2022-10-30,Primera B,League,Chile
+1762,2018,2018-08-25,2019-05-05,1. Division,League,Cyprus
+1763,2019,2019-08-23,2020-04-15,1. Division,League,Cyprus
+1764,2020,2020-08-21,2021-05-29,1. Division,League,Cyprus
+1765,2021,2021-08-20,2022-05-22,1. Division,League,Cyprus
+1766,2022,2022-08-27,2023-03-04,1. Division,League,Cyprus
+1767,2018,2018-09-14,2019-05-18,2. Division,League,Cyprus
+1768,2019,2019-09-20,2020-05-16,2. Division,League,Cyprus
+1769,2020,2020-09-11,2021-04-24,2. Division,League,Cyprus
+1770,2021,2021-09-10,2022-05-08,2. Division,League,Cyprus
+1771,2022,2022-09-10,2023-01-07,2. Division,League,Cyprus
+1772,2019,2019-09-21,2020-05-09,3. Division,League,Cyprus
+1773,2020,2020-09-19,2021-05-29,3. Division,League,Cyprus
+1774,2021,2021-09-25,2022-04-17,3. Division,League,Cyprus
+1775,2022,2022-10-01,2023-01-14,3. Division,League,Cyprus
+1776,2018,2018-09-29,2019-03-17,Indian Super League,League,India
+1777,2019,2019-10-20,2020-03-14,Indian Super League,League,India
+1778,2020,2020-11-20,2021-03-13,Indian Super League,League,India
+1779,2021,2021-11-19,2022-03-20,Indian Super League,League,India
+1780,2022,2022-10-07,2023-02-26,Indian Super League,League,India
+1781,2018,2018-10-26,2019-03-09,I-League,League,India
+1782,2019,2019-11-30,2020-04-11,I-League,League,India
+1783,2020,2021-01-09,2021-03-27,I-League,League,India
+1784,2021,2021-12-26,2022-05-14,I-League,League,India
+1785,2018,2018-07-20,2019-05-18,I Liga,League,Poland
+1786,2019,2019-07-26,2020-07-31,I Liga,League,Poland
+1787,2020,2020-08-28,2021-06-20,I Liga,League,Poland
+1788,2021,2021-07-30,2022-05-29,I Liga,League,Poland
+1789,2022,2022-07-16,2023-06-03,I Liga,League,Poland
+1790,2018,2018-07-21,2019-05-24,Super Liga,League,Slovakia
+1791,2019,2019-07-20,2020-07-17,Super Liga,League,Slovakia
+1792,2020,2020-08-08,2021-05-28,Super Liga,League,Slovakia
+1793,2021,2021-07-23,2022-05-29,Super Liga,League,Slovakia
+1794,2022,2022-07-15,2023-03-04,Super Liga,League,Slovakia
+1795,2018,2018-07-20,2019-06-01,Czech Liga,League,Czech-Republic
+1796,2019,2019-07-12,2020-07-26,Czech Liga,League,Czech-Republic
+1797,2020,2020-08-21,2021-05-29,Czech Liga,League,Czech-Republic
+1798,2021,2021-07-24,2022-05-22,Czech Liga,League,Czech-Republic
+1799,2022,2022-07-30,2023-04-29,Czech Liga,League,Czech-Republic
+1800,2019,2019-08-11,2020-07-28,Second League,League,Montenegro
+1801,2020,2020-08-23,2021-05-27,Second League,League,Montenegro
+1802,2021,2021-08-15,2022-05-24,Second League,League,Montenegro
+1803,2022,2022-08-14,2022-12-03,Second League,League,Montenegro
+1804,2018,2018-07-15,2018-08-04,USL League Two,League,USA
+1805,2018,2018-07-20,2019-05-25,1. SNL,League,Slovenia
+1806,2019,2019-07-13,2020-07-30,1. SNL,League,Slovenia
+1807,2020,2020-08-22,2021-06-02,1. SNL,League,Slovenia
+1808,2021,2021-07-16,2022-05-29,1. SNL,League,Slovenia
+1809,2022,2022-07-16,2023-05-20,1. SNL,League,Slovenia
+1810,2018,2018-08-04,2019-05-26,2. SNL,League,Slovenia
+1811,2019,2019-07-27,2020-05-16,2. SNL,League,Slovenia
+1812,2020,2020-08-11,2021-05-22,2. SNL,League,Slovenia
+1813,2021,2021-07-30,2022-05-21,2. SNL,League,Slovenia
+1814,2022,2022-07-31,2023-05-20,2. SNL,League,Slovenia
+1815,2018,2018-09-05,2019-05-25,Copa del Rey,Cup,Spain
+1816,2019,2019-11-13,2020-05-01,Copa del Rey,Cup,Spain
+1817,2020,2020-11-11,2021-04-17,Copa del Rey,Cup,Spain
+1818,2021,2021-11-17,2022-04-23,Copa del Rey,Cup,Spain
+1819,2022,2022-10-19,2022-11-13,Copa del Rey,Cup,Spain
+1820,2018,2015-03-23,2017-10-11,World Cup - Qualification CONCACAF,Cup,World
+1821,2018,2016-09-04,2017-11-11,World Cup - Qualification Europe,Cup,World
+1822,2018,2015-08-31,2017-09-05,World Cup - Qualification Oceania,Cup,World
+1823,2022,2022-03-13,2022-03-30,World Cup - Qualification Oceania,Cup,World
+1824,2018,2015-10-08,2017-10-10,World Cup - Qualification South America,Cup,World
+1825,2022,2020-10-08,2022-03-29,World Cup - Qualification South America,Cup,World
+1826,2018,2015-10-07,2017-11-14,World Cup - Qualification Africa,Cup,World
+1827,2022,2019-09-04,2022-03-29,World Cup - Qualification Africa,Cup,World
+1828,2018,2015-03-12,2017-10-10,World Cup - Qualification Asia,Cup,World
+1829,2022,2019-06-06,2022-06-07,World Cup - Qualification Asia,Cup,World
+1830,2019,2019-08-09,2020-06-13,Landesliga - Burgenland,League,Austria
+1831,2020,2020-08-21,2021-06-12,Landesliga - Burgenland,League,Austria
+1832,2021,2021-07-30,2022-06-11,Landesliga - Burgenland,League,Austria
+1833,2022,2022-07-29,2023-06-10,Landesliga - Burgenland,League,Austria
+1834,2019,2019-07-26,2020-06-14,Landesliga - Karnten,League,Austria
+1835,2020,2020-07-31,2021-06-13,Landesliga - Karnten,League,Austria
+1836,2021,2021-07-23,2022-06-16,Landesliga - Karnten,League,Austria
+1837,2022,2022-07-22,2023-06-11,Landesliga - Karnten,League,Austria
+1838,2019,2019-08-09,2020-06-14,Landesliga - Niederosterreich,League,Austria
+1839,2020,2020-08-21,2021-06-13,Landesliga - Niederosterreich,League,Austria
+1840,2021,2021-08-13,2022-06-19,Landesliga - Niederosterreich,League,Austria
+1841,2022,2022-08-13,2023-06-18,Landesliga - Niederosterreich,League,Austria
+1842,2019,2019-08-09,2020-06-13,Landesliga - Oberosterreich,League,Austria
+1843,2020,2020-08-14,2021-06-12,Landesliga - Oberosterreich,League,Austria
+1844,2021,2021-08-06,2022-06-11,Landesliga - Oberosterreich,League,Austria
+1845,2022,2022-08-04,2023-06-10,Landesliga - Oberosterreich,League,Austria
+1846,2019,2019-08-02,2020-06-06,Landesliga - Salzburg,League,Austria
+1847,2020,2020-08-14,2021-06-12,Landesliga - Salzburg,League,Austria
+1848,2021,2021-08-06,2022-06-11,Landesliga - Salzburg,League,Austria
+1849,2022,2022-08-06,2023-06-10,Landesliga - Salzburg,League,Austria
+1850,2019,2019-08-09,2020-06-12,Landesliga - Steiermark,League,Austria
+1851,2020,2020-08-28,2021-06-11,Landesliga - Steiermark,League,Austria
+1852,2021,2021-07-30,2022-06-11,Landesliga - Steiermark,League,Austria
+1853,2022,2022-07-29,2023-06-09,Landesliga - Steiermark,League,Austria
+1854,2019,2019-08-09,2020-06-19,Landesliga - Tirol,League,Austria
+1855,2020,2020-08-07,2021-06-12,Landesliga - Tirol,League,Austria
+1856,2021,2021-07-23,2022-06-18,Landesliga - Tirol,League,Austria
+1857,2022,2022-07-29,2023-06-17,Landesliga - Tirol,League,Austria
+1858,2019,2019-07-26,2020-06-12,Landesliga - Vorarlbergliga,League,Austria
+1859,2020,2020-08-07,2021-06-12,Landesliga - Vorarlbergliga,League,Austria
+1860,2021,2021-07-16,2022-06-11,Landesliga - Vorarlbergliga,League,Austria
+1861,2022,2022-07-22,2023-06-10,Landesliga - Vorarlbergliga,League,Austria
+1862,2019,2019-08-16,2020-06-14,Landesliga - Wien,League,Austria
+1863,2020,2020-08-21,2021-06-20,Landesliga - Wien,League,Austria
+1864,2021,2021-08-20,2022-06-19,Landesliga - Wien,League,Austria
+1865,2022,2022-08-13,2023-06-18,Landesliga - Wien,League,Austria
+1866,2019,2019-08-31,2020-04-18,Third NL - Istok,League,Croatia
+1867,2020,2020-08-29,2021-06-05,Third NL - Istok,League,Croatia
+1868,2019,2019-08-31,2020-05-23,Third NL - Jug,League,Croatia
+1869,2020,2020-08-29,2021-06-13,Third NL - Jug,League,Croatia
+1870,2019,2019-08-24,2020-04-18,Third NL - Sjever,League,Croatia
+1871,2020,2020-08-22,2021-06-12,Third NL - Sjever,League,Croatia
+1872,2019,2019-08-24,2020-05-23,Third NL - Sredite,League,Croatia
+1873,2020,2020-08-22,2021-06-12,Third NL - Sredite,League,Croatia
+1874,2019,2019-08-24,2020-05-30,Third NL - Zapad,League,Croatia
+1875,2020,2020-08-22,2021-06-12,Third NL - Zapad,League,Croatia
+1876,2019,2019-08-17,2020-04-25,Non League Div One - Isthmian North,League,England
+1877,2020,2020-09-19,2021-05-22,Non League Div One - Isthmian North,League,England
+1878,2021,2021-08-14,2022-04-23,Non League Div One - Isthmian North,League,England
+1879,2022,2022-08-13,2023-04-22,Non League Div One - Isthmian North,League,England
+1880,2019,2019-08-17,2020-04-25,Non League Div One - Isthmian South Central,League,England
+1881,2020,2020-09-19,2021-05-22,Non League Div One - Isthmian South Central,League,England
+1882,2021,2021-08-14,2022-04-23,Non League Div One - Isthmian South Central,League,England
+1883,2022,2022-08-13,2023-04-22,Non League Div One - Isthmian South Central,League,England
+1884,2019,2019-08-17,2020-04-25,Non League Div One - Northern West,League,England
+1885,2020,2020-09-19,2021-05-08,Non League Div One - Northern West,League,England
+1886,2022,2022-08-13,2023-04-22,Non League Div One - Northern West,League,England
+1887,2019,2019-08-17,2020-04-25,Non League Div One - Northern Midlands,League,England
+1888,2020,2020-09-19,2021-05-08,Non League Div One - Northern Midlands,League,England
+1889,2022,2022-08-13,2023-04-22,Non League Div One - Northern Midlands,League,England
+1890,2019,2019-08-17,2020-04-25,Non League Div One - Southern South,League,England
+1891,2020,2020-09-19,2021-05-08,Non League Div One - Southern South,League,England
+1892,2021,2021-08-14,2022-04-23,Non League Div One - Southern South,League,England
+1893,2022,2022-08-13,2023-04-22,Non League Div One - Southern South,League,England
+1894,2019,2019-08-17,2020-04-25,Non League Div One - Isthmian South East,League,England
+1895,2020,2020-09-19,2021-05-22,Non League Div One - Isthmian South East,League,England
+1896,2021,2021-08-14,2022-04-23,Non League Div One - Isthmian South East,League,England
+1897,2022,2022-08-13,2023-04-22,Non League Div One - Isthmian South East,League,England
+1898,2019,2019-08-10,2020-04-25,Non League Premier - Isthmian,League,England
+1899,2020,2020-09-19,2021-05-22,Non League Premier - Isthmian,League,England
+1900,2021,2021-08-14,2022-04-23,Non League Premier - Isthmian,League,England
+1901,2022,2022-08-13,2023-04-22,Non League Premier - Isthmian,League,England
+1902,2019,2019-08-17,2020-04-25,Non League Premier - Northern,League,England
+1903,2020,2020-09-19,2021-05-08,Non League Premier - Northern,League,England
+1904,2021,2021-08-14,2022-04-23,Non League Premier - Northern,League,England
+1905,2022,2022-08-13,2023-04-22,Non League Premier - Northern,League,England
+1906,2019,2019-08-10,2020-04-25,Non League Premier - Southern South,League,England
+1907,2020,2020-09-19,2021-05-08,Non League Premier - Southern South,League,England
+1908,2021,2021-08-14,2022-04-23,Non League Premier - Southern South,League,England
+1909,2022,2022-08-06,2023-04-22,Non League Premier - Southern South,League,England
+1910,2019,2019-08-24,2020-05-23,Derde Divisie - Saturday,League,Netherlands
+1911,2020,2020-09-05,2021-05-22,Derde Divisie - Saturday,League,Netherlands
+1912,2021,2021-08-14,2022-05-28,Derde Divisie - Saturday,League,Netherlands
+1913,2022,2022-08-20,2023-05-27,Derde Divisie - Saturday,League,Netherlands
+1914,2019,2019-08-24,2020-05-24,Derde Divisie - Sunday,League,Netherlands
+1915,2020,2020-09-06,2021-05-24,Derde Divisie - Sunday,League,Netherlands
+1916,2021,2021-08-22,2022-05-29,Derde Divisie - Sunday,League,Netherlands
+1917,2022,2022-08-21,2023-05-28,Derde Divisie - Sunday,League,Netherlands
+1918,2019,2019-07-27,2020-07-31,II Liga - East,League,Poland
+1919,2020,2020-08-28,2021-06-19,II Liga - East,League,Poland
+1920,2021,2021-07-30,2022-05-29,II Liga - East,League,Poland
+1921,2022,2022-07-16,2023-06-04,II Liga - East,League,Poland
+1922,2019,2019-07-11,2020-11-07,Regionalliga - Bayern,League,Germany
+1923,2021,2021-07-15,2022-05-21,Regionalliga - Bayern,League,Germany
+1924,2022,2022-07-14,2023-05-27,Regionalliga - Bayern,League,Germany
+1925,2019,2019-07-26,2020-05-17,Regionalliga - Nord,League,Germany
+1926,2020,2020-09-04,2021-01-31,Regionalliga - Nord,League,Germany
+1927,2021,2021-08-13,2022-02-20,Regionalliga - Nord,League,Germany
+1928,2022,2022-07-30,2023-05-27,Regionalliga - Nord,League,Germany
+1929,2019,2019-07-26,2020-05-16,Regionalliga - Nordost,League,Germany
+1930,2020,2020-08-15,2021-06-13,Regionalliga - Nordost,League,Germany
+1931,2021,2021-07-23,2022-05-15,Regionalliga - Nordost,League,Germany
+1932,2022,2022-08-05,2023-05-28,Regionalliga - Nordost,League,Germany
+1933,2019,2019-07-26,2020-05-16,Regionalliga - SudWest,League,Germany
+1934,2020,2020-09-01,2021-06-12,Regionalliga - SudWest,League,Germany
+1935,2021,2021-08-13,2022-05-14,Regionalliga - SudWest,League,Germany
+1936,2022,2022-08-06,2023-05-27,Regionalliga - SudWest,League,Germany
+1937,2019,2019-07-26,2020-05-16,Regionalliga - West,League,Germany
+1938,2020,2020-09-04,2021-06-05,Regionalliga - West,League,Germany
+1939,2021,2021-08-13,2022-05-14,Regionalliga - West,League,Germany
+1940,2022,2022-07-22,2023-05-13,Regionalliga - West,League,Germany
+1941,2019,2019-09-01,2020-05-03,Serie D - Girone A,League,Italy
+1942,2021,2021-09-18,2022-05-15,Serie D - Girone A,League,Italy
+1943,2022,2022-09-04,2023-05-07,Serie D - Girone A,League,Italy
+1944,2019,2019-09-01,2020-05-03,Serie D - Girone B,League,Italy
+1945,2021,2021-09-19,2022-05-15,Serie D - Girone B,League,Italy
+1946,2022,2022-09-04,2023-05-07,Serie D - Girone B,League,Italy
+1947,2019,2019-09-01,2020-05-03,Serie D - Girone C,League,Italy
+1948,2021,2021-09-18,2022-05-15,Serie D - Girone C,League,Italy
+1949,2022,2022-09-04,2023-05-07,Serie D - Girone C,League,Italy
+1950,2019,2019-09-01,2020-05-03,Serie D - Girone D,League,Italy
+1951,2021,2021-09-19,2022-05-15,Serie D - Girone D,League,Italy
+1952,2022,2022-09-04,2023-05-07,Serie D - Girone D,League,Italy
+1953,2019,2019-09-01,2020-05-03,Serie D - Girone E,League,Italy
+1954,2021,2021-09-18,2022-05-15,Serie D - Girone E,League,Italy
+1955,2022,2022-09-04,2023-05-07,Serie D - Girone E,League,Italy
+1956,2019,2019-09-01,2020-05-03,Serie D - Girone F,League,Italy
+1957,2021,2021-09-19,2022-05-15,Serie D - Girone F,League,Italy
+1958,2022,2022-09-04,2023-05-07,Serie D - Girone F,League,Italy
+1959,2019,2019-09-01,2020-05-03,Serie D - Girone G,League,Italy
+1960,2021,2021-09-19,2022-05-15,Serie D - Girone G,League,Italy
+1961,2022,2022-09-04,2023-05-07,Serie D - Girone G,League,Italy
+1962,2019,2019-09-01,2020-05-03,Serie D - Girone H,League,Italy
+1963,2021,2021-09-19,2022-05-15,Serie D - Girone H,League,Italy
+1964,2022,2022-09-04,2023-05-07,Serie D - Girone H,League,Italy
+1965,2019,2019-09-01,2020-05-03,Serie D - Girone I,League,Italy
+1966,2021,2021-09-19,2022-05-15,Serie D - Girone I,League,Italy
+1967,2022,2022-09-18,2023-05-07,Serie D - Girone I,League,Italy
+1968,2019,2019-08-24,2020-05-16,Primera División RFEF - Group 1,League,Spain
+1969,2020,2020-10-17,2021-05-23,Primera División RFEF - Group 1,League,Spain
+1970,2019,2019-08-24,2020-05-16,Primera División RFEF - Group 2,League,Spain
+1971,2020,2020-10-17,2021-05-23,Primera División RFEF - Group 2,League,Spain
+1972,2019,2019-08-24,2020-05-16,Primera División RFEF - Group 3,League,Spain
+1973,2020,2020-10-17,2021-05-23,Primera División RFEF - Group 3,League,Spain
+1974,2019,2019-08-24,2020-05-16,Primera División RFEF - Group 4,League,Spain
+1975,2020,2020-10-18,2021-05-23,Primera División RFEF - Group 4,League,Spain
+1976,2019,2019-08-24,2020-05-16,Tercera División RFEF - Group 1,League,Spain
+1977,2020,2020-10-18,2021-06-20,Tercera División RFEF - Group 1,League,Spain
+1978,2019,2019-08-23,2020-05-16,Tercera División RFEF - Group 2,League,Spain
+1979,2020,2020-10-17,2021-06-06,Tercera División RFEF - Group 2,League,Spain
+1980,2019,2019-08-23,2020-05-16,Tercera División RFEF - Group 3,League,Spain
+1981,2020,2020-10-17,2021-06-13,Tercera División RFEF - Group 3,League,Spain
+1982,2019,2019-08-24,2020-05-16,Tercera División RFEF - Group 4,League,Spain
+1983,2020,2020-10-17,2021-06-13,Tercera División RFEF - Group 4,League,Spain
+1984,2019,2019-08-31,2020-05-16,Tercera División RFEF - Group 5,League,Spain
+1985,2020,2020-10-17,2021-06-13,Tercera División RFEF - Group 5,League,Spain
+1986,2019,2019-08-24,2020-05-16,Tercera División RFEF - Group 6,League,Spain
+1987,2020,2020-10-17,2021-06-06,Tercera División RFEF - Group 6,League,Spain
+1988,2019,2019-08-24,2020-05-16,Tercera División RFEF - Group 7,League,Spain
+1989,2020,2020-10-18,2021-06-20,Tercera División RFEF - Group 7,League,Spain
+1990,2019,2019-08-24,2020-05-16,Tercera División RFEF - Group 8,League,Spain
+1991,2020,2020-10-17,2021-06-20,Tercera División RFEF - Group 8,League,Spain
+1992,2019,2019-08-24,2020-05-16,Tercera División RFEF - Group 9,League,Spain
+1993,2020,2020-10-17,2021-06-06,Tercera División RFEF - Group 9,League,Spain
+1994,2019,2019-08-24,2020-05-16,Tercera División RFEF - Group 10,League,Spain
+1995,2020,2020-10-18,2021-06-06,Tercera División RFEF - Group 10,League,Spain
+1996,2019,2019-08-24,2020-05-16,Tercera División RFEF - Group 11,League,Spain
+1997,2020,2020-10-17,2021-06-20,Tercera División RFEF - Group 11,League,Spain
+1998,2019,2019-08-24,2020-05-16,Tercera División RFEF - Group 12,League,Spain
+1999,2020,2020-10-16,2021-06-27,Tercera División RFEF - Group 12,League,Spain
+2000,2019,2019-08-24,2020-05-16,Tercera División RFEF - Group 13,League,Spain
+2001,2020,2020-10-18,2021-06-13,Tercera División RFEF - Group 13,League,Spain
+2002,2019,2019-08-25,2020-05-16,Tercera División RFEF - Group 14,League,Spain
+2003,2020,2020-10-18,2021-05-30,Tercera División RFEF - Group 14,League,Spain
+2004,2019,2019-08-24,2020-05-16,Tercera División RFEF - Group 15,League,Spain
+2005,2020,2020-10-17,2021-06-26,Tercera División RFEF - Group 15,League,Spain
+2006,2019,2019-08-24,2020-05-16,Tercera División RFEF - Group 16,League,Spain
+2007,2020,2020-10-17,2021-06-06,Tercera División RFEF - Group 16,League,Spain
+2008,2019,2019-08-25,2020-05-17,Tercera División RFEF - Group 17,League,Spain
+2009,2020,2020-10-18,2021-06-13,Tercera División RFEF - Group 17,League,Spain
+2010,2019,2019-08-24,2020-05-16,Tercera División RFEF - Group 18,League,Spain
+2011,2020,2020-10-17,2021-06-06,Tercera División RFEF - Group 18,League,Spain
+2012,2019,2020-02-14,2020-02-14,CAF Super Cup,Cup,World
+2013,2020,2020-12-10,2020-12-10,CAF Super Cup,Cup,World
+2014,2021,2021-12-22,2021-12-22,CAF Super Cup,Cup,World
+2015,2022,2022-08-05,2022-08-05,CAF Super Cup,Cup,World
+2016,2020,2020-07-24,2021-05-25,Liga 1,League,Moldova
+2017,2021,2021-07-30,2022-05-13,Liga 1,League,Moldova
+2018,2019,2019-07-26,2020-08-01,Cup,Cup,Belgium
+2019,2020,2020-08-23,2021-04-24,Cup,Cup,Belgium
+2020,2021,2021-07-25,2022-04-18,Cup,Cup,Belgium
+2021,2022,2022-07-24,2022-11-08,Cup,Cup,Belgium
+2022,2019,2019-04-10,2019-09-14,Cup,Cup,Iceland
+2023,2020,2020-04-09,2020-11-04,Cup,Cup,Iceland
+2024,2021,2021-04-22,2021-10-16,Cup,Cup,Iceland
+2025,2022,2022-04-08,2022-10-01,Cup,Cup,Iceland
+2026,2019,2019-08-09,2019-11-03,FAI Cup,Cup,Ireland
+2027,2020,2020-08-10,2020-12-06,FAI Cup,Cup,Ireland
+2028,2021,2021-07-23,2021-11-28,FAI Cup,Cup,Ireland
+2029,2022,2022-07-29,2022-11-13,FAI Cup,Cup,Ireland
+2030,2019,2019-03-04,2019-09-14,League Cup,Cup,Ireland
+2031,2020,2020-03-08,2020-03-23,League Cup,Cup,Ireland
+2032,2019,2019-07-21,2019-09-24,Toto Cup Ligat Al,Cup,Israel
+2033,2020,2020-08-08,2020-08-24,Toto Cup Ligat Al,Cup,Israel
+2034,2021,2021-07-15,2021-09-21,Toto Cup Ligat Al,Cup,Israel
+2035,2022,2022-07-14,2022-12-07,Toto Cup Ligat Al,Cup,Israel
+2036,2019,2019-07-31,2020-09-22,Copa MX,Cup,Mexico
+2037,2019,2019-08-16,2020-08-30,Schweizer Pokal,Cup,Switzerland
+2038,2020,2020-08-29,2021-05-24,Schweizer Pokal,Cup,Switzerland
+2039,2021,2021-08-13,2022-05-15,Schweizer Pokal,Cup,Switzerland
+2040,2022,2022-08-19,2022-11-08,Schweizer Pokal,Cup,Switzerland
+2041,2019,2019-05-15,2020-07-30,Svenska Cupen,Cup,Sweden
+2042,2020,2020-07-30,2021-05-30,Svenska Cupen,Cup,Sweden
+2043,2021,2021-06-09,2022-05-26,Svenska Cupen,Cup,Sweden
+2044,2022,2022-06-15,2022-09-01,Svenska Cupen,Cup,Sweden
+2045,2019,2019-08-14,2020-06-24,Cup,Cup,Slovenia
+2046,2020,2020-09-02,2021-05-25,Cup,Cup,Slovenia
+2047,2021,2021-09-15,2022-05-11,Cup,Cup,Slovenia
+2048,2022,2022-08-13,2022-11-09,Cup,Cup,Slovenia
+2049,2019,2019-08-06,2020-03-28,Challenge Cup,Cup,Scotland
+2050,2021,2021-08-10,2022-04-03,Challenge Cup,Cup,Scotland
+2051,2022,2022-08-09,2022-12-10,Challenge Cup,Cup,Scotland
+2052,2019,2019-07-20,2020-07-25,Cup,Cup,Russia
+2053,2020,2020-08-05,2021-05-12,Cup,Cup,Russia
+2054,2021,2021-07-14,2022-05-29,Cup,Cup,Russia
+2055,2022,2022-08-16,2022-11-18,Cup,Cup,Russia
+2056,2019,2019-08-06,2020-07-24,Cup,Cup,Poland
+2057,2020,2020-08-08,2021-05-02,Cup,Cup,Poland
+2058,2021,2021-08-04,2022-05-02,Cup,Cup,Poland
+2059,2022,2022-07-26,2022-11-08,Cup,Cup,Poland
+2060,2019,2019-04-30,2019-12-08,NM Cupen,Cup,Norway
+2061,2021,2021-07-24,2022-05-01,NM Cupen,Cup,Norway
+2062,2022,2022-05-04,2023-03-11,NM Cupen,Cup,Norway
+2063,2019,2019-02-22,2019-10-25,First Division,League,Ireland
+2064,2020,2020-02-21,2020-11-15,First Division,League,Ireland
+2065,2021,2021-03-26,2021-11-19,First Division,League,Ireland
+2066,2022,2022-02-18,2022-11-04,First Division,League,Ireland
+2067,2020,2020-10-25,2020-12-06,Baiano - 2,League,Brazil
+2068,2022,2022-05-22,2022-08-06,Baiano - 2,League,Brazil
+2069,2019,2019-05-25,2019-10-12,Carioca - 2,League,Brazil
+2070,2020,2020-09-19,2020-12-16,Carioca - 2,League,Brazil
+2071,2019,2019-08-04,2020-06-30,NB III - Keleti,League,Hungary
+2072,2020,2020-08-02,2021-05-30,NB III - Keleti,League,Hungary
+2073,2021,2021-08-01,2022-05-29,NB III - Keleti,League,Hungary
+2074,2022,2022-07-31,2023-05-21,NB III - Keleti,League,Hungary
+2075,2019,2019-08-04,2020-06-30,NB III - Nyugati,League,Hungary
+2076,2020,2020-08-02,2021-05-30,NB III - Nyugati,League,Hungary
+2077,2021,2021-08-01,2022-05-29,NB III - Nyugati,League,Hungary
+2078,2022,2022-07-31,2023-05-21,NB III - Nyugati,League,Hungary
+2079,2019,2019-08-04,2020-06-30,NB III - Közép,League,Hungary
+2080,2020,2020-08-02,2021-05-30,NB III - Közép,League,Hungary
+2081,2021,2021-08-01,2022-05-29,NB III - Közép,League,Hungary
+2082,2022,2022-07-31,2023-05-21,NB III - Közép,League,Hungary
+2083,2020,2020-01-22,2020-08-27,Baiano - 1,League,Brazil
+2084,2021,2021-02-17,2021-05-23,Baiano - 1,League,Brazil
+2085,2022,2022-01-15,2022-04-10,Baiano - 1,League,Brazil
+2086,2020,2020-01-21,2020-08-15,Paraibano,League,Brazil
+2087,2021,2021-04-14,2021-06-20,Paraibano,League,Brazil
+2088,2020,2020-01-25,2020-11-16,Paulista - A3,League,Brazil
+2089,2021,2021-03-06,2021-06-12,Paulista - A3,League,Brazil
+2090,2022,2022-01-29,2022-05-21,Paulista - A3,League,Brazil
+2091,2020,2020-01-18,2020-08-05,Paranaense - 1,League,Brazil
+2092,2021,2021-02-27,2021-10-13,Paranaense - 1,League,Brazil
+2093,2022,2022-01-22,2022-04-03,Paranaense - 1,League,Brazil
+2094,2020,2020-03-07,2020-12-23,Roraimense,League,Brazil
+2095,2021,2021-05-01,2021-06-03,Roraimense,League,Brazil
+2096,2022,2022-03-05,2022-05-04,Roraimense,League,Brazil
+2097,2020,2020-01-25,2020-09-26,Maranhense,League,Brazil
+2098,2021,2021-02-20,2021-05-23,Maranhense,League,Brazil
+2099,2022,2022-01-23,2022-04-19,Maranhense,League,Brazil
+2100,2020,2020-01-25,2020-08-29,Brasiliense,League,Brazil
+2101,2021,2021-02-20,2021-05-15,Brasiliense,League,Brazil
+2102,2022,2022-01-22,2022-04-09,Brasiliense,League,Brazil
+2103,2020,2020-01-25,2020-12-29,Capixaba,League,Brazil
+2104,2021,2021-02-27,2021-05-23,Capixaba,League,Brazil
+2105,2022,2022-01-29,2022-05-04,Capixaba,League,Brazil
+2106,2020,2020-09-27,2020-12-02,Paranaense - 2,League,Brazil
+2107,2021,2021-08-28,2021-10-09,Paranaense - 2,League,Brazil
+2108,2022,2022-04-10,2022-06-12,Paranaense - 2,League,Brazil
+2109,2020,2020-02-01,2020-12-05,Rondoniense,League,Brazil
+2110,2021,2021-04-24,2021-07-14,Rondoniense,League,Brazil
+2111,2022,2022-02-20,2022-05-14,Rondoniense,League,Brazil
+2112,2020,2020-01-05,2020-09-07,Potiguar,League,Brazil
+2113,2021,2021-02-24,2021-06-23,Potiguar,League,Brazil
+2114,2020,2020-01-17,2020-12-22,Piauiense,League,Brazil
+2115,2021,2021-02-20,2021-05-22,Piauiense,League,Brazil
+2116,2022,2022-01-15,2022-04-27,Piauiense,League,Brazil
+2117,2020,2020-01-22,2020-12-24,Sul-Matogrossense,League,Brazil
+2118,2021,2021-02-28,2021-05-23,Sul-Matogrossense,League,Brazil
+2119,2022,2022-02-02,2022-04-24,Sul-Matogrossense,League,Brazil
+2120,2020,2019-12-22,2020-07-16,Carioca - 1,League,Brazil
+2121,2021,2021-01-16,2021-05-23,Carioca - 1,League,Brazil
+2122,2020,2020-01-11,2020-08-08,Sergipano,League,Brazil
+2123,2020,2020-01-18,2020-09-06,Paraense,League,Brazil
+2124,2021,2021-02-28,2021-05-23,Paraense,League,Brazil
+2125,2020,2020-01-21,2020-12-24,Matogrossense,League,Brazil
+2126,2021,2021-02-26,2021-05-23,Matogrossense,League,Brazil
+2127,2022,2022-01-22,2022-04-02,Matogrossense,League,Brazil
+2128,2020,2020-01-25,2021-02-14,Tocantinense,League,Brazil
+2129,2021,2021-02-20,2021-12-30,Tocantinense,League,Brazil
+2130,2022,2022-01-22,2022-04-10,Tocantinense,League,Brazil
+2131,2020,2020-01-22,2020-08-08,Paulista - A1,League,Brazil
+2132,2021,2021-02-27,2021-05-23,Paulista - A1,League,Brazil
+2133,2022,2022-01-23,2022-04-03,Paulista - A1,League,Brazil
+2134,2020,2020-01-22,2020-10-12,Paulista - A2,League,Brazil
+2135,2021,2021-02-27,2021-05-31,Paulista - A2,League,Brazil
+2136,2022,2022-01-23,2022-04-17,Paulista - A2,League,Brazil
+2137,2020,2020-01-23,2020-08-30,Gaúcho - 1,League,Brazil
+2138,2021,2021-02-27,2021-05-23,Gaúcho - 1,League,Brazil
+2139,2022,2022-01-26,2022-04-02,Gaúcho - 1,League,Brazil
+2140,2020,2020-02-29,2020-05-03,Gaúcho - 2,League,Brazil
+2141,2021,2021-08-14,2021-11-28,Gaúcho - 2,League,Brazil
+2142,2022,2022-04-09,2022-07-24,Gaúcho - 2,League,Brazil
+2143,2020,2020-09-04,2021-06-12,Oberliga - Hessen,League,Germany
+2144,2021,2021-08-13,2022-05-29,Oberliga - Hessen,League,Germany
+2145,2022,2022-07-29,2023-05-28,Oberliga - Hessen,League,Germany
+2146,2020,2020-09-04,2021-06-20,Oberliga - Niederrhein,League,Germany
+2147,2021,2021-08-21,2022-06-12,Oberliga - Niederrhein,League,Germany
+2148,2022,2022-08-05,2023-06-04,Oberliga - Niederrhein,League,Germany
+2149,2020,2020-09-04,2021-03-14,Oberliga - Rheinland-Pfalz / Saar,League,Germany
+2150,2021,2021-08-13,2021-12-12,Oberliga - Rheinland-Pfalz / Saar,League,Germany
+2151,2022,2022-07-29,2023-03-05,Oberliga - Rheinland-Pfalz / Saar,League,Germany
+2152,2020,2020-08-22,2021-06-12,Oberliga - Baden-Württemberg,League,Germany
+2153,2021,2021-08-06,2022-06-04,Oberliga - Baden-Württemberg,League,Germany
+2154,2022,2022-08-05,2023-05-27,Oberliga - Baden-Württemberg,League,Germany
+2155,2020,2020-08-14,2021-06-13,Oberliga - Nordost-Nord,League,Germany
+2156,2021,2021-08-06,2022-06-18,Oberliga - Nordost-Nord,League,Germany
+2157,2022,2022-08-05,2023-06-11,Oberliga - Nordost-Nord,League,Germany
+2158,2020,2020-08-14,2021-06-13,Oberliga - Nordost-Süd,League,Germany
+2159,2021,2021-08-06,2022-06-18,Oberliga - Nordost-Süd,League,Germany
+2160,2022,2022-08-05,2023-06-11,Oberliga - Nordost-Süd,League,Germany
+2161,2020,2021-04-27,2021-05-21,Irish Cup,Cup,Northern-Ireland
+2162,2021,2022-01-07,2022-05-07,Irish Cup,Cup,Northern-Ireland
+2163,2020,2020-08-08,2021-06-20,III Liga - Group 1,League,Poland
+2164,2021,2021-08-07,2022-06-18,III Liga - Group 1,League,Poland
+2165,2022,2022-08-06,2023-06-17,III Liga - Group 1,League,Poland
+2166,2020,2020-08-01,2021-06-26,III Liga - Group 2,League,Poland
+2167,2021,2021-08-06,2022-06-18,III Liga - Group 2,League,Poland
+2168,2022,2022-08-05,2023-06-17,III Liga - Group 2,League,Poland
+2169,2020,2020-08-01,2021-06-19,III Liga - Group 3,League,Poland
+2170,2021,2021-08-07,2022-06-18,III Liga - Group 3,League,Poland
+2171,2022,2022-08-06,2023-06-17,III Liga - Group 3,League,Poland
+2172,2020,2020-08-01,2021-06-20,III Liga - Group 4,League,Poland
+2173,2021,2021-08-07,2022-06-18,III Liga - Group 4,League,Poland
+2174,2022,2022-08-06,2023-06-17,III Liga - Group 4,League,Poland
+2175,2020,2020-09-12,2021-04-30,Liga III - Serie 1,League,Romania
+2176,2020,2020-09-12,2021-04-30,Liga III - Serie 2,League,Romania
+2177,2020,2020-09-12,2021-04-30,Liga III - Serie 3,League,Romania
+2178,2020,2020-09-11,2021-04-30,Liga III - Serie 4,League,Romania
+2179,2020,2020-09-11,2021-04-30,Liga III - Serie 5,League,Romania
+2180,2020,2020-09-11,2021-04-30,Liga III - Serie 6,League,Romania
+2181,2020,2020-09-12,2021-04-30,Liga III - Serie 7,League,Romania
+2182,2020,2020-09-12,2021-04-30,Liga III - Serie 8,League,Romania
+2183,2020,2020-09-12,2021-04-30,Liga III - Serie 9,League,Romania
+2184,2020,2020-09-12,2021-04-30,Liga III - Serie 10,League,Romania
+2185,2020,2020-08-22,2021-06-12,2. Liga Interregional - Group 1,League,Switzerland
+2186,2021,2021-08-21,2022-06-11,2. Liga Interregional - Group 1,League,Switzerland
+2187,2022,2022-08-20,2023-06-17,2. Liga Interregional - Group 1,League,Switzerland
+2188,2020,2020-08-22,2021-06-12,2. Liga Interregional - Group 2,League,Switzerland
+2189,2021,2021-08-21,2022-06-11,2. Liga Interregional - Group 2,League,Switzerland
+2190,2022,2022-08-20,2023-06-17,2. Liga Interregional - Group 2,League,Switzerland
+2191,2020,2020-08-22,2021-06-12,2. Liga Interregional - Group 3,League,Switzerland
+2192,2021,2021-08-20,2022-06-11,2. Liga Interregional - Group 3,League,Switzerland
+2193,2022,2022-08-19,2023-06-17,2. Liga Interregional - Group 3,League,Switzerland
+2194,2020,2020-08-22,2021-06-12,2. Liga Interregional - Group 4,League,Switzerland
+2195,2021,2021-08-21,2022-06-11,2. Liga Interregional - Group 4,League,Switzerland
+2196,2022,2022-08-20,2023-06-17,2. Liga Interregional - Group 4,League,Switzerland
+2197,2020,2020-08-22,2021-06-12,2. Liga Interregional - Group 5,League,Switzerland
+2198,2021,2021-08-21,2022-06-11,2. Liga Interregional - Group 5,League,Switzerland
+2199,2022,2022-08-20,2023-06-17,2. Liga Interregional - Group 5,League,Switzerland
+2200,2020,2020-08-22,2021-06-12,2. Liga Interregional - Group 6,League,Switzerland
+2201,2021,2021-08-21,2022-06-11,2. Liga Interregional - Group 6,League,Switzerland
+2202,2020,2021-01-30,2021-10-09,Ligue 2,League,Tunisia
+2203,2021,2021-11-13,2022-05-20,Ligue 2,League,Tunisia
+2204,2022,2022-10-08,2022-10-30,Ligue 2,League,Tunisia
+2205,2020,2020-07-25,2021-05-19,Cup,Cup,Slovakia
+2206,2021,2021-07-18,2022-05-08,Cup,Cup,Slovakia
+2207,2022,2022-07-23,2022-11-09,Cup,Cup,Slovakia
+2208,2020,2020-07-31,2020-11-21,Regionalliga - Tirol,League,Austria
+2209,2021,2021-07-23,2022-06-18,Regionalliga - Tirol,League,Austria
+2210,2022,2022-07-22,2023-04-01,Regionalliga - Tirol,League,Austria
+2211,2020,2020-08-07,2021-03-13,Regionalliga - Salzburg,League,Austria
+2212,2021,2021-07-23,2022-06-11,Regionalliga - Salzburg,League,Austria
+2213,2022,2022-07-22,2023-04-01,Regionalliga - Salzburg,League,Austria
+2214,2020,2020-10-17,2021-05-23,Primera División RFEF - Group 5,League,Spain
+2215,2020,2020-09-19,2021-04-18,Oberliga - Schleswig-Holstein,League,Germany
+2216,2021,2021-08-20,2022-03-06,Oberliga - Schleswig-Holstein,League,Germany
+2217,2022,2022-07-29,2023-05-20,Oberliga - Schleswig-Holstein,League,Germany
+2218,2020,2020-09-18,2021-03-14,Oberliga - Hamburg,League,Germany
+2219,2021,2021-08-13,2022-05-15,Oberliga - Hamburg,League,Germany
+2220,2022,2022-07-29,2023-05-07,Oberliga - Hamburg,League,Germany
+2221,2020,2020-09-06,2021-06-13,Oberliga - Mittelrhein,League,Germany
+2222,2021,2021-08-13,2022-06-12,Oberliga - Mittelrhein,League,Germany
+2223,2022,2022-08-19,2023-06-11,Oberliga - Mittelrhein,League,Germany
+2224,2020,2020-09-06,2021-06-20,Oberliga - Westfalen,League,Germany
+2225,2021,2021-08-28,2022-06-06,Oberliga - Westfalen,League,Germany
+2226,2022,2022-08-13,2023-05-29,Oberliga - Westfalen,League,Germany
+2227,2020,2020-09-05,2021-02-14,Oberliga - Niedersachsen,League,Germany
+2228,2021,2021-08-14,2021-12-05,Oberliga - Niedersachsen,League,Germany
+2229,2022,2022-08-05,2023-05-21,Oberliga - Niedersachsen,League,Germany
+2230,2020,2020-09-04,2021-06-01,Oberliga - Bremen,League,Germany
+2231,2021,2021-08-20,2022-05-13,Oberliga - Bremen,League,Germany
+2232,2022,2022-08-12,2023-05-14,Oberliga - Bremen,League,Germany
+2233,2021,2019-10-09,2021-03-30,Africa Cup of Nations - Qualification,Cup,World
+2234,2021,2021-07-06,2022-05-25,UEFA Europa Conference League,Cup,World
+2235,2022,2022-07-05,2022-11-03,UEFA Europa Conference League,Cup,World
+2236,2022,2022-08-06,2023-04-22,Non League Premier - Southern Central,League,England
+2237,2022,2022-08-13,2023-04-22,Non League Div One - Northern East,League,England
+2238,2022,2022-08-13,2023-04-22,Non League Div One - Southern Central,League,England
+2239,2022,2022-07-15,2023-05-27,Oberliga - Bayern Nord,League,Germany
+2240,2022,2022-07-15,2023-05-27,Oberliga - Bayern Süd,League,Germany

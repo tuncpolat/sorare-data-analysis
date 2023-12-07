@@ -1,0 +1,590 @@
+[
+  {
+    "leagueID": 39,
+    "seasonID": 44,
+    "seasonYear": 2010,
+    "player": {
+      "id": 140,
+      "name": "Thomas Vermaelen",
+      "firstname": "Thomas",
+      "lastname": "Vermaelen",
+      "age": 37,
+      "birth": {
+        "date": "1985-11-14",
+        "place": "Kapellen",
+        "country": "Belgium"
+      },
+      "nationality": "Belgium",
+      "height": "183 cm",
+      "weight": "80 kg",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/140.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 42,
+          "name": "Arsenal",
+          "logo": "https://media.api-sports.io/football/teams/42.png"
+        },
+        "league": {
+          "id": 39,
+          "name": "Premier League",
+          "country": "England",
+          "logo": "https://media.api-sports.io/football/leagues/39.png",
+          "flag": "https://media.api-sports.io/flags/gb.svg",
+          "season": 2010
+        },
+        "games": {
+          "appearences": 5,
+          "lineups": 5,
+          "minutes": 450,
+          "number": null,
+          "position": "Defender",
+          "rating": null,
+          "captain": false
+        },
+        "substitutes": {
+          "in": 0,
+          "out": 0,
+          "bench": 1
+        },
+        "shots": {
+          "total": null,
+          "on": null
+        },
+        "goals": {
+          "total": 0,
+          "conceded": null,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": null,
+          "key": null,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": null,
+          "blocks": null,
+          "interceptions": null
+        },
+        "duels": {
+          "total": null,
+          "won": null
+        },
+        "dribbles": {
+          "attempts": null,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": null,
+          "committed": null
+        },
+        "cards": {
+          "yellow": 0,
+          "yellowred": 0,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": null,
+          "missed": null,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "leagueID": 39,
+    "seasonID": 46,
+    "seasonYear": 2012,
+    "player": {
+      "id": 140,
+      "name": "Thomas Vermaelen",
+      "firstname": "Thomas",
+      "lastname": "Vermaelen",
+      "age": 37,
+      "birth": {
+        "date": "1985-11-14",
+        "place": "Kapellen",
+        "country": "Belgium"
+      },
+      "nationality": "Belgium",
+      "height": "183 cm",
+      "weight": "80 kg",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/140.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 42,
+          "name": "Arsenal",
+          "logo": "https://media.api-sports.io/football/teams/42.png"
+        },
+        "league": {
+          "id": 39,
+          "name": "Premier League",
+          "country": "England",
+          "logo": "https://media.api-sports.io/football/leagues/39.png",
+          "flag": "https://media.api-sports.io/flags/gb.svg",
+          "season": 2012
+        },
+        "games": {
+          "appearences": 29,
+          "lineups": 25,
+          "minutes": 2235,
+          "number": null,
+          "position": "Defender",
+          "rating": null,
+          "captain": false
+        },
+        "substitutes": {
+          "in": 4,
+          "out": 2,
+          "bench": 10
+        },
+        "shots": {
+          "total": null,
+          "on": null
+        },
+        "goals": {
+          "total": 0,
+          "conceded": null,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": null,
+          "key": null,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": null,
+          "blocks": null,
+          "interceptions": null
+        },
+        "duels": {
+          "total": null,
+          "won": null
+        },
+        "dribbles": {
+          "attempts": null,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": null,
+          "committed": null
+        },
+        "cards": {
+          "yellow": 3,
+          "yellowred": 0,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": null,
+          "missed": null,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "leagueID": 39,
+    "seasonID": 56,
+    "seasonYear": 2022,
+    "player": {
+      "id": 2273,
+      "name": "Kepa",
+      "firstname": "Kepa",
+      "lastname": "Arrizabalaga Revuelta",
+      "age": 28,
+      "birth": {
+        "date": "1994-10-03",
+        "place": "Ondárroa",
+        "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "189 cm",
+      "weight": "84 kg",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/2273.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 49,
+          "name": "Chelsea",
+          "logo": "https://media.api-sports.io/football/teams/49.png"
+        },
+        "league": {
+          "id": 39,
+          "name": "Premier League",
+          "country": "England",
+          "logo": "https://media.api-sports.io/football/leagues/39.png",
+          "flag": "https://media.api-sports.io/flags/gb.svg",
+          "season": 2022
+        },
+        "games": {
+          "appearences": 6,
+          "lineups": 6,
+          "minutes": 496,
+          "number": null,
+          "position": "Goalkeeper",
+          "rating": "7.500000",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 0,
+          "out": 1,
+          "bench": 6
+        },
+        "shots": {
+          "total": null,
+          "on": null
+        },
+        "goals": {
+          "total": 0,
+          "conceded": 5,
+          "assists": null,
+          "saves": 22
+        },
+        "passes": {
+          "total": 180,
+          "key": null,
+          "accuracy": 22
+        },
+        "tackles": {
+          "total": 2,
+          "blocks": null,
+          "interceptions": null
+        },
+        "duels": {
+          "total": 9,
+          "won": 7
+        },
+        "dribbles": {
+          "attempts": null,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 2,
+          "committed": null
+        },
+        "cards": {
+          "yellow": 0,
+          "yellowred": 0,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": 0
+        }
+      }
+    ]
+  },
+  {
+    "leagueID": 39,
+    "seasonID": 56,
+    "seasonYear": 2022,
+    "player": {
+      "id": 1166,
+      "name": "T. Werner",
+      "firstname": "Timo",
+      "lastname": "Werner",
+      "age": 26,
+      "birth": {
+        "date": "1996-03-06",
+        "place": "Stuttgart",
+        "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "180 cm",
+      "weight": "75 kg",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/1166.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 49,
+          "name": "Chelsea",
+          "logo": "https://media.api-sports.io/football/teams/49.png"
+        },
+        "league": {
+          "id": 39,
+          "name": "Premier League",
+          "country": "England",
+          "logo": "https://media.api-sports.io/football/leagues/39.png",
+          "flag": "https://media.api-sports.io/flags/gb.svg",
+          "season": 2022
+        },
+        "games": {
+          "appearences": 0,
+          "lineups": 0,
+          "minutes": 0,
+          "number": null,
+          "position": "Attacker",
+          "rating": null,
+          "captain": false
+        },
+        "substitutes": {
+          "in": 0,
+          "out": 0,
+          "bench": 0
+        },
+        "shots": {
+          "total": null,
+          "on": null
+        },
+        "goals": {
+          "total": 0,
+          "conceded": null,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": null,
+          "key": null,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": null,
+          "blocks": null,
+          "interceptions": null
+        },
+        "duels": {
+          "total": null,
+          "won": null
+        },
+        "dribbles": {
+          "attempts": null,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": null,
+          "committed": null
+        },
+        "cards": {
+          "yellow": 0,
+          "yellowred": 0,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": null,
+          "missed": null,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "leagueID": 39,
+    "seasonID": 56,
+    "seasonYear": 2022,
+    "player": {
+      "id": 1465,
+      "name": "P. Aubameyang",
+      "firstname": "Pierre-Emerick Emiliano Franço",
+      "lastname": "Aubameyang",
+      "age": 33,
+      "birth": {
+        "date": "1989-06-18",
+        "place": "Laval",
+        "country": "France"
+      },
+      "nationality": "Gabon",
+      "height": "187 cm",
+      "weight": "80 kg",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/1465.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 49,
+          "name": "Chelsea",
+          "logo": "https://media.api-sports.io/football/teams/49.png"
+        },
+        "league": {
+          "id": 39,
+          "name": "Premier League",
+          "country": "England",
+          "logo": "https://media.api-sports.io/football/leagues/39.png",
+          "flag": "https://media.api-sports.io/flags/gb.svg",
+          "season": 2022
+        },
+        "games": {
+          "appearences": 6,
+          "lineups": 4,
+          "minutes": 307,
+          "number": null,
+          "position": "Attacker",
+          "rating": "6.633333",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 2,
+          "out": 4,
+          "bench": 4
+        },
+        "shots": {
+          "total": 5,
+          "on": 3
+        },
+        "goals": {
+          "total": 1,
+          "conceded": 0,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": 55,
+          "key": 3,
+          "accuracy": 6
+        },
+        "tackles": {
+          "total": null,
+          "blocks": null,
+          "interceptions": 2
+        },
+        "duels": {
+          "total": 16,
+          "won": 4
+        },
+        "dribbles": {
+          "attempts": 4,
+          "success": 3,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 1,
+          "committed": 2
+        },
+        "cards": {
+          "yellow": 1,
+          "yellowred": 0,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "leagueID": 39,
+    "seasonID": 56,
+    "seasonYear": 2022,
+    "player": {
+      "id": 2290,
+      "name": "N. Kanté",
+      "firstname": "N'Golo",
+      "lastname": "Kanté",
+      "age": 31,
+      "birth": {
+        "date": "1991-03-29",
+        "place": "Paris",
+        "country": "France"
+      },
+      "nationality": "France",
+      "height": "168 cm",
+      "weight": "68 kg",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/2290.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 49,
+          "name": "Chelsea",
+          "logo": "https://media.api-sports.io/football/teams/49.png"
+        },
+        "league": {
+          "id": 39,
+          "name": "Premier League",
+          "country": "England",
+          "logo": "https://media.api-sports.io/football/leagues/39.png",
+          "flag": "https://media.api-sports.io/flags/gb.svg",
+          "season": 2022
+        },
+        "games": {
+          "appearences": 2,
+          "lineups": 2,
+          "minutes": 174,
+          "number": null,
+          "position": "Midfielder",
+          "rating": "7.100000",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 0,
+          "out": 1,
+          "bench": 0
+        },
+        "shots": {
+          "total": 1,
+          "on": 1
+        },
+        "goals": {
+          "total": 0,
+          "conceded": 0,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": 125,
+          "key": 3,
+          "accuracy": 53
+        },
+        "tackles": {
+          "total": 5,
+          "blocks": null,
+          "interceptions": 3
+        },
+        "duels": {
+          "total": 17,
+          "won": 9
+        },
+        "dribbles": {
+          "attempts": 6,
+          "success": 4,
+          "past": null
+        },
+        "fouls": {
+          "drawn": null,
+          "committed": null
+        },
+        "cards": {
+          "yellow": 0,
+          "yellowred": 0,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,1678 @@
+[
+  {
+    "assetId": "0x0400f618a21ed4c788f7eaad6888d99ee62e92b94468a7a12bf1f3fb77655d61",
+    "id": "Starkware::MintableERC721Token:0052a00e-a651-4697-9c4b-e5d959937757",
+    "slug": "thomas-vermaelen-2020-rare-61",
+    "owner": {
+      "address": "0x3Bcf61387555CD49957D1A5aDFE7b8dE485406D0",
+      "from": "2021-03-29T08:18:31Z"
+    },
+    "ownershipHistory": [
+      {
+        "address": "0x62cb4a2EF853E8AAcE84959fB60f05B8cB54e84B",
+        "blockchain": "ETHEREUM",
+        "from": "2021-03-22T07:05:42Z",
+        "priceFiat": {
+          "eur": 191.57315
+        },
+        "priceWei": "127000000000000000",
+        "transferType": "ENGLISH_AUCTION"
+      },
+      {
+        "address": "0x3Bcf61387555CD49957D1A5aDFE7b8dE485406D0",
+        "blockchain": "ETHEREUM",
+        "from": "2021-03-29T08:18:31Z",
+        "priceFiat": {
+          "eur": 215.32437
+        },
+        "priceWei": "149000000000000000",
+        "transferType": "SINGLE_BUY_OFFER"
+      }
+    ]
+  },
+  {
+    "assetId": "0x0400e53e6cced3cca7af5f386f53e9756b49f0dc1762bbf49432e95ea63abbab",
+    "id": "Starkware::MintableERC721Token:0052a3c3-6738-4a65-a9e8-6e9eb9167113",
+    "slug": "lisandro-semedo-2021-limited-212",
+    "owner": {
+      "address": "0x0337638632ed9b74205bbf3a79850505f3da7a55b48f8f4c3359da2f01dfc8e7",
+      "from": "2022-05-05T08:30:55Z"
+    },
+    "ownershipHistory": [
+      {
+        "address": "0x0337638632ed9b74205bbf3a79850505f3da7a55b48f8f4c3359da2f01dfc8e7",
+        "blockchain": "STARKWARE",
+        "from": "2022-05-05T08:30:55Z",
+        "priceFiat": {
+          "eur": 4.707351000000001
+        },
+        "priceWei": "1700000000000000",
+        "transferType": "ENGLISH_AUCTION"
+      }
+    ]
+  },
+  {
+    "assetId": "0x04009ff610d57b2da5e7d4727c5629e9a9ad83fdb6c1d83a2e896db96f3eadd9",
+    "id": "Starkware::MintableERC721Token:0052a429-bb2c-4ab5-8edd-c4be9ec37e6c",
+    "slug": "malcom-braida-2022-limited-135",
+    "owner": {
+      "address": "0x0102a8b2aadc46d4165d3336198352d0829e09e0071ca72cdea091028505ac6c",
+      "from": "2022-11-14T16:09:27Z"
+    },
+    "ownershipHistory": [
+      {
+        "address": "0x02aa5201c73bfff99c722b4216a67ede44974ca2627454669a0e9dcbefcf2029",
+        "blockchain": "STARKWARE",
+        "from": "2022-10-01T11:18:40Z",
+        "priceFiat": {
+          "eur": 6.923097000000001
+        },
+        "priceWei": "5100000000000000",
+        "transferType": "ENGLISH_AUCTION"
+      },
+      {
+        "address": "0x1f6113987bc435d34cdaf2a680edd26c86c6dffc95beb10bc7e7ae6b8b097e",
+        "blockchain": "STARKWARE",
+        "from": "2022-10-02T15:27:05Z",
+        "priceFiat": {
+          "eur": 6.853599999999999
+        },
+        "priceWei": "5200000000000000",
+        "transferType": "SINGLE_SALE_OFFER"
+      },
+      {
+        "address": "0x07d7a805bace61a93dbe9fbdba449e66e3a55f716cb3dc6eeb0cba0debe3e7e6",
+        "blockchain": "STARKWARE",
+        "from": "2022-10-23T21:24:34Z",
+        "priceFiat": {
+          "eur": 8.75641
+        },
+        "priceWei": "6500000000000000",
+        "transferType": "SINGLE_SALE_OFFER"
+      },
+      {
+        "address": "0x01074a17bebbc14a3f87e2aad7ad70694c0cad1944fd8df310c77f72d58f9cd9",
+        "blockchain": "STARKWARE",
+        "from": "2022-10-28T04:47:00Z",
+        "priceFiat": {
+          "eur": 14.189206
+        },
+        "priceWei": "9400000000000000",
+        "transferType": "SINGLE_SALE_OFFER"
+      },
+      {
+        "address": "0x0102a8b2aadc46d4165d3336198352d0829e09e0071ca72cdea091028505ac6c",
+        "blockchain": "STARKWARE",
+        "from": "2022-11-14T16:09:27Z",
+        "priceFiat": {
+          "eur": 11.80753
+        },
+        "priceWei": "9800000000000000",
+        "transferType": "SINGLE_SALE_OFFER"
+      }
+    ]
+  },
+  {
+    "assetId": "0x0400cce3daff3dae69da54f34d7c35b0104e86ddb1d1288d726bb8a112c012b6",
+    "id": "Starkware::MintableERC721Token:0052a547-a0f8-40b8-b00e-dccf7bd9e468",
+    "slug": "marc-andre-ter-stegen-2021-rare-63",
+    "owner": {
+      "address": "0x04c365380ab82be6204df8aca59991c88cba7e5000ace7001e5035f9847ac9aa",
+      "from": "2022-05-17T22:30:24Z"
+    },
+    "ownershipHistory": [
+      {
+        "address": "0x04c365380ab82be6204df8aca59991c88cba7e5000ace7001e5035f9847ac9aa",
+        "blockchain": "STARKWARE",
+        "from": "2022-05-17T22:30:24Z",
+        "priceFiat": {
+          "eur": 2630.26896
+        },
+        "priceWei": "1331000000000000000",
+        "transferType": "ENGLISH_AUCTION"
+      }
+    ]
+  },
+  {
+    "assetId": "0x040091ff7cbf9b98743032ca979266095abec2ab4436b0b2f8df032bc1b0880e",
+    "id": "Starkware::MintableERC721Token:0052a6de-cd9d-4afe-b0d8-4fe020a8bbc1",
+    "slug": "clemente-jose-montes-barroilhet-2022-limited-124",
+    "owner": {
+      "address": "0x5fae255c803c85ca05a120e685658755f3f342fc226985d6f6e7be0dff5705",
+      "from": "2022-09-06T17:18:01Z"
+    },
+    "ownershipHistory": [
+      {
+        "address": "0x04842c31cdd4a8b8b51905ba31746c8fa19338cac166985b7a7fde88b30c740e",
+        "blockchain": "STARKWARE",
+        "from": "2022-07-13T10:23:40Z",
+        "priceFiat": {
+          "eur": 2.352966
+        },
+        "priceWei": "2200000000000000",
+        "transferType": "ENGLISH_AUCTION"
+      },
+      {
+        "address": "0xa77cbe224bc249c961d85478bbb94c7fbae607286225019f5380be94551fa9",
+        "blockchain": "STARKWARE",
+        "from": "2022-08-01T16:58:20Z",
+        "priceFiat": {
+          "eur": 4.89468
+        },
+        "priceWei": "3000000000000000",
+        "transferType": "SINGLE_SALE_OFFER"
+      },
+      {
+        "address": "0x5fae255c803c85ca05a120e685658755f3f342fc226985d6f6e7be0dff5705",
+        "blockchain": "STARKWARE",
+        "from": "2022-09-06T17:18:01Z",
+        "priceFiat": {
+          "eur": 5.03505
+        },
+        "priceWei": "3000000000000000",
+        "transferType": "SINGLE_SALE_OFFER"
+      }
+    ]
+  },
+  {
+    "assetId": "0x04006dd7cc6866a933ce4324eceb13729f87b22dacd3d6d547c3fbc2cb7921f5",
+    "id": "Starkware::MintableERC721Token:0052a7ee-503d-4735-a2bb-ff0e9a00839e",
+    "slug": "anthony-chigaemezu-uzodimma-2021-limited-84",
+    "owner": {
+      "address": "0x04814c12eb84cc6aa3a86ae11a4f0c6fac983411d00770d95a956e6850eda1d8",
+      "from": "2022-01-12T23:56:46Z"
+    },
+    "ownershipHistory": [
+      {
+        "address": "0x9b93df1efd5dd6f98c586c292e54dc6f22cc0659884b2876ab93ec28f3016e",
+        "blockchain": "STARKWARE",
+        "from": "2022-01-04T16:33:00Z",
+        "priceFiat": {
+          "eur": 0.0
+        },
+        "priceWei": "0",
+        "transferType": "REFERRAL"
+      },
+      {
+        "address": "0x44c8d5c82fcb026671c1bfb7de3548468863257dd2d16473acae05a1790217",
+        "blockchain": "STARKWARE",
+        "from": "2022-01-12T22:38:47Z",
+        "priceFiat": {
+          "eur": 4.716608000000001
+        },
+        "priceWei": "1600000000000000",
+        "transferType": "SINGLE_SALE_OFFER"
+      },
+      {
+        "address": "0x04814c12eb84cc6aa3a86ae11a4f0c6fac983411d00770d95a956e6850eda1d8",
+        "blockchain": "STARKWARE",
+        "from": "2022-01-12T23:56:46Z",
+        "priceFiat": {
+          "eur": 5.595025000000001
+        },
+        "priceWei": "1900000000000000",
+        "transferType": "SINGLE_SALE_OFFER"
+      }
+    ]
+  },
+  {
+    "assetId": "0x04003471737eadb694a415e9db1370ae9b1c46b8457367bc13117eaedfc36a41",
+    "id": "Starkware::MintableERC721Token:0052b8f5-abff-4277-9b61-7cd18a63a098",
+    "slug": "michael-esser-2021-limited-262",
+    "owner": {
+      "address": "0x06d6216793c46aac8295b834ae11b4b206f0c25eb3fd54921d158e8b15c5869b",
+      "from": "2022-04-14T21:23:53Z"
+    },
+    "ownershipHistory": [
+      {
+        "address": "0x06d6216793c46aac8295b834ae11b4b206f0c25eb3fd54921d158e8b15c5869b",
+        "blockchain": "STARKWARE",
+        "from": "2022-04-14T21:23:53Z",
+        "priceFiat": {
+          "eur": 6.124734
+        },
+        "priceWei": "2200000000000000",
+        "transferType": "ENGLISH_AUCTION"
+      }
+    ]
+  },
+  {
+    "assetId": "0x0400a3da92c916305697cdc752a710f1b02c9dc148f59634d33a92c50b4d539e",
+    "id": "Starkware::MintableERC721Token:0052bb28-5967-4180-8455-1feff5e34b9f",
+    "slug": "wendson-dos-santos-lopes-2021-limited-74",
+    "owner": {
+      "address": "0x84d18d12579c1f8f0931e30b60df050560347383",
+      "from": "2021-10-30T12:12:51Z"
+    },
+    "ownershipHistory": [
+      {
+        "address": "0x84d18d12579c1f8f0931e30b60df050560347383",
+        "blockchain": "STARKWARE",
+        "from": "2021-10-30T12:12:51Z",
+        "priceFiat": {
+          "eur": 3.73931
+        },
+        "priceWei": "1000000000000000",
+        "transferType": "ENGLISH_AUCTION"
+      }
+    ]
+  },
+  {
+    "assetId": "0x0400386906a10c3a24e5660f7d80a233bd3194952803313baba3c2637b6ee492",
+    "id": "Starkware::MintableERC721Token:0052c3a2-e992-4582-9364-49ad7cf36969",
+    "slug": "carlos-vinicius-alves-morais-2021-limited-249",
+    "owner": {
+      "address": "0x04cfc310fc16622a8abeb4a3181cd812ca5b11b8c26cbda98f89177d0e610d53",
+      "from": "2022-06-27T21:39:18Z"
+    },
+    "ownershipHistory": [
+      {
+        "address": "0x07458f918f7edc1f7b51080fdeaad8c7baa2d193e43d3609852da82f601a8b7b",
+        "blockchain": "STARKWARE",
+        "from": "2022-06-26T16:09:40Z",
+        "priceFiat": {
+          "eur": 16.025112
+        },
+        "priceWei": "13800000000000000",
+        "transferType": "ENGLISH_AUCTION"
+      },
+      {
+        "address": "0x04cfc310fc16622a8abeb4a3181cd812ca5b11b8c26cbda98f89177d0e610d53",
+        "blockchain": "STARKWARE",
+        "from": "2022-06-27T21:39:18Z",
+        "priceFiat": {
+          "eur": 16.024509
+        },
+        "priceWei": "14100000000000000",
+        "transferType": "SINGLE_SALE_OFFER"
+      }
+    ]
+  },
+  {
+    "assetId": "0x0400ffc35d8b46afb49ffebd1f146eb8ffd98ae173d18b7de8671a5d2388cda4",
+    "id": "Starkware::MintableERC721Token:0052cb7a-5e3d-4924-b1e5-2e09b1eabc9e",
+    "slug": "seok-hee-han-2021-limited-197",
+    "owner": {
+      "address": "0x0372dc394200df373bd72fb742cf825bf4ba58fb83227ec8953db453dd91446f",
+      "from": "2022-04-26T20:23:10Z"
+    },
+    "ownershipHistory": [
+      {
+        "address": "0x047cd27ca466dce1b2fe8622a1be295b34454bb000765c4601d9c4b5aaa77b25",
+        "blockchain": "STARKWARE",
+        "from": "2022-01-29T19:34:41Z",
+        "priceFiat": {
+          "eur": 2.098026
+        },
+        "priceWei": "900000000000000",
+        "transferType": "ENGLISH_AUCTION"
+      },
+      {
+        "address": "0x05d203780933f074929c4f2baa4aad51c39fa2d476b009eb3fa7126365c39003",
+        "blockchain": "STARKWARE",
+        "from": "2022-01-31T21:24:59Z",
+        "priceFiat": {
+          "eur": 0.0
+        },
+        "priceWei": "0",
+        "transferType": "DIRECT_OFFER"
+      },
+      {
+        "address": "0x011847cda2d244d7e4d8202d6a9b8c58406b467b359b856f22969a1617968942",
+        "blockchain": "STARKWARE",
+        "from": "2022-02-01T23:19:42Z",
+        "priceFiat": {
+          "eur": 1.73348
+        },
+        "priceWei": "700000000000000",
+        "transferType": "SINGLE_BUY_OFFER"
+      },
+      {
+        "address": "0x026c1a99b561ef6e708e896311d92a12332af6569ffb1bd401c56e4952ad9520",
+        "blockchain": "STARKWARE",
+        "from": "2022-02-04T18:23:50Z",
+        "priceFiat": {
+          "eur": 7.488931
+        },
+        "priceWei": "2900000000000000",
+        "transferType": "SINGLE_SALE_OFFER"
+      },
+      {
+        "address": "0x0372dc394200df373bd72fb742cf825bf4ba58fb83227ec8953db453dd91446f",
+        "blockchain": "STARKWARE",
+        "from": "2022-04-26T20:23:10Z",
+        "priceFiat": {
+          "eur": 0.0
+        },
+        "priceWei": "0",
+        "transferType": "DIRECT_OFFER"
+      }
+    ]
+  },
+  {
+    "assetId": "0x04002c99c2079a00215067af3ccfb5999798273808a8f6c7f57ce145a2d667f7",
+    "id": "Starkware::MintableERC721Token:0052db56-e3d2-4d92-8aad-d4e702fb8770",
+    "slug": "rodrygo-silva-de-goes-2021-limited-304",
+    "owner": {
+      "address": "0xea333a424ebf6ea0ae1b705fda2086b0215e00e69487ecba6c6f7476915b6d",
+      "from": "2022-05-19T19:16:55Z"
+    },
+    "ownershipHistory": [
+      {
+        "address": "0x07b37de45b246560f5c945d709779f0cc6c2f7e9b6af224ef995216ad7c56c64",
+        "blockchain": "STARKWARE",
+        "from": "2022-03-22T03:58:56Z",
+        "priceFiat": {
+          "eur": 94.43735000000001
+        },
+        "priceWei": "35000000000000000",
+        "transferType": "ENGLISH_AUCTION"
+      },
+      {
+        "address": "0x06f879db931bb1d164c698605309520410bdf9ba6590bf57067ede748cfa0cfc",
+        "blockchain": "STARKWARE",
+        "from": "2022-05-15T17:40:14Z",
+        "priceFiat": {
+          "eur": 200.139
+        },
+        "priceWei": "100000000000000000",
+        "transferType": "SINGLE_SALE_OFFER"
+      },
+      {
+        "address": "0xea333a424ebf6ea0ae1b705fda2086b0215e00e69487ecba6c6f7476915b6d",
+        "blockchain": "STARKWARE",
+        "from": "2022-05-19T19:16:55Z",
+        "priceFiat": {
+          "eur": 189.877
+        },
+        "priceWei": "100000000000000000",
+        "transferType": "SINGLE_SALE_OFFER"
+      }
+    ]
+  },
+  {
+    "assetId": "0x04004dd3a7784efcf8cecbfde9a66c120fe2900d4d5ccf70ac56fd9fea1725ff",
+    "id": "Starkware::MintableERC721Token:0052dbb6-f29d-4069-9224-89fedf51cc5f",
+    "slug": "angel-martin-correa-2021-limited-204",
+    "owner": {
+      "address": "0x023f034e85c6e7626119c84ef7d6a27c3cbc7daf47a03b4edacafe1a8c6fa836",
+      "from": "2022-01-15T21:05:49Z"
+    },
+    "ownershipHistory": [
+      {
+        "address": "0x1c88e9a4c43ff9d4e0cb4c1cfc62236e2759833a58164dc336881abb7520e9",
+        "blockchain": "STARKWARE",
+        "from": "2022-01-03T18:43:45Z",
+        "priceFiat": {
+          "eur": 76.70546
+        },
+        "priceWei": "23000000000000000",
+        "transferType": "ENGLISH_AUCTION"
+      },
+      {
+        "address": "0x023f034e85c6e7626119c84ef7d6a27c3cbc7daf47a03b4edacafe1a8c6fa836",
+        "blockchain": "STARKWARE",
+        "from": "2022-01-15T21:05:49Z",
+        "priceFiat": {
+          "eur": 85.30959
+        },
+        "priceWei": "29000000000000000",
+        "transferType": "SINGLE_SALE_OFFER"
+      }
+    ]
+  },
+  {
+    "assetId": "0x04003b80b583ba81b81ef0bc5225bd1e3278b6de823f88ecf8db7d5f71646e6b",
+    "id": "Starkware::MintableERC721Token:0052dc68-3a6f-459a-921e-a7e4347464b4",
+    "slug": "quentin-merlin-2021-limited-263",
+    "owner": {
+      "address": "0x04f2e547dc63be6262ae4b777bbedde0a547fa999d18e60b70d42d35150a0f45",
+      "from": "2022-03-12T14:11:43Z"
+    },
+    "ownershipHistory": [
+      {
+        "address": "0x039fd80715fd3b6f88afce1245ba404e59fe92ed1bb144efbc1c0bc50c82dd35",
+        "blockchain": "STARKWARE",
+        "from": "2022-03-09T08:24:23Z",
+        "priceFiat": {
+          "eur": 0.0
+        },
+        "priceWei": "0",
+        "transferType": "REWARD"
+      },
+      {
+        "address": "0x04f2e547dc63be6262ae4b777bbedde0a547fa999d18e60b70d42d35150a0f45",
+        "blockchain": "STARKWARE",
+        "from": "2022-03-12T14:11:43Z",
+        "priceFiat": {
+          "eur": 149.42151
+        },
+        "priceWei": "63000000000000000",
+        "transferType": "SINGLE_SALE_OFFER"
+      }
+    ]
+  },
+  {
+    "assetId": "0x04001ff1a9077d8c509ca53516bdd2d82febe7521a6df23413470163e41f2470",
+    "id": "Starkware::MintableERC721Token:0052dea5-51e9-46b5-a375-9878f2d441aa",
+    "slug": "nuno-miguel-gomes-dos-santos-2021-limited-99",
+    "owner": {
+      "address": "0x05efd0f9daaf7be70940ba05e1f25fda6aa7dfa414358e1231647cddc1a39eeb",
+      "from": "2022-01-17T20:52:56Z"
+    },
+    "ownershipHistory": [
+      {
+        "address": "0x3e09c3d5202f6b833ad2748bddab53b8a9d5f90a",
+        "blockchain": "STARKWARE",
+        "from": "2021-11-05T17:10:08Z",
+        "priceFiat": {
+          "eur": 0.0
+        },
+        "priceWei": "0",
+        "transferType": "REWARD"
+      },
+      {
+        "address": "0x05afa8c704bf7e0418ccecfbf307eb55c7566070f9b0f27af9d73fc79704c08f",
+        "blockchain": "STARKWARE",
+        "from": "2021-12-29T18:22:53Z",
+        "priceFiat": {
+          "eur": 51.021586
+        },
+        "priceWei": "15400000000000000",
+        "transferType": "SINGLE_SALE_OFFER"
+      },
+      {
+        "address": "0x05efd0f9daaf7be70940ba05e1f25fda6aa7dfa414358e1231647cddc1a39eeb",
+        "blockchain": "STARKWARE",
+        "from": "2022-01-17T20:52:56Z",
+        "priceFiat": {
+          "eur": 128.002398
+        },
+        "priceWei": "45300000000000000",
+        "transferType": "SINGLE_SALE_OFFER"
+      }
+    ]
+  },
+  {
+    "assetId": "0x0400b6be3b0dabb93a188eca5a9989641ff6941be94f540e1c65180a73a0a635",
+    "id": "Starkware::MintableERC721Token:0052e182-7f6d-4cbb-a7f7-cf2b305309db",
+    "slug": "daniel-alejandro-perez-cordova-2021-limited-47",
+    "owner": {
+      "address": "0x279dc677be7e63fce4550e07cc670fd9f1e36b55",
+      "from": "2021-10-03T21:23:25Z"
+    },
+    "ownershipHistory": [
+      {
+        "address": "0xbb17dca3f5f695b015f273c448083d360c957b19",
+        "blockchain": "STARKWARE",
+        "from": "2021-09-16T13:34:26Z",
+        "priceFiat": {
+          "eur": 18.54264
+        },
+        "priceWei": "6000000000000000",
+        "transferType": "ENGLISH_AUCTION"
+      },
+      {
+        "address": "0x279dc677be7e63fce4550e07cc670fd9f1e36b55",
+        "blockchain": "STARKWARE",
+        "from": "2021-10-03T21:23:25Z",
+        "priceFiat": {
+          "eur": 21.831258
+        },
+        "priceWei": "7400000000000000",
+        "transferType": "SINGLE_SALE_OFFER"
+      }
+    ]
+  },
+  {
+    "assetId": "0x040096a7776445f42525f94a03917f0402d0265bf1a457c5a0603b573251051b",
+    "id": "Starkware::MintableERC721Token:0052e1bf-f602-44af-b085-518a74d71a40",
+    "slug": "takashi-usami-2021-limited-120",
+    "owner": {
+      "address": "0xa190f41ffddc633f3943af0cf3bcc4496697aa6e",
+      "from": "2021-10-26T17:06:07Z"
+    },
+    "ownershipHistory": [
+      {
+        "address": "0xa190f41ffddc633f3943af0cf3bcc4496697aa6e",
+        "blockchain": "STARKWARE",
+        "from": "2021-10-26T17:06:07Z",
+        "priceFiat": {
+          "eur": 39.56403
+        },
+        "priceWei": "11000000000000000",
+        "transferType": "ENGLISH_AUCTION"
+      }
+    ]
+  },
+  {
+    "assetId": "0x040049a3816431ce307776fa0c676fedcbe1a3b3e7a2f93d012ca1d2d2158f05",
+    "id": "Starkware::MintableERC721Token:0052e2c4-8362-4172-9b01-14f429a5d48d",
+    "slug": "ross-munro-2021-limited-36",
+    "owner": {
+      "address": "0x018eed9ff1847975babe3e040dc9588367c57010bf970977476d24475952dab7",
+      "from": "2022-04-24T17:43:52Z"
+    },
+    "ownershipHistory": [
+      {
+        "address": "0x012e446e89cdd22af50b0e70b52c056f3c7ce11aea5d2cbe9a249822876ff8bf",
+        "blockchain": "STARKWARE",
+        "from": "2022-04-23T03:01:55Z",
+        "priceFiat": {
+          "eur": 8.500851
+        },
+        "priceWei": "3100000000000000",
+        "transferType": "ENGLISH_AUCTION"
+      },
+      {
+        "address": "0x018eed9ff1847975babe3e040dc9588367c57010bf970977476d24475952dab7",
+        "blockchain": "STARKWARE",
+        "from": "2022-04-24T17:43:52Z",
+        "priceFiat": {
+          "eur": 10.096005
+        },
+        "priceWei": "3700000000000000",
+        "transferType": "SINGLE_SALE_OFFER"
+      }
+    ]
+  },
+  {
+    "assetId": "0x040026dca0887505a977fcd8507efca09800ef68a9dbbf2f41308c6477f520c9",
+    "id": "Starkware::MintableERC721Token:0052e770-d12b-4d5b-918b-6689a8a22447",
+    "slug": "ibrahim-ozturk-2021-rare-44",
+    "owner": {
+      "address": "0x06757dd9320df505635d75e547090bdab91477c8dcd53b03eb327e73546b09c3",
+      "from": "2022-08-20T00:45:53Z"
+    },
+    "ownershipHistory": [
+      {
+        "address": "0x040954ae377e5c6eaf475ed71ff8a7069838db3e895158fadf01fbb7f5d9525a",
+        "blockchain": "STARKWARE",
+        "from": "2022-05-24T09:59:59Z",
+        "priceFiat": {
+          "eur": 0.0
+        },
+        "priceWei": "0",
+        "transferType": "REWARD"
+      },
+      {
+        "address": "0x053f326d275b859dd290b91818c3c388f2c16bbb058d3382294f10a5fde03e67",
+        "blockchain": "STARKWARE",
+        "from": "2022-08-10T16:43:13Z",
+        "priceFiat": {
+          "eur": 2.66964
+        },
+        "priceWei": "1500000000000000",
+        "transferType": "SINGLE_SALE_OFFER"
+      },
+      {
+        "address": "0x06757dd9320df505635d75e547090bdab91477c8dcd53b03eb327e73546b09c3",
+        "blockchain": "STARKWARE",
+        "from": "2022-08-20T00:45:53Z",
+        "priceFiat": {
+          "eur": 2.564992
+        },
+        "priceWei": "1600000000000000",
+        "transferType": "SINGLE_SALE_OFFER"
+      }
+    ]
+  },
+  {
+    "assetId": "0x0400e1c729960f42e0ab307d0ca463867ba229804d2a57e7c54ded0be109b31a",
+    "id": "Starkware::MintableERC721Token:0052e964-767b-4c3c-880e-320ddbf226b0",
+    "slug": "wilker-jose-angel-romero-2021-limited-227",
+    "owner": {
+      "address": "0x0408d3de67f9214fa11f5065ee0d254d3a4d67aa4b8a0a961bd115aa1bfb0cae",
+      "from": "2022-04-27T09:41:45Z"
+    },
+    "ownershipHistory": [
+      {
+        "address": "0x023f8b05faffdafa5326e1ca28aff216964b41ea4551a2881885823deceb2978",
+        "blockchain": "STARKWARE",
+        "from": "2022-04-23T11:10:49Z",
+        "priceFiat": {
+          "eur": 1.097748
+        },
+        "priceWei": "400000000000000",
+        "transferType": "ENGLISH_AUCTION"
+      },
+      {
+        "address": "0x0745fe65eba42ac2beb284e3c3bef98db4e052a03c15055c815bc916ad69892e",
+        "blockchain": "STARKWARE",
+        "from": "2022-04-24T20:44:24Z",
+        "priceFiat": {
+          "eur": 1.095084
+        },
+        "priceWei": "400000000000000",
+        "transferType": "SINGLE_SALE_OFFER"
+      },
+      {
+        "address": "0x04dcbe9c46a06c7d126eeff0a8ed8a28337e54808345f60eb50f7832fb485a1d",
+        "blockchain": "STARKWARE",
+        "from": "2022-04-24T20:57:48Z",
+        "priceFiat": {
+          "eur": 8.21313
+        },
+        "priceWei": "3000000000000000",
+        "transferType": "SINGLE_SALE_OFFER"
+      },
+      {
+        "address": "0x0401556545375f135e56910ec0454c100a91e776f4e4723bc4e55b6cc0987f51",
+        "blockchain": "STARKWARE",
+        "from": "2022-04-25T10:40:46Z",
+        "priceFiat": {
+          "eur": 46.918664
+        },
+        "priceWei": "17800000000000000",
+        "transferType": "SINGLE_SALE_OFFER"
+      },
+      {
+        "address": "0x077ff21088c98d2869a6c1c842829b40840aec75b489e8690f6ed22d3186a177",
+        "blockchain": "STARKWARE",
+        "from": "2022-04-26T07:07:59Z",
+        "priceFiat": {
+          "eur": 0.83967
+        },
+        "priceWei": "300000000000000",
+        "transferType": "SINGLE_SALE_OFFER"
+      },
+      {
+        "address": "0x0730c57a304b536cbc239b7aaa6964d60092454d1f09a146c538c6aeed8d7e07",
+        "blockchain": "STARKWARE",
+        "from": "2022-04-27T09:29:46Z",
+        "priceFiat": {
+          "eur": 1.08928
+        },
+        "priceWei": "400000000000000",
+        "transferType": "SINGLE_SALE_OFFER"
+      },
+      {
+        "address": "0x0408d3de67f9214fa11f5065ee0d254d3a4d67aa4b8a0a961bd115aa1bfb0cae",
+        "blockchain": "STARKWARE",
+        "from": "2022-04-27T09:41:45Z",
+        "priceFiat": {
+          "eur": 17.15616
+        },
+        "priceWei": "6300000000000000",
+        "transferType": "SINGLE_SALE_OFFER"
+      }
+    ]
+  },
+  {
+    "assetId": "0x0400f507d5b2b7e4fea531a5a5e4faae85f2cb7e1c1ae802996c720893b317e6",
+    "id": "Starkware::MintableERC721Token:0052ed24-e7e4-4dbf-807a-d01cb28d58cc",
+    "slug": "samuel-mischitz-2021-rare-17",
+    "owner": {
+      "address": "0x050290259016e6b50985c512638c3f893773594a13d0b7ed9aa4333216cdce50",
+      "from": "2021-11-29T20:51:04Z"
+    },
+    "ownershipHistory": [
+      {
+        "address": "0xd3cba7636f9837081503fa7b9d6aea07e8489f37",
+        "blockchain": "STARKWARE",
+        "from": "2021-10-26T14:46:02Z",
+        "priceFiat": {
+          "eur": 119.09799
+        },
+        "priceWei": "33000000000000000",
+        "transferType": "ENGLISH_AUCTION"
+      },
+      {
+        "address": "0x050290259016e6b50985c512638c3f893773594a13d0b7ed9aa4333216cdce50",
+        "blockchain": "STARKWARE",
+        "from": "2021-11-29T20:51:04Z",
+        "priceFiat": {
+          "eur": 128.48121
+        },
+        "priceWei": "33000000000000000",
+        "transferType": "SINGLE_BUY_OFFER"
+      }
+    ]
+  },
+  {
+    "assetId": "0x0400a22c9931d0f29053bf2442b8e6a657b3dcf934b5ad018716bc916ce79caa",
+    "id": "Starkware::MintableERC721Token:0052f2d3-f804-4018-ac39-8eb22d843937",
+    "slug": "robson-dos-santos-fernandes-2022-limited-20",
+    "owner": {
+      "address": "0x054401b5caa8a8a96f97d37f5285dcdadcac74c62d9d2edc097949e0b9bcb72f",
+      "from": "2022-09-01T01:01:56Z"
+    },
+    "ownershipHistory": [
+      {
+        "address": "0x0212e92b746f73f9522d25ed455b0a955d098be18aa592fb2328c33d815ed058",
+        "blockchain": "STARKWARE",
+        "from": "2022-04-30T17:53:21Z",
+        "priceFiat": {
+          "eur": 5.854046
+        },
+        "priceWei": "2200000000000000",
+        "transferType": "ENGLISH_AUCTION"
+      },
+      {
+        "address": "0x0442aa8455c4688436409744ccb318feb1288f9d4f56a087dca41417a2bf9bbd",
+        "blockchain": "STARKWARE",
+        "from": "2022-05-27T13:18:27Z",
+        "priceFiat": {
+          "eur": 4.563837
+        },
+        "priceWei": "2700000000000000",
+        "transferType": "SINGLE_SALE_OFFER"
+      },
+      {
+        "address": "0x054401b5caa8a8a96f97d37f5285dcdadcac74c62d9d2edc097949e0b9bcb72f",
+        "blockchain": "STARKWARE",
+        "from": "2022-09-01T01:01:56Z",
+        "priceFiat": {
+          "eur": 12.851554
+        },
+        "priceWei": "8300000000000000",
+        "transferType": "SINGLE_SALE_OFFER"
+      }
+    ]
+  },
+  {
+    "assetId": "0x0400a0f3faa9526db567cb7c278e1acad4c0081efabfe621a34602b92418e7fa",
+    "id": "Starkware::MintableERC721Token:0052f908-de82-4983-a57e-a8d8ab24539f",
+    "slug": "ola-williams-kamara-2020-rare-51",
+    "owner": {
+      "address": "0x258bb43491dafc1d0a31564ca60bbf5c8ef3a5c2",
+      "from": "2021-09-16T23:37:15Z"
+    },
+    "ownershipHistory": [
+      {
+        "address": "0x214bDb28ab2a2FEB6584ac09240b6Ee57aD74fe6",
+        "blockchain": "ETHEREUM",
+        "from": "2021-03-23T04:47:07Z",
+        "priceFiat": {
+          "eur": 178.69875
+        },
+        "priceWei": "125000000000000000",
+        "transferType": "ENGLISH_AUCTION"
+      },
+      {
+        "address": "0x53d7EcF004EB771C21238Ba7C5187299901bfe65",
+        "blockchain": "ETHEREUM",
+        "from": "2021-06-27T15:46:19Z",
+        "priceFiat": {
+          "eur": 105.03076
+        },
+        "priceWei": "68000000000000000",
+        "transferType": "SINGLE_SALE_OFFER"
+      },
+      {
+        "address": "0x53d7ecf004eb771c21238ba7c5187299901bfe65",
+        "blockchain": "STARKWARE",
+        "from": "2021-09-16T00:22:05Z",
+        "priceFiat": {
+          "eur": 0.0
+        },
+        "priceWei": "0",
+        "transferType": "MINT"
+      },
+      {
+        "address": "0xe7a55096fc86bcd7ccc41cad2206190747318244",
+        "blockchain": "STARKWARE",
+        "from": "2021-09-16T02:38:30Z",
+        "priceFiat": {
+          "eur": 336.7001
+        },
+        "priceWei": "110000000000000000",
+        "transferType": "SINGLE_SALE_OFFER"
+      },
+      {
+        "address": "0x258bb43491dafc1d0a31564ca60bbf5c8ef3a5c2",
+        "blockchain": "STARKWARE",
+        "from": "2021-09-16T23:37:15Z",
+        "priceFiat": {
+          "eur": 347.6289
+        },
+        "priceWei": "115000000000000000",
+        "transferType": "SINGLE_SALE_OFFER"
+      }
+    ]
+  },
+  {
+    "assetId": "0x0400ceffd4fd0e9f833fbb9bfcd6457ab1ebd71ae26ac3e19f99121f70e488a4",
+    "id": "Starkware::MintableERC721Token:0052fbc4-7c8d-45de-8024-79be023d3ef3",
+    "slug": "andres-lorenzo-rios-2021-limited-86",
+    "owner": {
+      "address": "0x79cee7680b12ce386a87ee45a0b2a43c55f79b37",
+      "from": "2021-10-07T08:18:32Z"
+    },
+    "ownershipHistory": [
+      {
+        "address": "0x79cee7680b12ce386a87ee45a0b2a43c55f79b37",
+        "blockchain": "STARKWARE",
+        "from": "2021-10-07T08:18:32Z",
+        "priceFiat": {
+          "eur": 6.228300000000001
+        },
+        "priceWei": "2000000000000000",
+        "transferType": "ENGLISH_AUCTION"
+      }
+    ]
+  },
+  {
+    "assetId": "0x040089769b3d57c49842ab3d031e959703eeeb9197d9aba9cecf5641cfc77d6a",
+    "id": "Starkware::MintableERC721Token:0052fe66-208b-4578-a74b-247554c55062",
+    "slug": "miguel-berry-2022-limited-85",
+    "owner": {
+      "address": "0x06382d761cb63f6ec941a20346c2e353a8b6ecad6dd6e419fbd4425fbe753cbc",
+      "from": "2022-06-18T23:15:00Z"
+    },
+    "ownershipHistory": [
+      {
+        "address": "0x06382d761cb63f6ec941a20346c2e353a8b6ecad6dd6e419fbd4425fbe753cbc",
+        "blockchain": "STARKWARE",
+        "from": "2022-06-18T23:15:00Z",
+        "priceFiat": {
+          "eur": 12.08
+        },
+        "priceWei": "12800000000000000",
+        "transferType": "ENGLISH_AUCTION"
+      }
+    ]
+  },
+  {
+    "assetId": "0x0400a91af7254e562ea9fe67acb6ab087b37c8621c4895236311b5828172f887",
+    "id": "Starkware::MintableERC721Token:005307e8-8b21-4157-84ac-f373d7cb2acc",
+    "slug": "renato-augusto-santos-junior-2021-limited-285",
+    "owner": {
+      "address": "0x06d3ab66aaac48f6de4270328391b2ce0c9e6d2e18ff120b20ef229199872d65",
+      "from": "2022-03-19T15:33:47Z"
+    },
+    "ownershipHistory": [
+      {
+        "address": "0x06d3ab66aaac48f6de4270328391b2ce0c9e6d2e18ff120b20ef229199872d65",
+        "blockchain": "STARKWARE",
+        "from": "2022-03-19T15:33:47Z",
+        "priceFiat": {
+          "eur": 2.14644
+        },
+        "priceWei": "800000000000000",
+        "transferType": "ENGLISH_AUCTION"
+      }
+    ]
+  },
+  {
+    "assetId": "0x0400d138328f8b7ba5295df5987e0c08d7c66642c6598a2e8f7a60a5fd654cb6",
+    "id": "Starkware::MintableERC721Token:0053083e-5dbb-4897-a71a-9bf13e0d0359",
+    "slug": "alessio-romagnoli-2021-limited-213",
+    "owner": {
+      "address": "0x8a39b532cad4eab0f36e8f268cfbe66736fe9d59e72de02878087fc90ba078",
+      "from": "2022-07-22T16:47:48Z"
+    },
+    "ownershipHistory": [
+      {
+        "address": "0x07705767016f2a0fe2d6b2f11769aae213434e681cf37d8c72c0f32142107b40",
+        "blockchain": "STARKWARE",
+        "from": "2022-02-15T18:01:52Z",
+        "priceFiat": {
+          "eur": 88.49861940000001
+        },
+        "priceWei": "32460000000000000",
+        "transferType": "ENGLISH_AUCTION"
+      },
+      {
+        "address": "0x05b0bd3296eceaf132c35bbe2089698fc1e23cfbe38e423f4db190a8d17b9e22",
+        "blockchain": "STARKWARE",
+        "from": "2022-02-19T21:18:00Z",
+        "priceFiat": {
+          "eur": 60.447024
+        },
+        "priceWei": "24800000000000000",
+        "transferType": "SINGLE_SALE_OFFER"
+      },
+      {
+        "address": "0x05bea7248e801d2c3f0c808ea5e0235283b99a8062917958a2d008f2c0ca9640",
+        "blockchain": "STARKWARE",
+        "from": "2022-02-27T10:01:46Z",
+        "priceFiat": {
+          "eur": 70.84483200000001
+        },
+        "priceWei": "28800000000000000",
+        "transferType": "SINGLE_SALE_OFFER"
+      },
+      {
+        "address": "0x07acc721854ebd6368477e59339042a4748ad0e62cc98c57a669c4dffe8fecc1",
+        "blockchain": "STARKWARE",
+        "from": "2022-06-08T07:46:58Z",
+        "priceFiat": {
+          "eur": 33.776
+        },
+        "priceWei": "20000000000000000",
+        "transferType": "SINGLE_BUY_OFFER"
+      },
+      {
+        "address": "0x8a39b532cad4eab0f36e8f268cfbe66736fe9d59e72de02878087fc90ba078",
+        "blockchain": "STARKWARE",
+        "from": "2022-07-22T16:47:48Z",
+        "priceFiat": {
+          "eur": 39.13301800000001
+        },
+        "priceWei": "25400000000000000",
+        "transferType": "SINGLE_BUY_OFFER"
+      }
+    ]
+  },
+  {
+    "assetId": "0x0400955c03a5926538e1006f1c0b05089e2b62702add8a2d93afef8868e2e2f6",
+    "id": "Starkware::MintableERC721Token:00530cd8-14d8-46d4-bf47-8be0627a04b8",
+    "slug": "ben-gibson-2022-limited-28",
+    "owner": {
+      "address": "0x03bcee2c2adddffcad7c3e57a83141dded77547c469aaad13ffbe27c90ad2f6b",
+      "from": "2022-10-22T13:23:23Z"
+    },
+    "ownershipHistory": [
+      {
+        "address": "0x045324ff1e9e5f8fcf46497cfdc719f263afadeb8790c2ba176f74f8faa30ae3",
+        "blockchain": "STARKWARE",
+        "from": "2022-10-22T10:15:32Z",
+        "priceFiat": {
+          "eur": 1.97763
+        },
+        "priceWei": "1500000000000000",
+        "transferType": "ENGLISH_AUCTION"
+      },
+      {
+        "address": "0x03bcee2c2adddffcad7c3e57a83141dded77547c469aaad13ffbe27c90ad2f6b",
+        "blockchain": "STARKWARE",
+        "from": "2022-10-22T13:23:23Z",
+        "priceFiat": {
+          "eur": 2.517348
+        },
+        "priceWei": "1900000000000000",
+        "transferType": "SINGLE_SALE_OFFER"
+      }
+    ]
+  },
+  {
+    "assetId": "0x04000a695e47a225498518df2e9baf4d63cddbe0a057d76d75c25ff9e25e2e38",
+    "id": "Starkware::MintableERC721Token:00531301-4baf-4290-9e10-ad6e59f05f2e",
+    "slug": "carlos-nieto-herrero-2022-limited-14",
+    "owner": {
+      "address": "0x043e639f0b4594a9a939410da33201bdb8d6b397b5566892bdf5f576e5e8d2e1",
+      "from": "2022-09-24T17:13:52Z"
+    },
+    "ownershipHistory": [
+      {
+        "address": "0x043e639f0b4594a9a939410da33201bdb8d6b397b5566892bdf5f576e5e8d2e1",
+        "blockchain": "STARKWARE",
+        "from": "2022-09-24T17:13:52Z",
+        "priceFiat": {
+          "eur": 1.104056
+        },
+        "priceWei": "800000000000000",
+        "transferType": "ENGLISH_AUCTION"
+      }
+    ]
+  },
+  {
+    "assetId": "0x0400e971b94ef08c31fa9243dd241d67b81df1367747c1130e8c56a0953dfa20",
+    "id": "Starkware::MintableERC721Token:005313e6-ffee-4697-bfe9-ff551a5ecd70",
+    "slug": "carlos-alberto-vela-garrido-2022-limited-92",
+    "owner": {
+      "address": "0xcbcfc6abce43c630262e09d75ef9222c18672fa0770364f30aeb461538acc1",
+      "from": "2022-06-30T04:09:20Z"
+    },
+    "ownershipHistory": [
+      {
+        "address": "0xcbcfc6abce43c630262e09d75ef9222c18672fa0770364f30aeb461538acc1",
+        "blockchain": "STARKWARE",
+        "from": "2022-06-30T04:09:20Z",
+        "priceFiat": {
+          "eur": 105.6045899999999
+        },
+        "priceWei": "101000000000000000",
+        "transferType": "ENGLISH_AUCTION"
+      }
+    ]
+  },
+  {
+    "assetId": "0x0400ea751f9d30a60041def164bda20ef66ae59e153ce4b2321c134faf2e369b",
+    "id": "Starkware::MintableERC721Token:0053163d-f01d-4d37-bf0a-7bdf03ef8d0c",
+    "slug": "jalen-neal-2022-limited-130",
+    "owner": {
+      "address": "0x8b336e5e0b3db28899b9214756f026cf96091b1e17b5bcda4c332502fdb262",
+      "from": "2022-09-12T12:56:20Z"
+    },
+    "ownershipHistory": [
+      {
+        "address": "0x02aa5201c73bfff99c722b4216a67ede44974ca2627454669a0e9dcbefcf2029",
+        "blockchain": "STARKWARE",
+        "from": "2022-08-26T16:15:04Z",
+        "priceFiat": {
+          "eur": 1.753301
+        },
+        "priceWei": "1100000000000000",
+        "transferType": "ENGLISH_AUCTION"
+      },
+      {
+        "address": "0x01951eba50c7045ff06e7bbd996a8fc748ceaee7d3b3a940cbfa919af77250d4",
+        "blockchain": "STARKWARE",
+        "from": "2022-08-29T19:14:42Z",
+        "priceFiat": {
+          "eur": 2.915607
+        },
+        "priceWei": "1900000000000000",
+        "transferType": "SINGLE_SALE_OFFER"
+      },
+      {
+        "address": "0x02aa5201c73bfff99c722b4216a67ede44974ca2627454669a0e9dcbefcf2029",
+        "blockchain": "STARKWARE",
+        "from": "2022-09-07T10:26:33Z",
+        "priceFiat": {
+          "eur": 1.994226
+        },
+        "priceWei": "1300000000000000",
+        "transferType": "SINGLE_SALE_OFFER"
+      },
+      {
+        "address": "0x8b336e5e0b3db28899b9214756f026cf96091b1e17b5bcda4c332502fdb262",
+        "blockchain": "STARKWARE",
+        "from": "2022-09-12T12:56:20Z",
+        "priceFiat": {
+          "eur": 2.414258
+        },
+        "priceWei": "1400000000000000",
+        "transferType": "SINGLE_SALE_OFFER"
+      }
+    ]
+  },
+  {
+    "assetId": "0x0400e733192802e6a65b7fda02233ac015cd1bf8a854699ae64688de4a5b9b76",
+    "id": "Starkware::MintableERC721Token:00531b24-7499-417c-bce4-8a7550af481b",
+    "slug": "ezequiel-barco-2022-limited-300",
+    "owner": {
+      "address": "0x03141038be6332a1ee19d5ce68f9bb2a0c0aebbeaa0605c117981e0c5385a6b8",
+      "from": "2022-11-07T22:58:16Z"
+    },
+    "ownershipHistory": [
+      {
+        "address": "0x03141038be6332a1ee19d5ce68f9bb2a0c0aebbeaa0605c117981e0c5385a6b8",
+        "blockchain": "STARKWARE",
+        "from": "2022-11-07T22:58:16Z",
+        "priceFiat": {
+          "eur": 21.402456
+        },
+        "priceWei": "13600000000000000",
+        "transferType": "ENGLISH_AUCTION"
+      }
+    ]
+  },
+  {
+    "assetId": "0x04002546fb17fe61845bb1b9e32297c7bbe1a61d264ad8927ab3da9e3f54fdd3",
+    "id": "Starkware::MintableERC721Token:00531ffd-ec04-49d5-a1be-e57a2775d5de",
+    "slug": "marco-campagnaro-2022-rare-11",
+    "owner": {
+      "address": "0x07707ab82590ff39083a38ee7517d36c7f9c5b0d8a49f4eccf750ff46ea0ce2e",
+      "from": "2022-07-10T09:02:53Z"
+    },
+    "ownershipHistory": [
+      {
+        "address": "0x04b940c33d60656be115f5c59c0d2ee66f3a0e66da527dd55b81ca66b17e1802",
+        "blockchain": "STARKWARE",
+        "from": "2022-07-10T06:04:37Z",
+        "priceFiat": {
+          "eur": 43.46858600000001
+        },
+        "priceWei": "37100000000000000",
+        "transferType": "ENGLISH_AUCTION"
+      },
+      {
+        "address": "0x07707ab82590ff39083a38ee7517d36c7f9c5b0d8a49f4eccf750ff46ea0ce2e",
+        "blockchain": "STARKWARE",
+        "from": "2022-07-10T09:02:53Z",
+        "priceFiat": {
+          "eur": 47.8265
+        },
+        "priceWei": "41000000000000000",
+        "transferType": "SINGLE_SALE_OFFER"
+      }
+    ]
+  },
+  {
+    "assetId": "0x0400e121f1124ff7b14b3be3c2174ea580412c433555f9d01a89287e20b70d8e",
+    "id": "Starkware::MintableERC721Token:00532110-30dd-401c-9113-754d3a05ae1f",
+    "slug": "kevin-mac-allister-2021-limited-23",
+    "owner": {
+      "address": "0x84d18d12579c1f8f0931e30b60df050560347383",
+      "from": "2021-11-11T21:16:46Z"
+    },
+    "ownershipHistory": [
+      {
+        "address": "0x84d18d12579c1f8f0931e30b60df050560347383",
+        "blockchain": "STARKWARE",
+        "from": "2021-11-11T21:16:46Z",
+        "priceFiat": {
+          "eur": 12.42375
+        },
+        "priceWei": "3000000000000000",
+        "transferType": "ENGLISH_AUCTION"
+      }
+    ]
+  },
+  {
+    "assetId": "0x0400f635d6c8899aa791992eaca76c139fb78d2e7c90280c53ccc5ae5a0dbb31",
+    "id": "Starkware::MintableERC721Token:00532641-001e-4a9a-925c-ca6265511d17",
+    "slug": "sebbe-augustijns-2021-limited-130",
+    "owner": {
+      "address": "0xb0857ab943a8895d7395d945e88f93eef2a9fe84",
+      "from": "2021-11-02T09:58:47Z"
+    },
+    "ownershipHistory": [
+      {
+        "address": "0xb0857ab943a8895d7395d945e88f93eef2a9fe84",
+        "blockchain": "STARKWARE",
+        "from": "2021-11-02T09:58:47Z",
+        "priceFiat": {
+          "eur": 3.76263
+        },
+        "priceWei": "1000000000000000",
+        "transferType": "ENGLISH_AUCTION"
+      }
+    ]
+  },
+  {
+    "assetId": "0x04008dda8628a0d3fe6bae783c7e607368caab5fd223f415dd480c97fbcd7faf",
+    "id": "Starkware::MintableERC721Token:00532663-2806-4ab7-a401-1f3354f84d65",
+    "slug": "ryo-takano-2022-limited-237",
+    "owner": {
+      "address": "0xefd2d200f205317697d3184f50ff23751fd3780ffada825d01761294cb5e3c",
+      "from": "2022-09-24T15:05:41Z"
+    },
+    "ownershipHistory": [
+      {
+        "address": "0x9af354adbedf8263c97fcf916552ccfecb7392fe9ca2fd87a10e9403ff30a6",
+        "blockchain": "STARKWARE",
+        "from": "2022-09-24T08:49:16Z",
+        "priceFiat": {
+          "eur": 0.545512
+        },
+        "priceWei": "400000000000000",
+        "transferType": "ENGLISH_AUCTION"
+      },
+      {
+        "address": "0xefd2d200f205317697d3184f50ff23751fd3780ffada825d01761294cb5e3c",
+        "blockchain": "STARKWARE",
+        "from": "2022-09-24T15:05:41Z",
+        "priceFiat": {
+          "eur": 0.6922100000000001
+        },
+        "priceWei": "500000000000000",
+        "transferType": "SINGLE_SALE_OFFER"
+      }
+    ]
+  },
+  {
+    "assetId": "0x04006cad2e502a725181d599577f4e90c5537df871cb2326978271dc1224b7b7",
+    "id": "Starkware::MintableERC721Token:005327ef-8d91-420c-a36e-5ea08b5ff91b",
+    "slug": "idekel-alberto-dominguez-rodriguez-2021-limited-139",
+    "owner": {
+      "address": "0x019de814635235433991e63cbfec5cbddf0081ecf351dbba7e433e3231fbe038",
+      "from": "2022-06-14T22:56:00Z"
+    },
+    "ownershipHistory": [
+      {
+        "address": "0x019de814635235433991e63cbfec5cbddf0081ecf351dbba7e433e3231fbe038",
+        "blockchain": "STARKWARE",
+        "from": "2022-06-14T22:56:00Z",
+        "priceFiat": {
+          "eur": 3.702864
+        },
+        "priceWei": "3300000000000000",
+        "transferType": "ENGLISH_AUCTION"
+      }
+    ]
+  },
+  {
+    "assetId": "0x040064c50c229fac628b785569c268b9c5578a370141b15adce33e99b33e2227",
+    "id": "Starkware::MintableERC721Token:00532807-b7f6-49b8-8acd-26985803a1f4",
+    "slug": "lisandro-semedo-2021-limited-139",
+    "owner": {
+      "address": "0x04d9e427d1c317940ff4ed003ed67f106a8ec1c6cdd983d6b6ed62b16f99f462",
+      "from": "2022-09-03T19:10:37Z"
+    },
+    "ownershipHistory": [
+      {
+        "address": "0x0c1749a693e40dc44d9d1760168688f45492264e396ca2adae8d42de04062e",
+        "blockchain": "STARKWARE",
+        "from": "2022-03-16T04:52:47Z",
+        "priceFiat": {
+          "eur": 7.413774000000001
+        },
+        "priceWei": "3100000000000000",
+        "transferType": "ENGLISH_AUCTION"
+      },
+      {
+        "address": "0x0abbae600120c7727258a88e07f147f6eafd625d3cceb08c7718dd23af2a9b",
+        "blockchain": "STARKWARE",
+        "from": "2022-03-24T14:31:26Z",
+        "priceFiat": {
+          "eur": 9.111762
+        },
+        "priceWei": "3300000000000000",
+        "transferType": "SINGLE_SALE_OFFER"
+      },
+      {
+        "address": "0x01db31da5a0a96c57a630ffe636c4bec003f8c1c1ffbb1ed72c7d3956f0f51e8",
+        "blockchain": "STARKWARE",
+        "from": "2022-08-24T20:36:50Z",
+        "priceFiat": {
+          "eur": 0.0
+        },
+        "priceWei": "0",
+        "transferType": "DIRECT_OFFER"
+      },
+      {
+        "address": "0x04d9e427d1c317940ff4ed003ed67f106a8ec1c6cdd983d6b6ed62b16f99f462",
+        "blockchain": "STARKWARE",
+        "from": "2022-09-03T19:10:37Z",
+        "priceFiat": {
+          "eur": 0.0
+        },
+        "priceWei": "0",
+        "transferType": "DIRECT_OFFER"
+      }
+    ]
+  },
+  {
+    "assetId": "0x04001bcd34afc522f9ea1f2f2a081c0cc1c0ce7b31852d27b1f99ec2ef06589d",
+    "id": "Starkware::MintableERC721Token:00533409-f085-408d-9b53-b4110496cf32",
+    "slug": "dario-spikic-2021-super_rare-2",
+    "owner": {
+      "address": "0x02c0a8e68bcc8863b46408007298e33d80ff793b70f9793ebddcd5d03200f3a2",
+      "from": "2022-09-21T11:19:23Z"
+    },
+    "ownershipHistory": [
+      {
+        "address": "0x0108dfe49ddd793d47ec9cf91e62d205fd6d81d496f596e635c95f759cefec00",
+        "blockchain": "STARKWARE",
+        "from": "2022-08-02T09:59:59Z",
+        "priceFiat": {
+          "eur": 0.0
+        },
+        "priceWei": "0",
+        "transferType": "REWARD"
+      },
+      {
+        "address": "0x02c0a8e68bcc8863b46408007298e33d80ff793b70f9793ebddcd5d03200f3a2",
+        "blockchain": "STARKWARE",
+        "from": "2022-09-21T11:19:23Z",
+        "priceFiat": {
+          "eur": 746.3995
+        },
+        "priceWei": "550000000000000000",
+        "transferType": "SINGLE_SALE_OFFER"
+      }
+    ]
+  },
+  {
+    "assetId": "0x040064522cfc141c551589c15d5163846abde5bd57b8bb656ab116f859599ef6",
+    "id": "Starkware::MintableERC721Token:00533abd-9a86-45d4-8dbb-928a5ddc95d9",
+    "slug": "naoya-seita-2022-limited-180",
+    "owner": {
+      "address": "0x02aa5201c73bfff99c722b4216a67ede44974ca2627454669a0e9dcbefcf2029",
+      "from": "2022-08-17T17:32:00Z"
+    },
+    "ownershipHistory": [
+      {
+        "address": "0x02aa5201c73bfff99c722b4216a67ede44974ca2627454669a0e9dcbefcf2029",
+        "blockchain": "STARKWARE",
+        "from": "2022-08-17T17:32:00Z",
+        "priceFiat": {
+          "eur": 0.7243880000000001
+        },
+        "priceWei": "400000000000000",
+        "transferType": "ENGLISH_AUCTION"
+      }
+    ]
+  },
+  {
+    "assetId": "0x040074315d3af3acebb8f95ea519f5c3ac819e2410d0230a3fcb15b484be0662",
+    "id": "Starkware::MintableERC721Token:00534282-dd15-41d3-892c-5067f5635b5c",
+    "slug": "chukwunonso-madueke-2021-limited-3",
+    "owner": {
+      "address": "0x070e82a61baadec212fe39ff9115a947d71af9410aac9e79bee91880460b0ead",
+      "from": "2022-10-20T11:55:58Z"
+    },
+    "ownershipHistory": [
+      {
+        "address": "0x73a9d36e6a700ea902fa1d0a2b2003abea776af3",
+        "blockchain": "STARKWARE",
+        "from": "2021-08-26T14:16:42Z",
+        "priceFiat": {
+          "eur": 290.79456
+        },
+        "priceWei": "109000000000000000",
+        "transferType": "ENGLISH_AUCTION"
+      },
+      {
+        "address": "0x07dd44ed5905712e0565709d6ee7fa9199ec74764cb1d7175e6556c64447cb28",
+        "blockchain": "STARKWARE",
+        "from": "2022-02-08T22:59:55Z",
+        "priceFiat": {
+          "eur": 355.238
+        },
+        "priceWei": "130000000000000000",
+        "transferType": "SINGLE_SALE_OFFER"
+      },
+      {
+        "address": "0x0372dc394200df373bd72fb742cf825bf4ba58fb83227ec8953db453dd91446f",
+        "blockchain": "STARKWARE",
+        "from": "2022-08-17T10:17:52Z",
+        "priceFiat": {
+          "eur": 0.0
+        },
+        "priceWei": "0",
+        "transferType": "DIRECT_OFFER"
+      },
+      {
+        "address": "0x064b75a27792436e143f7113897bb05ab6328cfb238ba1c9022db27d56432460",
+        "blockchain": "STARKWARE",
+        "from": "2022-08-23T08:13:34Z",
+        "priceFiat": {
+          "eur": 0.0
+        },
+        "priceWei": "0",
+        "transferType": "DIRECT_OFFER"
+      },
+      {
+        "address": "0x0309de02d7aa24f47dde29752777cd454fc479a5bf86f4f7996c4a585b9c405f",
+        "blockchain": "STARKWARE",
+        "from": "2022-10-01T13:08:41Z",
+        "priceFiat": {
+          "eur": 0.0
+        },
+        "priceWei": "0",
+        "transferType": "DIRECT_OFFER"
+      },
+      {
+        "address": "0x070e82a61baadec212fe39ff9115a947d71af9410aac9e79bee91880460b0ead",
+        "blockchain": "STARKWARE",
+        "from": "2022-10-20T11:55:58Z",
+        "priceFiat": {
+          "eur": 124.368672
+        },
+        "priceWei": "93900000000000000",
+        "transferType": "SINGLE_BUY_OFFER"
+      }
+    ]
+  },
+  {
+    "assetId": "0x0400fde20414b106b511b0b9f45b3b78e14312bd3aff73f275896d0fe0002b45",
+    "id": "Starkware::MintableERC721Token:0053454f-1353-45de-8bb8-a4c2f9934c75",
+    "slug": "moussa-sissoko-2022-rare-24",
+    "owner": null,
+    "ownershipHistory": []
+  },
+  {
+    "assetId": "0x0400d085a8ec01ef3cf0402b698a2ed57542840b419186265804fb1281eb64bd",
+    "id": "Starkware::MintableERC721Token:005346e7-bb20-42f7-9ef9-9386b1a76814",
+    "slug": "ten-miyagi-2021-limited-166",
+    "owner": {
+      "address": "0x038e07a8a11eff6063a32659d42b7763e611b56c9b1bdc0104b529a5ab54875e",
+      "from": "2022-11-15T13:34:49Z"
+    },
+    "ownershipHistory": [
+      {
+        "address": "0x02464e4388c70c4babc456f1349972c9e99f0648634dc5b6c2b4f1c5833719c0",
+        "blockchain": "STARKWARE",
+        "from": "2021-11-30T20:53:46Z",
+        "priceFiat": {
+          "eur": 16.483
+        },
+        "priceWei": "4000000000000000",
+        "transferType": "ENGLISH_AUCTION"
+      },
+      {
+        "address": "0x05238bcae107d073fda181658c18fc7b35ab40a7f9eff22a400737f9b909d373",
+        "blockchain": "STARKWARE",
+        "from": "2021-12-30T13:45:56Z",
+        "priceFiat": {
+          "eur": 11.54265
+        },
+        "priceWei": "3500000000000000",
+        "transferType": "SINGLE_BUY_OFFER"
+      },
+      {
+        "address": "0x0205573cf62c7a8cf2af98d7dda8b983feb9f5f4cca3f1da53bc2d272207aa0b",
+        "blockchain": "STARKWARE",
+        "from": "2022-11-15T08:58:45Z",
+        "priceFiat": {
+          "eur": 0.0
+        },
+        "priceWei": "0",
+        "transferType": "DIRECT_OFFER"
+      },
+      {
+        "address": "0x038e07a8a11eff6063a32659d42b7763e611b56c9b1bdc0104b529a5ab54875e",
+        "blockchain": "STARKWARE",
+        "from": "2022-11-15T13:34:49Z",
+        "priceFiat": {
+          "eur": 3.769940999999999
+        },
+        "priceWei": "3100000000000000",
+        "transferType": "SINGLE_SALE_OFFER"
+      }
+    ]
+  },
+  {
+    "assetId": "0x0400ffb1620974018552592219b4f1af842d807485c2896cc0783df68758593b",
+    "id": "Starkware::MintableERC721Token:00534b60-56c7-4ac6-982b-da37ee3c1a45",
+    "slug": "samuel-bastien-2021-limited-198",
+    "owner": {
+      "address": "0x05be0ee2d91015bc04fe39871f89a46f8f683ec9ab16ac12e50f795698f9b38e",
+      "from": "2022-08-16T16:37:09Z"
+    },
+    "ownershipHistory": [
+      {
+        "address": "0x07b11259692e4f86fa8aaf7ced242c0c62e7c4b6981f821b59170a0465835e06",
+        "blockchain": "STARKWARE",
+        "from": "2021-12-14T16:25:41Z",
+        "priceFiat": {
+          "eur": 0.0
+        },
+        "priceWei": "0",
+        "transferType": "REWARD"
+      },
+      {
+        "address": "0x05be0ee2d91015bc04fe39871f89a46f8f683ec9ab16ac12e50f795698f9b38e",
+        "blockchain": "STARKWARE",
+        "from": "2022-08-16T16:37:09Z",
+        "priceFiat": {
+          "eur": 5.382226000000001
+        },
+        "priceWei": "2900000000000000",
+        "transferType": "SINGLE_BUY_OFFER"
+      }
+    ]
+  },
+  {
+    "assetId": "0x0400d706f1c62a6b8afd3116897a1298315e27c40a0ab7e9eed7c9095c4ef9aa",
+    "id": "Starkware::MintableERC721Token:00535247-9d09-47e7-9e58-e9ad6fd3e989",
+    "slug": "iru-gyu-park-2022-rare-44",
+    "owner": {
+      "address": "0x067e4972e2fa5b5318247187bd17d8bda7dc8d44b2795f8796fa9f26a1196a02",
+      "from": "2022-08-30T09:59:59Z"
+    },
+    "ownershipHistory": [
+      {
+        "address": "0x067e4972e2fa5b5318247187bd17d8bda7dc8d44b2795f8796fa9f26a1196a02",
+        "blockchain": "STARKWARE",
+        "from": "2022-08-30T09:59:59Z",
+        "priceFiat": {
+          "eur": 0.0
+        },
+        "priceWei": "0",
+        "transferType": "REWARD"
+      }
+    ]
+  },
+  {
+    "assetId": "0x0400a5812fb6611adc392cc9b3f55e615af4f3856a9b67aa7e479704a3d0c3a4",
+    "id": "Starkware::MintableERC721Token:005354e7-7661-4bf5-9c23-c8fcc65f83de",
+    "slug": "christopher-mueller-2021-limited-108",
+    "owner": {
+      "address": "0x80f1c51f4d1496ad5e294d51aaa0ed503a89262c",
+      "from": "2021-10-22T21:41:49Z"
+    },
+    "ownershipHistory": [
+      {
+        "address": "0x80f1c51f4d1496ad5e294d51aaa0ed503a89262c",
+        "blockchain": "STARKWARE",
+        "from": "2021-10-22T21:41:49Z",
+        "priceFiat": {
+          "eur": 20.5086
+        },
+        "priceWei": "6000000000000000",
+        "transferType": "ENGLISH_AUCTION"
+      }
+    ]
+  },
+  {
+    "assetId": "0x04000e4918807d3a26e8411e85c1dbb7523e5b8023f5a234d16646f91bcdfd3c",
+    "id": "Starkware::MintableERC721Token:00535535-967f-4f70-9f3b-a7981a7998e7",
+    "slug": "mario-gotze-2021-rare-70",
+    "owner": {
+      "address": "0x04981d7407c460c33513fd37cfe69d94c219c794daadfa1be0cf98bc14c44410",
+      "from": "2022-05-10T20:59:50Z"
+    },
+    "ownershipHistory": [
+      {
+        "address": "0x010244e7d5fdac55525de2ef19500c90c51ae71d86e90571a9dfab7e4be2ea01",
+        "blockchain": "STARKWARE",
+        "from": "2022-05-10T17:34:29Z",
+        "priceFiat": {
+          "eur": 0.0
+        },
+        "priceWei": "0",
+        "transferType": "REWARD"
+      },
+      {
+        "address": "0x04981d7407c460c33513fd37cfe69d94c219c794daadfa1be0cf98bc14c44410",
+        "blockchain": "STARKWARE",
+        "from": "2022-05-10T20:59:50Z",
+        "priceFiat": {
+          "eur": 655.47909
+        },
+        "priceWei": "293000000000000000",
+        "transferType": "SINGLE_BUY_OFFER"
+      }
+    ]
+  },
+  {
+    "assetId": "0x0400ef01a1f749b0780e77491713577908ca3a37132baf73b7f3e7f8ebeea91e",
+    "id": "Starkware::MintableERC721Token:00535aaa-b750-4bdb-bbd9-e62725fa1721",
+    "slug": "daniel-zagorac-2021-limited-205",
+    "owner": {
+      "address": "0x131762a621fadb2086b3ccaef6f67843459b5d0cce6ce227d88b5e734e4d3e",
+      "from": "2022-08-11T09:38:40Z"
+    },
+    "ownershipHistory": [
+      {
+        "address": "0x131762a621fadb2086b3ccaef6f67843459b5d0cce6ce227d88b5e734e4d3e",
+        "blockchain": "STARKWARE",
+        "from": "2022-08-11T09:38:40Z",
+        "priceFiat": {
+          "eur": 4.57355
+        },
+        "priceWei": "2500000000000000",
+        "transferType": "ENGLISH_AUCTION"
+      }
+    ]
+  },
+  {
+    "assetId": "0x04009c7dc967646acf8eef2ad4bcc61cb2dfd02122132b7a952a9459386c7930",
+    "id": "Starkware::MintableERC721Token:00535fcb-f8ce-464b-881c-50cf1a783588",
+    "slug": "oscar-rodriguez-arnaiz-2022-limited-42",
+    "owner": {
+      "address": "0x01f0ee267d5aa63f7e4e3c4885ffe12cd826dc8942cdd6db752251b611135422",
+      "from": "2022-10-19T17:44:00Z"
+    },
+    "ownershipHistory": [
+      {
+        "address": "0x079dcb1b05c83e94ef335ad05b99907240bd9af79334c5201017781b02ba4e41",
+        "blockchain": "STARKWARE",
+        "from": "2022-10-07T09:20:42Z",
+        "priceFiat": {
+          "eur": 6.9165
+        },
+        "priceWei": "5000000000000000",
+        "transferType": "ENGLISH_AUCTION"
+      },
+      {
+        "address": "0x01f0ee267d5aa63f7e4e3c4885ffe12cd826dc8942cdd6db752251b611135422",
+        "blockchain": "STARKWARE",
+        "from": "2022-10-19T17:44:00Z",
+        "priceFiat": {
+          "eur": 8.104826000000001
+        },
+        "priceWei": "6100000000000000",
+        "transferType": "SINGLE_SALE_OFFER"
+      }
+    ]
+  },
+  {
+    "assetId": "0x0400adc2ff30b5543de4f2f3725cb0edf1b07b6d23e91170437de9babf4e19ef",
+    "id": "Starkware::MintableERC721Token:0053611e-8031-4933-b076-e9d4d66b5baa",
+    "slug": "matthew-kennedy-2021-limited-143",
+    "owner": {
+      "address": "0x01967b468bd1b6097891a9e90f62c47953bea00e48fd054fff60f1afd37438b6",
+      "from": "2022-06-26T18:38:17Z"
+    },
+    "ownershipHistory": [
+      {
+        "address": "0x0b367d85396a3bb0f0a790cae7f699aa411fa9f032bf202513301b9d9d74d8",
+        "blockchain": "STARKWARE",
+        "from": "2022-06-21T08:23:15Z",
+        "priceFiat": {
+          "eur": 0.8698480000000001
+        },
+        "priceWei": "800000000000000",
+        "transferType": "ENGLISH_AUCTION"
+      },
+      {
+        "address": "0x043946a1db56df142ce12a4b86a92cf0cab77fbd2d5a52fd690ee020cecb4186",
+        "blockchain": "STARKWARE",
+        "from": "2022-06-25T19:07:22Z",
+        "priceFiat": {
+          "eur": 0.9189360000000002
+        },
+        "priceWei": "800000000000000",
+        "transferType": "SINGLE_SALE_OFFER"
+      },
+      {
+        "address": "0x01967b468bd1b6097891a9e90f62c47953bea00e48fd054fff60f1afd37438b6",
+        "blockchain": "STARKWARE",
+        "from": "2022-06-26T18:38:17Z",
+        "priceFiat": {
+          "eur": 0.9281440000000001
+        },
+        "priceWei": "800000000000000",
+        "transferType": "SINGLE_SALE_OFFER"
+      }
+    ]
+  },
+  {
+    "assetId": "0x0400de59b35bc23eaac34e3d55a374bc42a069acf39bf0ca0250802c1c93b3ba",
+    "id": "Starkware::MintableERC721Token:005361db-a8e6-4e41-b602-48b5e55b7991",
+    "slug": "mickael-ange-nanizayamo-2021-limited-127",
+    "owner": {
+      "address": "0x03b023003687023be0844edcddb00a0a3549b78c7b0f75dc91eaae1a318d887b",
+      "from": "2022-06-18T23:11:20Z"
+    },
+    "ownershipHistory": [
+      {
+        "address": "0x03b023003687023be0844edcddb00a0a3549b78c7b0f75dc91eaae1a318d887b",
+        "blockchain": "STARKWARE",
+        "from": "2022-06-18T23:11:20Z",
+        "priceFiat": {
+          "eur": 0.94375
+        },
+        "priceWei": "1000000000000000",
+        "transferType": "ENGLISH_AUCTION"
+      }
+    ]
+  }
+]
